@@ -80,9 +80,6 @@ public class FeatureExtractor {
 	// Sets label type to 'target' or 'target+sentiment' for the pos-neg-neut model
 	public void SetLabelType(String label_type) {
 		this.label_type = label_type;
-		/*if (this.label_type.equals("sentiment")) {
-			exclude_undetermined = true;
-		}*/
 	}
 	
 	public void SetIncludeLabels(boolean include_labels){
@@ -103,14 +100,6 @@ public class FeatureExtractor {
 
 	public void SetLexiconProcessor (LexiconProcessor lp) {
 		this.lp = lp;
-		//if (this.binary_feature_types.contains("Sentiment") 
-		//		|| this.binary_feature_types.contains("Dependency")) {
-			/*System.out.println("Reading sentiment lexicons \n");
-			lp.ReadSlsa(lp.lexicon_files.get("Slsa"));
-			lp.ReadArsenl(lp.lexicon_files.get("Arsenl"));
-			lp.ReadSifaat(lp.lexicon_files.get("Sifaat"));
-			lp.ReadMPQA(lp.lexicon_files.get("MPQA"));*/
-		//}
 	}
 	
 	public void SetDependencyProcessor (DependencyProcessor dp) {
@@ -176,14 +165,9 @@ public class FeatureExtractor {
 	public void SetWordClusters(String file) {
 		if (this.binary_feature_types.contains("WordClusters")
 				|| this.binary_feature_types.contains("WordClustersEnglish")) {
-			//System.out.println("Setting pickle loader");
-			//LoadPickle pickle_loader = new LoadPickle();
-			//word_clusters = pickle_loader.getWordToClusterFileStream(file);
-			//word_clusters = pickle_loader.getWordToClusterFileString(file);
 			word_clusters = getSimpleWordToCluster(file);
 		} 
 	}
-	// public void SetWordClustersFromW2VecOutput
 	
 	public void SetInput(List<Comment> comments) {
 		input_comments = comments;
@@ -289,8 +273,6 @@ public class FeatureExtractor {
 	}
 		
 	// Includes lexical, dict, morphological, semantic or any binary features
-	// Put features in outer loop instead? (less if statements). 
-	// Then we have to save the token features per token (e.g hash)
 	List<List<String>> ExtractBinaryFeatures (Comment c) {
 		List<List<String>> bin_features = new ArrayList<List<String>>();
 		Set<String> top_wordprobs = new HashSet<String>();
@@ -362,8 +344,6 @@ public class FeatureExtractor {
 						UpdateNonTargetStatistics(t, relation,non_target_feature_statistics);
 						UpdateTargetStatistics(t,child_parent_tree, target_feature_statistics);
 						UpdateNonTargetStatistics(t,child_parent_tree,non_target_feature_statistics);
-						// not updating feature statistics for Al+ for the moment
-						// also update for sentiment trees
 						
 						// ROOT FEATURES
 						String distance_from_root = dp.numHopsFromRoot(node, tree).toString();
@@ -414,7 +394,6 @@ public class FeatureExtractor {
 							} 
 							parent_sent = "PARENT_SENT_" + sent;
 						}  else {
-							//parent_sent = "PARENT_SENT_0";
 							parent_sent = "PARENT_SENT_na";
 						}
 						bin_features.get(i).add(parent_sent);
@@ -423,12 +402,10 @@ public class FeatureExtractor {
 						}
 						// sentiment trees and max sent
 						if (label_type.equals("sentiment") || label_type.equals("target+sentiment")) {
-							// changed c.tokens to no_Al
 						    sentiment_tree = dp.PolarityTree(node, tree, no_Al, lp);
 							ancestor_sentiment_tree = 
 									dp.PolarityTree(ancestor_node, tree, no_Al, lp);
 							max_sent = dp.MaxPolarityInTree(node, tree, no_Al, lp);
-							// add also max_subj
 							max_subj = dp.MaxSubjectivityInTree(node, tree, no_Al, lp);
 						} else {
 							sentiment_tree = dp.SubjectivityTree(node, tree, no_Al, lp);
@@ -463,8 +440,6 @@ public class FeatureExtractor {
 					}	
 				}
 			}
-			// Sentiment features don't help target extraction, so use them only
-			// in the sentiment model and collapsed model
 			else if (feature.equals("Sentiment") 
 					//&& (label_type.equals("sentiment") || label_type.equals("target+sentiment"))
 					) {
@@ -482,37 +457,13 @@ public class FeatureExtractor {
 					if (label_type.equals("sentiment") || label_type.equals("target+sentiment")) {
 						bin_features.get(i).add(polfeat);
 					}
-					
-					
-					//sentfeat += Sentiment.GetSubjectivitySifaatMPQA(t, lp);
-					//polfeat += Sentiment.GetPolaritySifaatMPQA(t, lp);
-					
-					//sentfeat += Sentiment.GetBinarySentimentSifaat(t, lp);
-					//polfeat += Sentiment.GetSentimentSifaat(t,lp);
-					
-					/*if (label_type.equals("sentiment") || label_type.equals("target+sentiment")) {
-						sentfeat += Sentiment.GetPolarityMPQA(t, lp);
-						// can also add subjectivity here, may be useful
-					} else {
-						sentfeat += Sentiment.GetSubjectivityMPQA(t, lp);
-					}*/
-					//sentfeat += Sentiment.GetSentimentSifaat(t, lp).toString();
-					//sentfeat = Sentiment.GetBinarySentimentSifaat(t, lp).toString();
-					//sentfeat = Sentiment.GetTokenHighLowSentimentFeatures(t, lp, 0.3);
-					//bin_features.get(i).add(sentfeat);
-					//qbin_features.get(i).add(polfeat);
-					/*if (label_type.equals("sentiment") || label_type.equals("target+sentiment")) {
-						polfeat += Sentiment.GetPolaritySifaatMPQA(t, lp);
-						bin_features.get(i).add(polfeat);
-					}*/
 				}
 			}
 			else if (feature.equals("Salience") 
 				//	&& 
 					//(label_type.equals("target") || label_type.equals("target+sentiment"))
 					) {
-			     // can remove target restriction when running collapsed model
-				// target+sentiment?
+
 				for (int i=0; i<c.tokens_.size(); i++) {
 					Token t=c.tokens_.get(i);
 					String lemma = WordRepresentationIncludeClitics(t);
@@ -537,34 +488,21 @@ public class FeatureExtractor {
 				}
 			}
 			else if (feature.equals("Coreference")) {
-				//List<String[]> tree = c.dependency_tree;
-				//int node = 0;
-				// Prepare tokens without Al+
-				/*List<Token> tokens_without_Al = new ArrayList<Token>();
-				for (int i=0; i<c.tokens_.size();i++) {
-					Token test = c.tokens_.get(i);
-					if (!test.text_.equals("Al+")) {
-						tokens_without_Al.add(test);
-					}
-				}*/
+			
 				// Get the pronominal mention features
 				for (int i=0; i<c.tokens_.size(); i++) {
 					Token t = c.tokens_.get(i);
 					if (t.text_.equals("Al+")) {
 						continue;
 					}
-					//node +=1;
+	
 					if (t.has_subsequent_pronominal_mention) {
 						bin_features.get(i).add("HAS_PRON_MENT_1");
 						/*
 						 * Get the syntactic role in which the pronoun appears */
 						Token pronoun_mention = t.pronominal_mention;
-						//int dependency_index = tokens_without_Al.indexOf(pronoun_mention);
-						//String syntactic_position = tree.get(dependency_index)[5];
-						//bin_features.get(i).add("HAS_PRON_MENT_" + syntactic_position);*/
 						if (i>=1 && c.tokens_.get(i-1).text_.equals("Al+")) {
 							bin_features.get(i-1).add("HAS_PRON_MENT_1");   
-							//bin_features.get(i-1).add("HAS_PRON_MENT_" + syntactic_position);
 						}	
 						
 					} else {
@@ -574,19 +512,6 @@ public class FeatureExtractor {
 						}
 					}
 					
-				/*	if (t.corefers_with_target) {
-						bin_features.get(i).add("COREFERS_TARG_1");
-						if (i>=1 && c.tokens_.get(i-1).text_.equals("Al+")) {
-							bin_features.get(i-1).add("COREFERS_TARG_1");   
-							//bin_features.get(i-1).add("HAS_PRON_MENT_" + syntactic_position);
-						} 
-					} else {
-							bin_features.get(i).add("COREFERS_TARG_0");
-							if (i>=1 && c.tokens_.get(i-1).text_.equals("Al+")) {
-								bin_features.get(i-1).add("COREFERS_TARG_0");   
-								//bin_features.get(i-1).add("HAS_PRON_MENT_" + syntactic_position);
-							}
-					}*/
 				} // end loop
 			}
 			/*else if (feature.equals("Topic") 
@@ -661,23 +586,13 @@ public class FeatureExtractor {
 				}
 			}
 			// Word clusters e
-			else if (feature.equals("WordClusters")
-				//	&& label_type.equals("sentiment")
-				//	|| label_type.equals("target+sentiment")
-					) {
+			else if (feature.equals("WordClusters")) {
 				for (int i=0; i<c.tokens_.size(); i++) {
 					Token t= c.tokens_.get(i);
 					// First check text
-					if (this.word_clusters.containsKey(t.text_)
-							//&& !(t.clitic.equals("suf") || t.clitic.equals("pref"))
-							) {
+					if (this.word_clusters.containsKey(t.text_)) {
 						bin_features.get(i).add("CLUSTER_"+this.word_clusters.get(t.text_));
 					} 
-					// For clitics, put the same cluster as the surface word
-					/*else if (t.morph_features.containsKey("WORD") 
-							&& this.word_clusters.containsKey(t.morph_features.get("WORD"))) {
-						bin_features.get(i).add("CLUSTER_"+this.word_clusters.get(t.morph_features.get("WORD")));
-					}*/
 					// Next check lemma. Tokenized morphemes will get same cluster as their lemma
 					else if (t.morph_features.containsKey("lex")
 							&& this.word_clusters.containsKey(t.morph_features.get("lex"))) {
@@ -706,8 +621,6 @@ public class FeatureExtractor {
 					}
 				}
 			}
-			
-				 
 				// Cluster Trees NOT HELPFUL, DETRIMENTAL
 			/*	List<String[]> tree = c.dependency_tree;
 				int node = 0;
@@ -762,19 +675,7 @@ public class FeatureExtractor {
 							bin_features.get(i-1).add(child_parent_tree);
 						}*/
 			}
-			
-			/* else if (features.equals("coref"))
-			 * else if (features.equals("COREF_CANDIDATE")) {
-			 *  
-			 * Can only be done for sentiment model
-			 * whether token matches in lemma, gender, number, and person to a target
-			 * whether token matches in gender, number, and person to a target
-			 * the target and also the sentiment of the potential candidate? (propagating the sentiment)
-			 * 
-			 * }
-			 * 
-			 */
-			
+
 		return bin_features;		
 	}
 	
@@ -786,41 +687,21 @@ public class FeatureExtractor {
 	
 	// Extracts token labels for target tagging (T, O)
 	List<String> ExtractTokenTargetLabels (Comment c) {
-		//System.out.println("Extracting token target labels");
 		List<String> labels = new ArrayList<String>();
 		for (Token t: c.tokens_) {
 			if (t.target_offset_ == -1) {
-				//System.out.println("Token:"+t.text_);
-				//System.out.println("Offset is -1");
 				labels.add("O");
 			} 
 			else if (t.target_offset_ >= 0) {
-				/*if (!pipeline_model && exclude_undetermined && t.sentiment_.equals("undetermined")) {
-					labels.add("O");
-				} */
-				// IF pipeline model, sentiment will be null
 				if (!pipeline_model && exclude_undetermined && t.sentiment_.equals("undetermined")) {
-					//System.out.println("Token:"+t.text_);
-					//System.out.println("Offset:"+t.target_offset_);
-					//System.out.println("Offset is >=0, sentiment is undetermined");
 				    labels.add("O");
 				} 
-				// can also add O if sentiment+target model
-				// and we are in training for sentiment (so we exclude undetermined)
-				// so this can be true even if include undetermined
 				else if (!pipeline_model && 
 						(label_type.equals("target+sentiment") || label_type.equals("sentiment"))
 						&& t.sentiment_.equals("undetermined")) {
 					labels.add("O");
-					/*System.out.println("Token:"+t.text_);
-					System.out.println("Offset:"+t.target_offset_);
-					System.out.println("Offset is >=0, sentiment is undetermined, target+sentiment model");*/
-				}
 				else {
 					labels.add("T");
-					/*System.out.println("Token:"+t.text_);
-					System.out.println("Offset:"+t.target_offset_);
-					System.out.println("Offset is >=0, target");*/
 				}
 			}
 			else {
@@ -833,7 +714,6 @@ public class FeatureExtractor {
 	}
 	
 	// Extracts token labels for target tagging (BT, IT, O)
-	// TODO: exclude undetermined sentiment
 	List<String> ExtractBIOTokenTargetLabels (Comment c) {
 		List<String> labels = new ArrayList<String>();
 		for (Token t: c.tokens_) {
@@ -868,9 +748,6 @@ public class FeatureExtractor {
 	List<String> ExtractTokenSentimentLabels (Comment c) {
 		List<String> labels = new ArrayList<String>();
 		// The target offsets here are assumed to be predicted
-		// Should we keep undetermined targets and do pos,neg,neutral?
-		// or just exclude the undetermined from the sentiment evaluation 
-		// since we don't know their sentiment?
 		for (Token t: c.tokens_) {
 			if (t.target_offset_ == -1) {
 				labels.add("neutral");
@@ -881,23 +758,11 @@ public class FeatureExtractor {
 					System.out.println("Feature Extractor: Token is part of a target but has "
 							+ "no sentiment: "
 							+ "token: " + t.text_ + " for Comment: " + c.comment_id_);
-					sentiment = "neutral"; // For pipeline models: For mispredicted targets (false positives)
-					//System.exit(0);
+					sentiment = "neutral"; 
 				}
-				// can make it neutral for train (ignore them in train) and for test give their label
-				// and give O as a feature not T
-				// this means for the collapsed model they will be ignored for both target and sentiment
 				if (sentiment.equals("undetermined")) {
 					labels.add("neutral");
 				}
-				/*if (exclude_undetermined && sentiment.equals("undetermined")) {
-					labels.add("neutral");
-				}
-				else if (!exclude_undetermined && sentiment.equals("undetermined")) {
-					labels.add("neutral");
-					//labels.add("negative"); // majority 
-					//labels.add("positive");
-				}*/
 				else {
 				labels.add(sentiment);
 				}
@@ -959,12 +824,6 @@ public class FeatureExtractor {
 		if (word_clusters.containsKey(t.text_)) {
 			cluster = "CLUSTER_" + word_clusters.get(t.text_);
 		}
-		// Next check lemma
-		/*else if (t.morph_features.containsKey("lex")
-				&& word_clusters.containsKey(t.morph_features.get("lex"))) {
-			// this will have a different lemma for Al+,b+,w+?
-			cluster = "CLUSTER_"+ word_clusters.get(t.morph_features.get("lex"));	
-		}*/
 		else {
 			cluster = "CLUSTER_OOV";
 		}
