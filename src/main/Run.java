@@ -149,7 +149,7 @@ public class Run {
 				System.out.println("No input arguments specified. Please specify an input file. Exiting \n");
 				return;
 			}
-		 
+		
 		 System.out.println("\nEval type:" + eval_match_type);
 		 System.out.println("Use existing parse:" + use_existing_parse);
 		 System.out.println("Tokenize option:" + tokenize);
@@ -175,7 +175,7 @@ public class Run {
 			 input_comments = InputReader.
 					 ReadCommentsFromRaw(input_file, encoding, use_comment_id);
 		   } 
-		}
+		 }
 		 catch (Exception e) {
 			 System.out.println("Invalid file type. Exiting \n");
 			 e.printStackTrace();
@@ -203,7 +203,6 @@ public class Run {
 				 runner.Train(input_comments,
 						 model_option, use_existing_parse, output_dir);
 		 }  
-		 
 		 else if (run_option.equals("test")) {
 			 System.out.println("\nRunning model " + model_option + "\n");	 
 			 runner.SetTestFile(test_file);
@@ -226,7 +225,6 @@ public class Run {
 			 if (all_significance) {
 					e.PrintFmeasures(output_dir);
 				}
-			
 		 }
 		} 
 		 else if (run_option.equals("significance")) {
@@ -265,9 +263,6 @@ public class Run {
 			HashMap<String,Double> s = ar.GetSignificance();
 			ar.Print(FileWriter.Combine(output_dir, "approxRandSig_" + (new File(test_file_1).getName())
 						+ (new File(test_file_2).getName())), s);
-		 	}
-		
-		    
+		 	}	    
 	}
-	
 }
