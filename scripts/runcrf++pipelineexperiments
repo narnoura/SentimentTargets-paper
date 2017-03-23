@@ -1,0 +1,98 @@
+#Run multiple experiments
+
+# From $dir/SentimentTargets/src
+
+# Run baselines
+# mkdir ../experiments/paper-experiments/Baseline3
+# uses MPQA lexicon baseline by default
+#java  main/Run in=../data/arabic-finegrained/dev.xml modelopt=ALL_NP outputdir=../experiments/paper-experiments/Baseline3 eval=subset-overlap > ../experiments/paper-experiments/Baseline3/Baseline3.subset-overlap.log
+
+# Run morphology & linguistics
+
+#./runcrf++pipeline-notok surface+pos word,MadamiraPOS
+#./runcrf++pipeline-notok stem+pos Stem,MadamiraPOS
+#./runcrf++pipeline-notok lemma+pos Lex,MadamiraPOS
+#./runcrf++pipeline lemma+pos+D3 Lex,MadamiraPOS
+#./runcrf++pipeline-ATB lemma+pos+ATB Lex,MadamiraPOS
+#./runcrf++pipeline-ATB stem+pos+ATB Stem,MadamiraPOS
+#./runcrf++pipeline stem+pos+D3  Stem,MadamiraPOS
+#./runcrf++pipeline lemma+pos+NER+BPC+dependency  Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment
+#./runcrf++pipeline stem+pos+NER+BPC+dependency   Stem,MadamiraPOS,NER,BPC,Dependency,Sentiment
+#./runcrf++pipeline-ATB lemma+pos+NER+BPC+dependency-ATB  Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment
+#./runcrf++pipeline-ATB stem+pos+NER+BPC+dependency-ATB   Stem,MadamiraPOS,NER,BPC,Dependency,Sentiment
+
+
+#./runcrf++pipeline lemma+pos+sentiment  Lex,MadamiraPOS,Sentiment
+#./runcrf++pipeline lemma+pos+NER+BPC  Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment
+#./runcrf++pipeline stem+pos+NER+BPC  Stem,MadamiraPOS,NER,BPC,Dependency,Sentiment
+#./runcrf++pipeline lemma+pos+dependency  Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment
+#./runcrf++pipeline stem+pos+dependency   Stem,MadamiraPOS,NER,BPC,Dependency,Sentiment
+#./runcrf++pipeline lemma+pos+NER+BPC+dependency Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment
+
+
+# Run test
+
+./runcrf++pipelinetest lemma+pos+NER+BPC+dependency Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment
+./runcrf++pipelinetest all+tf-idf Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment,Salience
+./runcrf++pipelinetest boostbycoreference-pron+antecedant Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment
+
+#java main/Run in=../data/arabic-finegrained/test.xml modelopt=ALL_NP outputdir=../experiments/paper-experiments/Baseline3 eval=subset-overlap > ../experiments/paper-experiments/Baseline3/Baseline3.test.subset-overlap.log
+
+#java outputdir=../experiments/paper-experiments/Baseline3 eval=subset-overlap > ../experiments/paper-experiments/Baseline3/Baseline3.test.subset-overlap.log
+
+# Run word clusters
+
+./runcrf++pipeline best-linguistic+clusters-500-D3 Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment,WordClusters ../WordClusters/Arabic/ar-wiki-classes-500-D3.sorted.txt
+
+./runcrf++pipeline best-linguistic+clusters-1000-D3 Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment,WordClusters ../WordClusters/Arabic/ar-wiki-classes-1000-D3.sorted.txt
+
+./runcrf++pipeline-ATB best-linguistic+clusters-500-ATB Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment,WordClusters ../WordClusters/Arabic/ar-wiki-classes-500-ATB.sorted.txt
+
+./runcrf++pipeline best-linguistic+clusters-500-English Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment,WordClustersEnglish ../WordClusters/English/eng-wiki-articles-classes-500.sorted.txt
+
+
+#Significance:
+
+D3 vs. ATB:
+nohup nice java main/Run in=../data/arabic-finegrained/dev.xml outputdir=../experiments/paper-experiments/lemma+pos+ATB/sentiment modelopt=CRF-sentiment tokopt1=ATB  tokopt2=D3 runopt=significance testfile1=lemma+pos+ATB.sentiment.out  testfile2=lemma+pos+D3.sentiment.out eval=subset-overlap sig=r=13.74,p=-6.39,f=3.41,acc_sent=-1.28,acc_all=0,f_all=-5.5 >& D3vsATB.out &
+
+
+ATB vs. lemma:
+nohup nice java main/Run in=../data/arabic-finegrained/dev.xml outputdir=../experiments/paper-experiments/lemma+pos/sentiment modelopt=CRF-sentiment tokopt1=none tokopt2=ATB runopt=significance testfile1=lemma+pos.sentiment.out  testfile2=lemma+pos+ATB.sentiment.out eval=subset-overlap sig=r=8.71,p=-1,f=2,acc_sent=-3.7,acc_all=0,f_all=0.26 >& ATBvslemma.out &
+
+
+Lemma vs. surface:
+
+nohup nice java main/Run in=../data/arabic-finegrained/dev.xml outputdir=../experiments/paper-experiments/surface+pos/sentiment modelopt=CRF-sentiment tokopt1=none  tokopt2=none runopt=significance testfile1=surface+pos.sentiment.out  testfile2=lemma+pos.sentiment.out eval=subset-overlap sig=r=17.56,p=-0.165,f=9.8,acc_sent=5.66,acc_all=0,f_all=16.8 >& lemmavssurface.out &
+
+D3 best-ling vs. ATB best-ling
+
+nohup nice java main/Run in=../data/arabic-finegrained/dev.xml outputdir=../experiments/paper-experiments/best-linguisticATB/sentiment modelopt=CRF-sentiment tokopt1=ATB  tokopt2=D3 runopt=significance testfile1=best-linguisticATB.sentiment.out  testfile2=best-linguistic+senttrees.sentiment.out eval=subset-overlap sig=r=21.13,p=-5.3,f=7.34,acc_sent=-6.1,acc_all=0,f_all=-3.9 >& D3vsATBbestling.out &
+
+
+Surface word vs All-NP baseline 4
+
+nohup nice java main/Run in=../../../../data/arabic-finegrained/dev.xml outputdir=../experiments/paper-experiments/Baseline4/ modelopt=CRF-sentiment tokopt1=none  tokopt2=none runopt=significance   testfile2=surface+pos.sentiment.out eval=subset-overlap sig=r=-52.22,p=107.5,f=8.67,acc_sent=5.35,acc_all=0,f_all=129.5 >& D3vsATBbestling.out &
+
+
+nohup nice java main/Run in=../../../../data/arabic-finegrained/dev.xml outputdir=../experiments/paper-experiments/Baseline4/ modelopt=CRF-sentiment tokopt1=none  tokopt2=none runopt=significance   testfile2=surface+pos.sentiment.out eval=subset-overlap sig=acc_sent=5.81 >& lemma+D3vsbaseline.out &
+
+lemma-best-cluster vs. lemma (k=10)
+
+
+nohup nice java main/Run in=../data/arabic-finegrained/dev.xml outputdir=../experiments/paper-experiments/lemma+pos/sentiment modelopt=CRF-sentiment tokopt1=none  tokopt2=none runopt=significance testfile1=lemma+pos.sentiment.out  testfile2=lemma+pos+clusters.sentiment.out eval=subset-overlap sig=r=9.12,p=4.46,f=6.89,acc_sent=1.65,acc_all=0,f_all=6.82 >& lemmavscluster.out &
+
+
+lemma+ATB-best-cluster vs. lemma+ATB (k=250)
+
+nohup nice java main/Run in=../data/arabic-finegrained/dev.xml outputdir=../experiments/paper-experiments/lemma+pos+ATB/sentiment modelopt=CRF-sentiment tokopt1=ATB  tokopt2=ATB runopt=significance testfile1=lemma+pos+ATB.sentiment.out  testfile2=lemma+pos+ATB+clusters.sentiment.out eval=subset-overlap sig=r=8.97,p=0,f=4.67,acc_sent=4.7,acc_all=0,f_all=8.64 >& lemma+ATBvs.cluster.out &
+
+
+lemma+D3-best-cluster vs. lemma+D3 (k=500) done
+
+
+
+
+
+
+

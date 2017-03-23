@@ -1,0 +1,18 @@
+
+Eval type:mention-overlap
+Use existing parse:true
+Tokenize option:D3
+Reading input file
+
+Phrase not found in comment.
+
+InputReader::Did not find target: mqnjzAt (Alvwrp) comment id:batch_5_151
+Number of comments: 116
+Number of targets: 403
+Number of matching targets: 402
+
+Running model CRF-sentiment
+
+
+Reading madamira files 
+

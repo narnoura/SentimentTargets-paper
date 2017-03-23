@@ -1,0 +1,23 @@
+outputdir=$1
+features=$2
+clusterfile=$3
+
+echo Output directory: $1
+echo Features: $2 
+echo Cluster file: $3
+
+echo Evaluating
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:../commons-math3-3.6.1/commons-math3-3.6.1.jar:. main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment binfeat=$features clusterfile=$clusterfile testfile=$outputdir.sentiment.out eval=subset -allsig  > ../experiments/paper-experiments/$outputdir/$outputdir.subset.final.log
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:../commons-math3-3.6.1/commons-math3-3.6.1.jar:. main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment binfeat=$features clusterfile=$clusterfile testfile=$outputdir.sentiment.out eval=exact > ../experiments/paper-experiments/$outputdir/$outputdir.exact.final.log
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:../commons-math3-3.6.1/commons-math3-3.6.1.jar:. main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment binfeat=$features clusterfile=$clusterfile testfile=$outputdir.sentiment.out eval=overlap > ../experiments/paper-experiments/$outputdir/$outputdir.overlap.final.log
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:../commons-math3-3.6.1/commons-math3-3.6.1.jar:. main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment binfeat=$features clusterfile=$clusterfile testfile=$outputdir.sentiment.out eval=prop-overlap > ../experiments/paper-experiments/$outputdir/$outputdir.prop-overlap.final.log
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:../commons-math3-3.6.1/commons-math3-3.6.1.jar:. main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment binfeat=$features clusterfile=$clusterfile testfile=$outputdir.sentiment.out eval=subset-overlap > ../experiments/paper-experiments/$outputdir/$outputdir.subset-overlap.final.log
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:../commons-math3-3.6.1/commons-math3-3.6.1.jar:. main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment binfeat=$features clusterfile=$clusterfile testfile=$outputdir.sentiment.out eval=prop-mention > ../experiments/paper-experiments/$outputdir/$outputdir.prop-mention.final.log
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:../commons-math3-3.6.1/commons-math3-3.6.1.jar:. main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment binfeat=$features clusterfile=$clusterfileq testfile=$outputdir.sentiment.out eval=mention-overlap > ../experiments/paper-experiments/$outputdir/$outputdir.mention-overlap.final.log

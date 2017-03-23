@@ -1,0 +1,28 @@
+
+Eval type:exact
+Use existing parse:true
+Tokenize option:D3
+Reading input file
+
+Phrase not found in comment.
+
+InputReader::Did not find target: mqnjzAt (Alvwrp) comment id:batch_5_151
+Number of comments: 116
+Number of targets: 403
+Number of matching targets: 402
+
+Running model CRF-sentiment
+
+
+Reading madamira files 
+
+Reading Arsenl
+
+Reading Sifaat
+Reading MPQA
+
+External CRF: Reading sentiment predictions from this file:/Users/noura/Documents/sentiment-analysis-phd/code/SentimentAnalysis/SentimentTargets-paper/src/../experiments/paper-experiments/sentiment/.sentiment.out
+Correct labels:0.0
+Label accuracy:NaN
+Main:Output comments are empty!! 
+

@@ -1,0 +1,1928 @@
+
+Eval type:exact
+Use existing parse:true
+Tokenize option:ATB
+Reading input file
+
+Phrase not found in comment.
+
+InputReader::Did not find target: mqnjzAt (Alvwrp) comment id:batch_5_151
+Number of comments: 116
+Number of targets: 403
+Number of matching targets: 402
+Cluster file:../data/word-clusters/ar-wiki-classes-250-lemma+ATB.sorted.txt
+
+Running model CRF-sentiment
+
+
+Reading madamira files 
+
+Reading classes file:../data/word-clusters/ar-wiki-classes-250-lemma+ATB.sorted.txt
+Reading dependency trees
+
+Reading Catib dependency parse trees
+Reading Arsenl
+
+Reading Sifaat
+Reading MPQA
+
+External CRF: Reading sentiment predictions from this file:/Users/noura/Documents/sentiment-analysis-phd/code/SentimentAnalysis/SentimentTargets-paper/src/../experiments/paper-experiments/best-linguistic+clusters-ATB/sentiment/best-linguistic+clusters-ATB.sentiment.out
+Correct labels:6226.0
+Label accuracy:83.7052971228825
+Precision for negative:0.38424821002386633
+Recall for negative:0.2576
+F-score for negative:0.3084291187739464
+Precision for neutral:0.8865163506047484
+Recall for neutral:0.9432793136320305
+F-score for neutral:0.9140173966592257
+Precision for positive:0.39751552795031053
+Recall for positive:0.2466281310211946
+F-score for positive:0.30439952437574314
+
+Main: Size of output comments: 116
+
+Recall: Number of correct matching targets: 95.0
+Recall: Number of gold targets: 441.0
+Recall: 0.21541950113378686
+
+Precision: Number of correct matching targets: 112.0
+Precision: Number of predicted targets: 439.0
+Precision: 0.255125284738041
+
+F-measure 0.23359715468127382
+
+Gold target:حزبه negative
+Predicted target:حزبه negative
+
+Gold target:مزابل التاريخ negative
+Predicted target:مزابل التاريخ negative
+
+Gold target:هذه المعارضة negative
+Predicted target:هذه المعارضة negative
+
+Gold target:المعارضه السودانيه negative
+Predicted target:المعارضه السودانيه negative
+
+Gold target:الحل السياسي positive
+Predicted target:الحل السياسي negative
+
+Gold target:حل الدولة الواحدة الديمقراطية positive
+Predicted target:حل الدولة الواحدة الديمقراطية positive
+
+Gold target:القادة الصهاينة negative
+Predicted target:القادة الصهاينة negative
+
+Gold target:الشعب السوري undetermined
+Predicted target:الشعب السوري positive
+
+Gold target:الجيش الحر positive
+Predicted target:الجيش الحر negative
+
+Gold target:موقف اسرائيل undetermined
+Predicted target:موقف اسرائيل negative
+
+Gold target:موقف مصر negative
+Predicted target:موقف مصر negative
+
+Gold target:ماليزيا positive
+Predicted target:ماليزيا positive
+
+Gold target:الريال مدريد positive
+Predicted target:الريال مدريد positive
+
+Gold target:برشلونه negative
+Predicted target:برشلونه positive
+
+Gold target:إيران positive
+Predicted target:إيران negative
+
+Gold target:الظلم undetermined
+Predicted target:الظلم negative
+
+Gold target:هولندا positive
+Predicted target:هولندا negative
+
+Gold target:ميسي negative
+Predicted target:ميسي positive
+
+Gold target:السلطه الفاسده negative
+Predicted target:السلطه الفاسده negative
+
+Gold target:بالسيطرة الجزائرية undetermined
+Predicted target:بالسيطرة الجزائرية negative
+
+Gold target:السيناريو السوري negative
+Predicted target:السيناريو السوري negative
+
+Gold target:النظام الاردني الحاكم negative
+Predicted target:النظام الاردني الحاكم negative
+
+Gold target:برشلونة positive
+Predicted target:برشلونة positive
+
+Gold target:ريال مدريد positive
+Predicted target:ريال مدريد positive
+
+Gold target:مرض البلهارسيا والاميبا negative
+Predicted target:مرض البلهارسيا والاميبا negative
+
+Gold target:للكرة العربية الجزائرية positive
+Predicted target:للكرة العربية الجزائرية positive
+
+Gold target:اليمن negative
+Predicted target:اليمن positive
+
+Gold target:المعارضه negative
+Predicted target:المعارضه negative
+
+Gold target:الرئيس اليمني negative
+Predicted target:الرئيس اليمني negative
+
+Gold target:الحكومه و الجماعه negative
+Predicted target:الحكومه و الجماعه negative
+
+Gold target:النظام negative
+Predicted target:النظام negative
+
+Gold target:النظام الغذائي negative
+Predicted target:النظام الغذائي negative
+
+Gold target:أهل حمص positive
+Predicted target:أهل حمص positive
+
+Gold target:سوريا undetermined
+Predicted target:سوريا negative
+
+Gold target:سوريا الأمن positive
+Predicted target:سوريا الأمن positive
+
+Gold target:الشعوب العربية positive
+Predicted target:الشعوب العربية positive
+
+Gold target:الأنظمة العربية negative
+Predicted target:الأنظمة العربية negative
+
+Gold target:للمسيرة المؤيدة negative
+Predicted target:للمسيرة المؤيدة positive
+
+Gold target:الانتخابات الرئاسية حاسمة ومصيرية undetermined
+Predicted target:الانتخابات الرئاسية حاسمة ومصيرية positive
+
+Gold target:المديونية الخارجية negative
+Predicted target:المديونية الخارجية negative
+
+Gold target:الأفكار العميقة positive
+Predicted target:الأفكار العميقة negative
+
+Gold target:تركيا positive
+Predicted target:تركيا positive
+
+Gold target:مدينة اربيل positive
+Predicted target:مدينة اربيل negative
+
+Gold target:المدن التركية positive
+Predicted target:المدن التركية negative
+
+Gold target:النظام القمعي negative
+Predicted target:النظام القمعي negative
+
+Gold target:لقناتى المفضله positive
+Predicted target:لقناتى المفضله positive
+
+Gold target:لغانا positive
+Predicted target:لغانا positive
+
+Gold target:حركة حماس الإسلامية positive
+Predicted target:حركة حماس الإسلامية positive
+
+Gold target:ضابط صهيوني negative
+Predicted target:ضابط صهيوني negative
+
+Gold target:مواطن العدو الصهيوني negative
+Predicted target:مواطن العدو الصهيوني negative
+
+Gold target:الصهاينه العلمانيين negative
+Predicted target:الصهاينه العلمانيين negative
+
+Gold target:السعودية negative
+Predicted target:السعودية positive
+
+Gold target:الكيان الصهيوني negative
+Predicted target:الكيان الصهيوني negative
+
+Gold target:المقاومة positive
+Predicted target:المقاومة positive
+
+Gold target:شلقم negative
+Predicted target:شلقم negative
+
+Gold target:المنتخب المغربي positive
+Predicted target:المنتخب المغربي negative
+
+Gold target:القضية الفلسطنية undetermined
+Predicted target:القضية الفلسطنية negative
+
+Gold target:إسرائيل negative
+Predicted target:إسرائيل negative
+
+Gold target:الانتفاضة positive
+Predicted target:الانتفاضة negative
+
+Gold target:الريال negative
+Predicted target:الريال positive
+
+Gold target:انجلترا undetermined
+Predicted target:انجلترا negative
+
+Gold target:لمصر positive
+Predicted target:لمصر positive
+
+Gold target:مصر positive
+Predicted target:مصر positive
+
+Gold target:للمنتخب الجزائري positive
+Predicted target:للمنتخب الجزائري positive
+
+Gold target:مصر undetermined
+Predicted target:مصر positive
+
+Gold target:للمنتخب المصري الشقيق undetermined
+Predicted target:للمنتخب المصري الشقيق positive
+
+Gold target:المنتخب المصري negative
+Predicted target:المنتخب المصري positive
+
+Gold target:الطعام الصحي positive
+Predicted target:الطعام الصحي positive
+
+Gold target:الخطوط الجوية القطرية positive
+Predicted target:الخطوط الجوية القطرية positive
+
+Gold target:صفوف الارهابيين negative
+Predicted target:صفوف الارهابيين negative
+
+Gold target:العرب negative
+Predicted target:العرب negative
+
+Gold target:البرامج الفنية negative
+Predicted target:البرامج الفنية negative
+
+Gold target:السعودية negative
+Predicted target:السعودية positive
+
+Gold target:العصر الحجري negative
+Predicted target:العصر الحجري negative
+
+Gold target:ايران positive
+Predicted target:ايران negative
+
+Gold target:المانيا negative
+Predicted target:المانيا negative
+
+Gold target:جوزف راتسينقر او الباابا negative
+Predicted target:جوزف راتسينقر او الباابا negative
+
+Gold target:الشعب الفلسطيني positive
+Predicted target:الشعب الفلسطيني positive
+
+Gold target:أوروجواي positive
+Predicted target:أوروجواي negative
+
+Gold target:البرازيل negative
+Predicted target:البرازيل negative
+
+Gold target:انجلترا positive
+Predicted target:انجلترا negative
+
+Gold target:هولندا positive
+Predicted target:هولندا negative
+
+Gold target:البكتيريات المفيده positive
+Predicted target:البكتيريات المفيده positive
+
+Gold target:الجزائر وفرنسا positive
+Predicted target:الجزائر وفرنسا negative
+
+Gold target:الولايات المتحدة الأميريكية negative
+Predicted target:الولايات المتحدة الأميريكية negative
+
+Gold target:سياسات آميركا negative
+Predicted target:سياسات آميركا negative
+
+Gold target:المنتخب الارجنتيني positive
+Predicted target:المنتخب الارجنتيني negative
+
+Gold target:اللغة العامية negative
+Predicted target:اللغة العامية positive
+
+Gold target:الجيش العربي السوري positive
+Predicted target:الجيش العربي السوري positive
+
+Gold target:الإرهابيين التكفيريين negative
+Predicted target:الإرهابيين التكفيريين negative
+
+Gold target:سوريا العروبة positive
+Predicted target:سوريا العروبة positive
+
+Gold target:ميسي positive
+Predicted target:ميسي positive
+
+Gold target:رونالدو الغبي negative
+Predicted target:رونالدو الغبي negative
+
+Gold target:ميسي negative
+Predicted target:ميسي positive
+
+Gold target:الشعب المصري undetermined
+Predicted target:الشعب المصري positive
+Total number of targets with unambiguous sentiment:402.0
+Number of correctly predicted targets: 84.0
+Percentage of correctly predicted positive targets: 0.4067796610169492
+Percentage of correctly predicted negative targets: 0.5932203389830508
+Number of correctly predicted sentiment targets: 59.0
+Sentiment accuracy: 70.23809523809524
+Recall for positive targets: 0.6153846153846154
+Precision for positive targets: 0.7058823529411765
+F-measure for positive targets: 0.6575342465753424
+Recall for negative targets: 0.7777777777777778
+Precision for negative targets: 0.7
+F-measure for negative targets: 0.7368421052631577
+Overall recall: 14.676616915422885
+Overall precision: 13.785046728971963
+Overall f-measure: 14.216867469879519
+
+Output comment:batch_5_261
+البرادعى كشف حقيقته عندما خسر حزبه الانتخابات واعلن ان الانتخابات ليست ديموقراطيه ويريد ادخال مصر فى دوامة عنف و فوضى ليجرها الى حالة من الركود الاقتصادى لتنحنى للغرب ويعاونه فى ذلك 6 ابريل و نحن جميعا هويتها و مموليها ومسئوليتها فى احداث فوضى و تخريب .
+Gold targets:
+للغرب:negative
+دوامة عنف و فوضى:negative
+حزبه:negative
+البرادعى:negative
+6 ابريل:negative
+حالة من الركود الاقتصادى:negative
+احداث فوضى و تخريب:negative
+Predicted targets:
+Number of predicted targets:3
+حزبه:negative
+الانتخابات:positive
+مصر:positive
+
+Output comment:batch_1_16
+إلى متى سينتظر العالم قبل أن يتدخل لإيقاف هذه المجازر ضد الإنسانية التي يقوم بها هذا النظام الدموي المجرم الذي لن يتوقف عن ذلك . . . لأن بقاءه دائما وابدا ارتبط بالقمع والقتل والإجرام . . . ولكن أن الأوان لأن يزول ويندحر في مزابل التاريخ
+Gold targets:
+مزابل التاريخ:negative
+النظام الدموي المجرم:negative
+المجازر ضد الإنسانية:negative
+العالم:negative
+Predicted targets:
+Number of predicted targets:3
+المجازر:negative
+النظام الدموي:negative
+مزابل التاريخ:negative
+
+Output comment:batch_5_203
+ظلت المعارضه السودانيه طيلة الفترة الماضيه و منذ مجئ هذه الحكومه التى أوردت بلادنا موارد الهلاك تقول ولا تفعل شيئاو ربما عائد لعلاقة هذه المعارضة بهذا النظام الذى ظل يرضعها من المال العام و لما يقطع الرضاعة تولول و تحتج . و لكن هما سيان فلا خير فى معارضة تقليديه و لا فى حكومه دكتاتوريه و إن كانت بثوب مدنى
+Gold targets:
+حكومه دكتاتوريه:negative
+هذه الحكومه:negative
+موارد الهلاك:negative
+الرضاعة:negative
+بثوب مدنى:negative
+المال العام:negative
+هذه المعارضة:negative
+المعارضه السودانيه:negative
+بهذا النظام:negative
+معارضة تقليديه:negative
+Predicted targets:
+Number of predicted targets:4
+المعارضه السودانيه:negative
+الحكومه:negative
+هذه المعارضة:negative
+دكتاتوريه:negative
+
+Output comment:batch_3_74
+أعلي درجة حرارة مسجلة في منطقة العزيزية في ليبيا و هي بالضبط 57.7 درجة مئوية يوم 13 سبتمبر سنة 1913 و للعلم درجات الحرارة التي ترصد و تذكر في نشرات الاحوال الجوية تسجل في الظل و ليس في الشمس ! . المصدر موسوعة الويكيبيديا
+Gold targets:
+Predicted targets:
+Number of predicted targets:2
+مسجلة:negative
+العزيزية في ليبيا:positive
+
+Output comment:batch_3_67
+تعتمد صناعة هذه الصواريخ الطائفية على تحفيز عناصر التخلف و تخصيب يورانيوم الجهل المركب ، بحيث تنخفض نسبة المعرفة إلى أقل من 10 % ، هذه المادة الخام التي ما زالت متوفرة بغزارة في الكثير من مناجم العقول العربية البكر التي لم تستخدم حتى الآن لتحافظ هذه العقول على عذريتها ، بالرغم من تقدم الحضارة بطلبات كثيرة للزواج . . . . . . ولكن عبثا .
+Gold targets:
+الصواريخ الطائفية:negative
+عناصر التخلف:negative
+نسبة المعرفة:negative
+تقدم الحضارة:undetermined
+مناجم العقول العربية البكر:negative
+يورانيوم الجهل المركب:negative
+Predicted targets:
+Number of predicted targets:4
+هذه الصواريخ الطائفية:negative
+يورانيوم الجهل:negative
+العقول العربية البكر:positive
+الحضارة:positive
+
+Output comment:batch_5_137
+اعتقد ان هناك آراء و تحليلات اعلامية بحتة هي التي تعطي تفسير غير ناضج لوقائع روتينية . اذا كان الكاتب يقول انه لا يحق للسعودية او الامارات ( لانه شأن مصري بحت ) طلب عدم محاكمة مبارك ( وهو الامر الذي نفته الدولتان ) في نفس الوقت يأتي و يستغرب من تاجيل زيارة شرف للامارات و تهكم على ( انشغالاتهم ) او ليس هذا شأن اماراتي بحت !
+Gold targets:
+آراء و تحليلات اعلامية:negative
+الكاتب:negative
+Predicted targets:
+Number of predicted targets:2
+للسعودية:negative
+مبارك:negative
+
+Output comment:batch_4_142
+لو ان الحكومات الشمال افريقية درست الموسيقي والرسم والفنون الجميلة لكان الشباب يجد مجال يبدع فيه ولايحس بالتهميش ولاانتصر الفن علي التطرف كما في اوروبا وامريكا فالفن مع وجود الديمقراطية يلهم النفوس بالسكينة والابداع فلا يستعمل الناس السلاح للتعبير عن الرفض
+Gold targets:
+الموسيقي والرسم والفنون الجميلة:positive
+اوروبا وامريكا:positive
+الحكومات الشمال افريقية:negative
+الديمقراطية:positive
+Predicted targets:
+Number of predicted targets:4
+الحكومات الشمال:negative
+اوروبا:negative
+وامريكا:negative
+السلاح:positive
+
+Output comment:batch_4_134
+لتشجيع الكتاب ذوى الهمم والثقافة ، كتاب المحتوى والمفيد ولتوفير إنتاجيتهم الفكرية أقتر من أصحلب دور النشر الرفيعة السعي لشراء حقوق الطبع والنسخ إلكترونيا إذا كان هناك صعوبة في التواصل الشخصي وطباعتها وبيعها مطبوعة وإلكترونيا ، أتمنى أن تكون شبكة الجزيرة الرائدة فاتحة لهذا الباب . . . وشكرا . للكبير السيد \ ولي العمايرة وللجزيرة الكبيرة والسباقة
+Gold targets:
+شبكة الجزيرة الرائدة:positive
+Predicted targets:
+Number of predicted targets:2
+الكتاب:positive
+الرفيعة:negative
+
+Output comment:batch_4_88
+نوفارتيس شركة كبيرة و نشيطة و لديها محرك بحث علمي قوي جدا ، و لا أستغرب أن تتوصل لعلاج لهذا الوباء المحير و لكن ذلك قد يحتاج لأكثر من أسبوعين على اعتبار أن السلالة الفيروسية لإنفلونزا الخنازير جديدة كليا .
+Gold targets:
+محرك بحث علمي قوي جدا:positive
+نوفارتيس شركة كبيرة و نشيطة:positive
+لعلاج لهذا الوباء المحير:undetermined
+Predicted targets:
+Number of predicted targets:5
+شركة كبيرة:positive
+علمي:positive
+لعلاج:positive
+الوباء:negative
+الفيروسية:negative
+
+Output comment:batch_5_352
+ياسيد منير حل الدولتين ليس لحل الصراع الفلسطيني الاسرائيلي بل لحل الصراع الفلسطيني الفلسطيني وهذا مايعرفة القادة الصهاينة من يهود وعرب وامريكيين ، أما الحل الوحيد والمنطقي والواقعي واكرر الوحيد فهو في حل الدولة الواحدة الديمقراطية من خلال الحل السياسي بحقيق العودة سلميا او عسكريا
+Gold targets:
+الحل السياسي:positive
+حل الدولتين:negative
+يهود وعرب وامريكيين:negative
+الصراع الفلسطيني الفلسطيني:negative
+حل الدولة الواحدة الديمقراطية:positive
+الحل الوحيد والمنطقي والواقعي:positive
+القادة الصهاينة:negative
+Predicted targets:
+Number of predicted targets:9
+منير حل الدولتين:negative
+لحل الصراع الفلسطيني الاسرائيلي:negative
+لحل الصراع الفلسطيني الفلسطيني:negative
+القادة الصهاينة:negative
+يهود:negative
+وامريكيين:negative
+حل الدولة الواحدة الديمقراطية:positive
+الحل السياسي:negative
+او عسكريا:negative
+
+Output comment:batch_1_112
+على الجيش الحر البطال الغيارا بتصفيت هاولاء المجرمين اليرانيين الذينة جاؤي لقتل الشعب السوري البريء عليهم بقتلهم واحد واحد وارسالهم ليران هديه للملالي في ايران حتا يصير عبره للفرس المجوس الطامعين الذينة يبعون انفسهم من اجل يقلون الابرياء من الشعب السوري
+Gold targets:
+الشعب السوري:undetermined
+الجيش الحر:positive
+الابرياء:positive
+المجرمين اليرانيين:negative
+Predicted targets:
+Number of predicted targets:4
+الجيش الحر:negative
+الشعب السوري:positive
+ايران:negative
+للفرس:negative
+
+Output comment:batch_5_120
+نتفهم موقف اسرائيل انة نابع من موقف القوه ، ولكن ايت قوه ، هذه القوة معتمده على موقف مصر التى تصر على اغلاق المعبر وكان الجندى مصرى وليس اسرائيلى ووتحالف مع اسرائيل وبوضح النهار ضد المسلمون ، كفى يا مصر كفى ، وين الشعب المصرى الشريف من هذه المهزله
+Gold targets:
+الجندى مصرى:negative
+الشعب المصرى الشريف:positive
+موقف اسرائيل:undetermined
+الجندى مصرى وليس اسرائيلى:negative
+القوة معتمده على موقف مصر:negative
+يا مصر:negative
+اغلاق المعبر:negative
+موقف مصر:negative
+Predicted targets:
+Number of predicted targets:4
+موقف اسرائيل:negative
+موقف مصر:negative
+اسرائيل:negative
+المصرى:positive
+
+Output comment:batch_3_32
+تعتبر ماليزيا الدولة الأكثر نجاحا في جنوب شرق آسيا ، و نجاحها الاقتصادي امتد الى المناحي الأخرى للحياة في ماليزيا ، فتحسنت الخدمات المقدمة للمواطنين ، و ارتفعت جودة الخدمات الصحية و التعليمية و الاجتماعية و المالية و السياحية و غيرها ، مما جعلها وجهة ممتازة للمستثمرين الأجانب ، و أرضا خصبة للإستثمارات الناجحة ، و الله أعلم
+Gold targets:
+ماليزيا الدولة الأكثر نجاحا:positive
+ماليزيا:positive
+الخدمات المقدمة للمواطنين:positive
+أرضا خصبة:positive
+المناحي الأخرى للحياة في ماليزيا:positive
+جودة الخدمات الصحية و التعليمية و الاجتماعية و المالية و السياحية:positive
+للإستثمارات الناجحة:positive
+للحياة في ماليزيا:positive
+Predicted targets:
+Number of predicted targets:4
+ماليزيا:positive
+التعليمية و الاجتماعية:negative
+المالية:negative
+السياحية:negative
+
+Output comment:batch_3_146
+قبل المطالبة بالتدريس باللغة العربية من يستطيع ان يقول لي كم من الكتب التي تمت ترجمتها من اللغة الانجليزية او لغات اجنبية اخرى الى اللغة العربية ! ! ! الاتجاه الصحيح هو ملئ المكتبة العربية بترجمة الكتب العلمية والمراجع المختلفة لمختلف التخصصات اولا ومن ثم التفكير في تدريس كافة العلوم باللغة العربية ، فعلى الدول العربية مواكبة التطور وتسارع في اعداد الترجمات اولا وشكرا
+Gold targets:
+الكتب التي تمت ترجمتها من اللغة الانجليزية او لغات اجنبية اخرى:negative
+Predicted targets:
+Number of predicted targets:3
+بالتدريس باللغة:negative
+العربية:negative
+العربية:positive
+
+Output comment:batch_1_35
+الى التعليق رقم 2 اكيد ان لحكام العرب والمسلمين مسؤولية يتمثل ادناها في استدعاء السفراء في الصين للتشاور . فليتهم يفعلونها ولو مرة . ولنا نحن كشعوب مسؤولية كذالك تتمثل في مساندة اخواننا في الصين بمقاطعة البضائع الصينينة وليتنا نفعلها ولو ثلاتة اشهر .
+Gold targets:
+البضائع الصينينة:negative
+Predicted targets:
+Number of predicted targets:4
+لحكام العرب والمسلمين:positive
+الصين:positive
+مساندة:negative
+اخواننا في الصين:positive
+
+Output comment:batch_2_156
+اني عمري سنتين ونص واعشق الريال مدريد والفاف الف مبروووووك لاسود الملكي الدوري والكاس والكاس اوربا للريال انشاء الله وخلى يجيبون بدل فكتور فالدز علي الحبسي احسنلهم برشلونه وبدل ريكاردو عدنان حمد مدرب منتخب العراق السابق وبعد انتهى رونالدينو وايتو يا برشا اتعلمو من استاذكم وتاج راسكم الريال والف تحيه للمدرب الماني القدير سوشتر
+Gold targets:
+لاسود الملكي:positive
+علي الحبسي:positive
+رونالدينو وايتو:undetermined
+الريال مدريد:positive
+للمدرب الماني القدير سوشتر:positive
+برشلونه:negative
+عدنان حمد مدرب منتخب العراق السابق:positive
+Predicted targets:
+Number of predicted targets:8
+الريال مدريد:positive
+لاسود الملكي الدوري:positive
+والكاس:positive
+فكتور فالدز:positive
+برشلونه:positive
+عدنان حمد مدرب منتخب العراق:positive
+الريال:positive
+للمدرب الماني:positive
+
+Output comment:batch_5_38
+إلى المدعو عبده ، ، ، كندا . كذبت فيما قلت وما السطحي غيرك ، إنك تحرض ضد إيران ، كن يقضا ودع عنك الإشاعات ، فوا لله ما غاية إيران إلا تحرير الشعوب العربية ، من حكامهم المستبدون وأسيادهم الصهاينة الذين لايترددون في خلق الفتن بين المسلمين . ياعبده كن حرا في تفكيرك ، ولأتقلد وتدعي المعرفة في التاريخ ، والجغرافيا ، قبل أن تسبر غور الحقيقة .
+Gold targets:
+غاية إيران:positive
+إيران:positive
+المدعو عبده،،، كندا:negative
+حكامهم المستبدون وأسيادهم الصهاينة:negative
+Predicted targets:
+Number of predicted targets:3
+إيران:negative
+الشعوب العربية:negative
+وأسيادهم الصهاينة:negative
+
+Output comment:batch_1_58
+اللهم أنت حرمت الظلم على نفسك وأقررت وجعلته بين عبادك محرما . فندعوك يا من وعدك حق وقولك حق أن تقف في وجه من خالف قدرتك واخترق نفاذ أمرك وتجرأ عليك يا االله . أرنا اللهم حمايتك لكلماتك وغيرتك على حرماتك وانتقامك لعبادك الآن الآن الآن .
+Gold targets:
+الظلم:undetermined
+Predicted targets:
+Number of predicted targets:2
+الظلم:negative
+حق:positive
+
+Output comment:batch_2_18
+هذه ليست كرة قدم هذه سمفونية موسيقية عالية المستوى من أقدام لا عبين مهرة وموهبين . . هولندا تكشر عن أنيابها القوية التى ستمزق أى فريق فى البطولة . . الآن كنا نشجع هولندا لأننا نحب ونشجع اللعب الجميل . . إذا لم تظهر إنتكاسة فى الفريق سيصبح بلاشك المرشح الأوفر للبطولة وهو يستحقها بهذه العروض القوية .
+Gold targets:
+المرشح الأوفر للبطولة:positive
+للبطولة:undetermined
+كرة قدم:positive
+هولندا:positive
+Predicted targets:
+Number of predicted targets:4
+هذه:positive
+هولندا:negative
+هولندا:positive
+الفريق:positive
+
+Output comment:batch_1_104
+اتعجب بأنه هناك اقتتال بين الجيش والجيش المنشق في الرستن . احلف بالله وبأعز ما عندي لا توجد اي معركة ولا طلقة ولا رصاصة حدثت لا اليوم ولا امس ولا قبلو ولا قبل قبلو . الجو هنا هادئ وجميل والناس عايشة بهدوء وسلام .
+Gold targets:
+Predicted targets:
+Number of predicted targets:1
+الجيش والجيش المنشق:negative
+
+Output comment:batch_2_138
+ماذا فعل ميسي حتى ياخذها ؟ ؟ ؟ ؟ كاس العالم ولا هدف فقط بطولة الدوري الاسباني ودعاية كنتاكي ودعاية بيبسي ؟ ؟ ؟ يعني من اصبح يعمل دعايات اكثر هو الذي ياخذها بصراحه شنايدر يستحقها ميسي لاعب اقل من عادي عندما يقابل فرق كبييييره ماذا فعل امام الانتر السنه الماضيه وماذا فعل مع المنتخب الارجنتيني السنه الماضيه لاشيئ
+Gold targets:
+ميسي:negative
+شنايدر:positive
+Predicted targets:
+Number of predicted targets:4
+ميسي:positive
+كنتاكي:negative
+ميسي:positive
+المنتخب الارجنتيني:negative
+
+Output comment:batch_3_53
+كما لا يجب أن ننسى أن سبب انتشار اللغة الفرنسية و حتى الإنجليزية هو كون هاتين لغات العلم وهذا مايفسر انتشارهما وإذا لم تصبح اللغة العربية لغة العلم و لم تنمى الروح الوطنية لدى مواطيننا للإعتزاز بلغتهم فسنظل نعاني من هذا الغزو اللغوي الأجنبي . 5 )
+Gold targets:
+هاتين لغات العلم:positive
+انتشار اللغة الفرنسية:undetermined
+الغزو اللغوي الأجنبي.:negative
+Predicted targets:
+Number of predicted targets:2
+اللغة:positive
+الوطنية:negative
+
+Output comment:batch_3_164
+السل مرض الفقراء لانه يصيب بالضرورة دوي المناعة الضعيفة ويعتبر شديد الخطورة بعد فيروس اتش اي في الايدز وفيروسا اتش بي و اتش سي التهاب الكبد التشمعي . وخطورة السل تتمثل في انتقال العدوى عبر الهواء المحيط بالمصاب اضافة الى طول فترة العلاج اليومي التي تصل ل 9 اشهر على الاقل فما بالك بالشكل المقاوم سيكون قتل ولا شك . . .
+Gold targets:
+السل مرض الفقراء:negative
+طول فترة العلاج اليومي:negative
+فيروس اتش اي في الايدز:negative
+Predicted targets:
+Number of predicted targets:6
+السل مرض:negative
+فيروس:negative
+في الايدز:negative
+التهاب:negative
+السل:negative
+العلاج اليومي:negative
+
+Output comment:batch_4_149
+يبدو ان هذا البرنامج الرائع سيحافظ على خصوصية الكثير من الناس و يسهل العثور على الحواسيب المحمولة المسروقة و سيهل العثور على كثير من العصابات التي تحاول سرقة الحواسيب المحمولة و الكاميرات و الهواتف النقالة . . لذا فنحن ننتظر ان ينزل هذا البنامج الى السوق العربية و الاماراتية خاصة قريبا جدا و ان تنزل مثل هذه البرامج المفيدة للمجتمع بأسره .
+Gold targets:
+هذا البرنامج الرائع:positive
+العصابات التي تحاول سرقة الحواسيب المحمولة و الكاميرات و الهواتف النقالة:negative
+خصوصية الكثير من الناس:positive
+Predicted targets:
+Number of predicted targets:6
+البرنامج الرائع:positive
+الحواسيب المحمولة المسروقة:negative
+العصابات:negative
+المحمولة:negative
+السوق العربية و الاماراتية:negative
+البرامج المفيدة:positive
+
+Output comment:batch_5_150
+السلطه الفلسطينيه فأسده ولا تومن علي شىء ولد وجب أن لا يصرف أو يعطى لها شىء ، وأنا كليبي أطلب من الحكومة الليبيه مقاطعه هده السلطه الفاسده لانها وصمة عار لتورة 17 فبراير ، وباريت يغلق سفارتها في ليبيا ، لان ضررها اكتر من نفعها ، لا يستقيم الظل والعود اعوج .
+Gold targets:
+السلطه الفلسطينيه فأسده:negative
+السلطه الفاسده:negative
+Predicted targets:
+Number of predicted targets:3
+السلطه الفلسطينيه:negative
+الحكومة الليبيه:negative
+السلطه الفاسده:negative
+
+Output comment:batch_2_93
+مبارك للشبيبة الفوز و حظ أوفر للأهلي في خرجاته المقبلة . كانت مباراة صعبة تميزت بالسيطرة الجزائرية في الشوط الأول و أثمرت الهدف الوحيد أما في الشوط الثاني فقد برزت عودة الأهلي بهجوماته الخطيرة للعودة في اللقاء . ألف تحية للنجم الخلوق أبو تريكة الذي كسب محبة الجماهير الجزائرية و أصبح النجم المصري رقم 1 .
+Gold targets:
+للشبيبة:positive
+الشوط الأول:positive
+بالسيطرة الجزائرية:undetermined
+مباراة صعبة:positive
+للنجم الخلوق أبو تريكة:positive
+Predicted targets:
+Number of predicted targets:6
+مبارك للشبيبة:positive
+بالسيطرة الجزائرية:negative
+الوحيد:positive
+عودة الأهلي:negative
+الخلوق أبو تريكة:positive
+الجماهير الجزائرية:positive
+
+Output comment:batch_5_299
+السيناريو السوري مستبعد لان السودان لا يوجد فيه علويين والحمد لله ، ولا يوجد " " شبيحة " " في السودان . السيناريو الليبي هو الاقرب ، ومن المتوقع أن تستخدم روسيا والصين الفيتو لحماية " " نظام البشير " " ، ولكن الناتو لن يهتم بأي فيتو ، وسوف يتدخل لان السودان لا يوجد له حدود مع أسرائيل مثل سوريا ! !
+Gold targets:
+علويين:negative
+شبيحة:negative
+السيناريو السوري:negative
+روسيا والصين:negative
+Predicted targets:
+Number of predicted targets:4
+السيناريو السوري:negative
+والصين:positive
+البشير:negative
+الناتو:negative
+
+Output comment:batch_5_96
+بدأ التصويت للإنفصال بالنسبة للجنوبيين وبدأت رغبتنا كشماليين فى إنتظار هذا اليوم السعيد حتى ننزل من أكتافنا هذا الحمل الثقيل الذى يسمى بالمواظن الجنوبى إن كان هم يعتقدون أننا عآله عليهم فنحسبهم نحن عآلة علينا من زمان والآن سيصبحون عآلة على القارة الأفريقية وربنا يسترنا من مصائبهم اللهم آمين
+Gold targets:
+عآلة على القارة الأفريقية:negative
+الحمل الثقيل:negative
+هذا اليوم السعيد:positive
+التصويت للإنفصال:positive
+رغبتنا كشماليين:positive
+بالمواظن الجنوبى:negative
+Predicted targets:
+Number of predicted targets:1
+كشماليين:positive
+
+Output comment:batch_4_145
+اعتقد ان الشركات التي تصمم برامج مكافحة الفيروسات هي نفسها التى تصصم الفيروس الذي يصيب الكمبيوتر وبعد انتشار الفيروس تقوم الشركة باصدار تحديث لبرامجها حتى تقضى على الفيروس وطبعا كلنا عارفين ليه لمزيد من الربح والمكاسب وكله ضحك على الدقون وسلم لى على الفيروسات
+Gold targets:
+الشركات التي تصمم برامج مكافحة الفيروسات:negative
+الفيروسات:negative
+الفيروس الذي يصيب الكمبيوتر:negative
+برامج مكافحة الفيروسات:negative
+انتشار الفيروس:negative
+Predicted targets:
+Number of predicted targets:2
+مكافحة الفيروسات:negative
+الفيروس:negative
+
+Output comment:batch_2_186
+السلام عليكم و رحمة الله و بركاته ألف ألف ألف مبروك تأهل المنتخب المصري الأولمبي الشقيق لكرة القدم إلى دورة الألعاب الأولمبية لندن 2012 م للمرة الثانية عشرة في تاريخه و عودته إلى هذه البطولة بعد غياب دام 20 عام و شكرا لسعة صدركم و شكرا
+Gold targets:
+البطولة:positive
+المنتخب المصري الأولمبي الشقيق لكرة القدم:positive
+Predicted targets:
+Number of predicted targets:2
+المنتخب المصري الأولمبي الشقيق لكرة:positive
+الأولمبية لندن:positive
+
+Output comment:batch_4_61
+تحذير من إصابة 50 % البشر على وجه الارض بإنفلونزا الخنازير . . حذر جهاز صحي تابع للاتحاد الأوروبي من احتمال إصابة نصف البشرية بالفيروس المسبب لإنفلونزا الخنازير التي ما زالت تتفشى في عدة دول ، في حين قررت الولايات المتحدة خفض الرحلات الجوية إلى المكسيك ، أما الصين فعلقت جميع رحلاتها للمكسيك .
+Gold targets:
+البشر على وجه الارض:negative
+نصف البشرية:negative
+بالفيروس المسبب لإنفلونزا الخنازير:negative
+Predicted targets:
+Number of predicted targets:5
+للاتحاد:negative
+بالفيروس:negative
+لإنفلونزا الخنازير:negative
+الولايات المتحدة:positive
+الصين:positive
+
+Output comment:batch_5_285
+ايها المسلمون انكم ميتون ميتون هادنتموهم ميتون . قاتلتموهم ميتون فليكن موتة الشرفاء ادن احملو السلاح و ههيا للقتال بالاسم الله النصر ات و باذن الله تقوم الساعة فيا من أضلتهم الدنيا استيقظو فقد اقتربت اقتربت اقتربتاقتربت اقتربت اقتربت اقتربت اقتربت الساعة
+Gold targets:
+موتة الشرفاء:positive
+السلاح:positive
+ايها المسلمون:positive
+Predicted targets:
+Number of predicted targets:4
+ميتون:positive
+الشرفاء:positive
+للقتال بالاسم:negative
+النصر ات:positive
+
+Output comment:batch_5_166
+حبيت اولا اقدم تحية للجميع للموضوع الرائع على قضية دامت اكثر من ثمان وخمسين عام سياسة الاحتلال فرق تسد الاخ صلاح البشتاوي الحثد لدى العزاوي زي ما تفضلت هذا على ابن الضفة الي زرعها النظام الاردني الحاكم مش متصله لا عند هذا ولا ذاك
+Gold targets:
+سياسة الاحتلال:negative
+النظام الاردني الحاكم:negative
+Predicted targets:
+Number of predicted targets:3
+عام سياسة الاحتلال:negative
+صلاح البشتاوي:positive
+النظام الاردني الحاكم:negative
+
+Output comment:batch_2_149
+انا من مشجعي ريال مدريد بس بحب اقول رايي بصراحة المواسم الماضية كان برشلونة افضل من ريال مدريد بس الموسم الحالي انا في رايي انو ريال مدريد افضل فريق في العالم ويستحق التتويج بالالقاب واذا لم يحصل عليها هذا الموسم فلن يحصل عليها ابدا لانه لن يحصل على فريق مماثل لما عنده الان
+Gold targets:
+برشلونة:positive
+ريال مدريد:positive
+هذا الموسم:positive
+Predicted targets:
+Number of predicted targets:4
+مشجعي ريال مدريد:positive
+برشلونة:positive
+ريال مدريد:positive
+ريال مدريد:positive
+
+Output comment:batch_5_252
+الكثير من العراقيين هنا في اوربا اصبحوا رؤساء جامعات مفتوحه على الانترنت وهم يدعوان بانهم اصحاب شهادات عليا ومستواهم العلمي لايزيد على هذا الرجل بشيء . . . بل ان بعضهم عمل سابقا في الدول العربيه بنفس شهاداتهم التي يحملها الان . . . . اذا كان عند الالمان واحد . . . فعندنا المئات . . . وشكرا
+Gold targets:
+الكثير من العراقيين:negative
+هذا الرجل:negative
+اصحاب شهادات عليا:negative
+بنفس شهاداتهم:undetermined
+Predicted targets:
+Number of predicted targets:4
+من العراقيين:negative
+جامعات مفتوحه:positive
+شهادات:negative
+العربيه:negative
+
+Output comment:batch_3_71
+على جميع السواح الذاهبين الى مصر ان ياخذوا معهم ماء صحي احسن ما يشربوا ماء الصرف الصحي خوفا من مرض البلهارسيا والاميبا المنتشر اضافه الى اننا نرجوا من الجميع التطيم ضد انفلونزا الجواميس او الخنازير وبجميع الامصال اللازمه خوفا على سلامتكم وصحتكم من كل الامراض المنتشره خاصه الايدز المنتشر في منتجعات شرم الشيخ المملوكه للمستثمرين اليهود وغيرهم
+Gold targets:
+مرض البلهارسيا والاميبا:negative
+انفلونزا الجواميس او الخنازير:negative
+ماء الصرف الصحي:negative
+منتجعات شرم الشيخ المملوكه للمستثمرين اليهود وغيرهم:negative
+الامراض المنتشره:negative
+Predicted targets:
+Number of predicted targets:6
+مصر:positive
+مرض البلهارسيا والاميبا:negative
+الخنازير:negative
+الامراض المنتشره خاصه الايدز المنتشر:positive
+الشيخ:positive
+للمستثمرين:positive
+
+Output comment:batch_2_68
+في البداية ندعو بكل التوفيق للكرة العربية الجزائرية ولكن يجب ان نتعلم من اخطاء الماضي حيث لايوجد حاليا فريق صغير وكبير بل يوجد فريق مثابر يعطي الكرة والكرة تعطيه وانا في رايي ان المجموعة الثالثة صعبة جدا على الجزائر واتوقع ان تصعد وانجلترا وسلوفينيا من هذه المجموعة لما قدموه من عروض قويه في التصفيات ( راي فني لا عاطفي )
+Gold targets:
+للكرة العربية الجزائرية:positive
+وانجلترا وسلوفينيا:positive
+Predicted targets:
+Number of predicted targets:4
+للكرة العربية الجزائرية:positive
+والكرة:positive
+المجموعة:positive
+فني:negative
+
+Output comment:batch_1_136
+ماشهدته اليمن على مدى العام المنصرم من مماطلات طويله بين الرئيس اليمني ومعارضيه يدل على أن المعارضه عجزت عن معالجه الأزمه من جهتها حيث أنها لم تفهم بأن الرئيس ومماطلته في التنحي إنما هو خوف على مستقبل أولاده وأولاد أخيه فكان الأولى بالمعارضه الكشف عن لعبه الرئيس من أجل خلق الحل المرضي وإنهاء الأزمه التي أنهكت البلاد
+Gold targets:
+اليمن:negative
+المعارضه:negative
+الرئيس اليمني:negative
+الأزمه:negative
+البلاد:negative
+Predicted targets:
+Number of predicted targets:8
+اليمن:positive
+العام المنصرم:negative
+الرئيس اليمني:negative
+المعارضه:negative
+الرئيس:negative
+بالمعارضه:negative
+الرئيس:positive
+الحل المرضي:negative
+
+Output comment:batch_2_15
+السلام عليكم انا من الجزائر من مدينة وهران و سوف اعلق على هدا الامر لخسارة المنتخب الجزائري امام سلوفينيا 0 / 1 و المتسبب لخسارة المنتخب الوطني هو الاعب رقم 9 هو غزال الدي دخل في مكان المهاجم جبور و ايضا خطا لسعدان من عدم ادخال بودبوز وان شاء الله الفوز على المنتخب انجليزي و انشاء الله تعود مثل كأس افريقيا
+Gold targets:
+لسعدان:negative
+الاعب رقم 9 هو غزال:positive
+مكان المهاجم جبور:positive
+المنتخب انجليزي:undetermined
+المنتخب الجزائري:undetermined
+لخسارة المنتخب الجزائري:undetermined
+Predicted targets:
+Number of predicted targets:2
+وهران:negative
+المنتخب الوطني:positive
+
+Output comment:batch_4_28
+قال رسول الله صلي الله عليه وسلم ( الذي أنزل الداء أنزل الدواء علمه من علمه وجهله من جهله ) هناك علاج عشبي فعال لجميع أنواع السرطان شرط أن المريض لم يستخدم علاج كيماوي لأنه يتلف الخلايا الحية ويزيد في الخلايا الميتة هاتف 00249122873276 أو 00249915067998 العلاج متوفر بأذن الله وليس فيه أعراض جانبية
+Gold targets:
+الدواء:positive
+الذي أنزل الداء:positive
+علاج كيماوي:negative
+الخلايا الميتة:negative
+السرطان:negative
+علاج عشبي:positive
+رسول الله صلي الله عليه وسلم:positive
+Predicted targets:
+Number of predicted targets:2
+علاج عشبي فعال:positive
+كيماوي:negative
+
+Output comment:batch_3_180
+شكرا على الموصوع ، و نشكر الجزيرة على عرض كا ما هو جديد في عالم تكنولوجيا المعلومات ، و نتمنى من شركة مايكروسوفت الاهتمام اكثر باللغة العربية في منتجاتها ، لتنعم العائلة العربية و تستفيد الاستفادة الكاملة من هذه المنتجات الجميلة و المفيدة
+Gold targets:
+الموصوع:positive
+المنتجات الجميلة و المفيدة:positive
+الجزيرة:positive
+Predicted targets:
+Number of predicted targets:2
+عالم:positive
+العائلة العربية:positive
+
+Output comment:batch_5_212
+جماعة الاخوان المسلمين هي الابن البار للحكومات الاردنيه المتعاقبه و لكن الحكومه و الجماعه تعمل هذه المسرحيات لشد الناخب الاردني نحو الاخوان الذين لا يسمنون ولا يغنون في شيء . بل يختفون خلف اللحي والعباءات و يستثمرون الدين في مصالحهم الحزبيه .
+Gold targets:
+المسرحيات:negative
+اللحي والعباءات:negative
+الحكومه و الجماعه:negative
+الابن البار للحكومات الاردنيه المتعاقبه:negative
+جماعة الاخوان المسلمين:negative
+الدين:negative
+Predicted targets:
+Number of predicted targets:6
+جماعة الاخوان المسلمين هي الابن البار للحكومات:positive
+الاردنيه:negative
+الحكومه و الجماعه:negative
+الاردني:positive
+الاخوان:negative
+والعباءات:positive
+
+Output comment:batch_1_166
+اللهم انصر الشعب السوري الحر الابي ضد الاقصائين من النظام والكل يعرف بتهديد الموظفين والناس خرجت هذه المظاهره كما هو الحال قبل ليله من سقوط القذافي وكذلك قبل سقوط صدام لان هذه الدول دكتاتوريه متخلفه قديمه الحريه لديهم معناه الخيانه
+Gold targets:
+المظاهره:negative
+الشعب السوري الحر:positive
+سقوط صدام:negative
+الاقصائين:negative
+النظام:negative
+Predicted targets:
+Number of predicted targets:4
+الشعب السوري الحر الابي:positive
+النظام:negative
+سقوط القذافي:negative
+هذه الدول دكتاتوريه:negative
+
+Output comment:batch_5_293
+الحمد لله الملك القدوس الواحد القهار كيف تتحدث دولة عن أحقيته بالجزر وهي ليس بالكاد أن تتخذ قرار سديد في إستراتيجياتها الدفاعية العلم يحتفل يالإستغلال عن الإحتلال واخرى تدعو وترحب باللإحتلا والإستعمار من العايدين وكل عام وانتم تتخذون قرار وجيه مثل هذا القرار
+Gold targets:
+أحقيته بالجزر:negative
+دولة:negative
+يالإستغلال عن الإحتلال:positive
+الحمد لله الملك القدوس الواحد القهار:positive
+Predicted targets:
+Number of predicted targets:1
+الملك القدوس الواحد القهار:positive
+
+Output comment:batch_3_188
+. . ولكن النظام الغذائي غير الصحي أو مرض قد يؤدي إلى نقص . إذا كان جسمك هو نقص في الفيتامينات ، هل يمكن تطوير فقر الدم ، وهو مرض في الجسم التي لا تملك ما يكفي صحية خلايا الدم الحمراء . في كثير من الأحيان ، يمكن أن تغير في النظام الغذائي
+Gold targets:
+النظام الغذائي:negative
+Predicted targets:
+Number of predicted targets:3
+النظام الغذائي:negative
+مرض:negative
+الدم:negative
+
+Output comment:batch_4_68
+أو التوضيح للمشاركين الدين يتصرعون بفاعل نفسي في اتهام روسيا أو أمريكا في التضلع في الكارثة أن الطائرة منعت من الهبوط في اسمولنسك بالمطار العسكري نظرا لرداءة الجو رغم دلك حاول الطاقم الهبوط 3 مرات وعند المرة الرابعة تحطم لإنعدام الرؤية . كل التسجيلات مع الطائرة تشهد بذلك فالمرجو الإيتعاد عن الإتهامات العاطفية
+Gold targets:
+Predicted targets:
+Number of predicted targets:2
+للمشاركين الدين:negative
+روسيا أو أمريكا:negative
+
+Output comment:batch_1_22
+الله أكبر على كل ظالم متكبر جبار والله إن القلب ليحزن وإن العين لتدمع على ما يجري لأهلنا في سوريا فكان الله في عون أهل حمص خاصة وأهل سوريا عامة والنصر قريب بإذن الله تعالى .
+Gold targets:
+ظالم متكبر جبار:negative
+أهل حمص:positive
+سوريا:undetermined
+Predicted targets:
+Number of predicted targets:4
+سوريا:negative
+أهل حمص:positive
+وأهل:negative
+والنصر:negative
+
+Output comment:batch_5_151
+هذه من منجزات ( الثورة ) و الأتي أعظم ، ، هنيئا لكم ثورتكم ، ، و بعد التجارب الليبية و العراقية و المصرية و ما شاهدناه من دمار و قتل و إستعمار ، ، نحن في سوريا لا نريد ثورة الفوضة الخلاقة الأميركية . نريد سوريا الأمن و الأمان و العروبة الصادقة .
+Gold targets:
+التجارب الليبية و العراقية و المصرية:negative
+سوريا الأمن و الأمان:positive
+سوريا الأمن:positive
+سوريا الأمن و الأمان و العروبة الصادقة.:positive
+Predicted targets:
+Number of predicted targets:5
+الثورة:negative
+التجارب الليبية و العراقية:positive
+الفوضة:positive
+سوريا الأمن:positive
+العروبة:positive
+
+Output comment:batch_5_362
+ليس من العدل فى شئ ان نبخس حق دول الخليج التى ساعدت ( و مازالت ) تساعد مصر و الدول العربية و الأسلامية . . و المفروض على الحكومة المصرية الحالية ان تؤكد لهم أننا معهم ضد التدخلات الايرانية فى بلادهم .
+Gold targets:
+التدخلات الايرانية:negative
+حق دول الخليج:positive
+Predicted targets:
+Number of predicted targets:5
+العدل:negative
+حق دول:negative
+مصر و:positive
+العربية:negative
+المصرية:positive
+
+Output comment:batch_1_73
+تعليقات التي تنشر الكرة و اطائفيه مثل تعليق رقم واحد هؤلاء فاقدين الانسانية و روح الاسلام في قلوبهم . لا يهمة مسألة قصف المنازل بطائرات و ينظر لذبح الاطفال و النساء على انها رجولة . ما انتن رائحة العفن الذي ينبعث من هؤلاء الذين يريدون الفساد في الارض
+Gold targets:
+قصف المنازل:negative
+Predicted targets:
+Number of predicted targets:5
+تعليقات:positive
+الكرة:positive
+روح:negative
+قصف المنازل بطائرات:negative
+النساء:positive
+
+Output comment:batch_5_353
+الغيرة موجودة بين الأنظمة العربية من زمان ودي مش أول مرة يخيبوا ظننا لكن هذا لا يمس حب المصريين لكل الشعوب العربية التي لا علاقة لها بالسياسة وأيا كان انتماؤه ، وإني على يقين من أن مصر سوف تنهض بفضل الله لا بفضل أموال الخليج
+Gold targets:
+مصر:positive
+الغيرة موجودة:negative
+الشعوب العربية:positive
+حب المصريين:positive
+الأنظمة العربية:negative
+بفضل أموال الخليج:negative
+Predicted targets:
+Number of predicted targets:3
+الأنظمة العربية:negative
+الشعوب العربية:positive
+بالسياسة:negative
+
+Output comment:batch_3_177
+ولد ستيفن بول وظائف 24 فبراير 1955 ، في سان فرانسيسكو لجوان سمبسون ، طالبة دراسات عليا غير متزوجة ، وعبد الفتاح جندلي ، وهو طالب دراسات عليا من حمص الحبيبة . سيمبسون أعطت جوبز للتبني ، على الرغم من زواجها من عبد الفتاح جندلي وبعد سنوات قليلة كان الطفل الثاني معه ، منى سيمبسون ، الذي أصبحت الروائية المشهورة
+Gold targets:
+حمص:positive
+حمص الحبيبة.:positive
+Predicted targets:
+Number of predicted targets:4
+ستيفن بول:negative
+متزوجة:negative
+حمص الحبيبة:positive
+عبد الفتاح جندلي:negative
+
+Output comment:batch_1_174
+لكل الذين يفقون مع هذا النظام البائد اسال الله العلي العظيم ان ينتقم من كل من قتل شعبه وقتل اطفال شعبه و كل من سانده قي الفعل او بالراي ، الثوره السوريه مستمره باذن الله حتى احقاق الحق اسقاط البغاه المجرمين
+Gold targets:
+النظام البائد:negative
+الثوره السوريه:positive
+من قتل شعبه:negative
+Predicted targets:
+Number of predicted targets:3
+النظام:negative
+شعبه:negative
+البغاه:negative
+
+Output comment:batch_4_23
+طلب حسني مبارك أن يتم تصميم طابع بريدي يحمل صورته لتسجيل انتصاراته أثناء الإجتياح الإسرائيلي لقطاع غزة . . وأكد على مجلس الشعب ، ضرورة أن يواكب الطابع البريدي المواصفات العالمية في الجودة ، وطبعا الطباعة على كلفة السعودية . . . تم تصميم وطباعة الطابع وتوزيعه على مكاتب الخدمات البريدية في مصر ، فعادت الأخبار بعد أيام أن الطابع لا يلتصأ
+Gold targets:
+حسني مبارك:negative
+كلفة السعودية:negative
+Predicted targets:
+Number of predicted targets:3
+مبارك:negative
+الإجتياح الإسرائيلي:negative
+السعودية:negative
+
+Output comment:batch_1_94
+يا ريت من الناس اللي عم يعملوا دعاية للمسيرة المؤيدة يتقوا الله وضميرهم عقوبات جماعية للمدن المحتجة قطع كهربا وماء وتعذيب وقصف بيوت وتنكيل ولكن يؤسفني اني ابشركم بفشل وخيبة أمل بالدنيا وعذاب جهنم بالأخرة لانكم تحمون ظهور القتلة . . . سيلعنكم التاريخ والناس مع قادتكم المرعبين المقاومين الممانعين . . .
+Gold targets:
+للمسيرة المؤيدة:negative
+قادتكم المرعبين المقاومين الممانعين:negative
+ظهور القتلة:negative
+Predicted targets:
+Number of predicted targets:3
+دعاية:negative
+للمسيرة المؤيدة:positive
+المحتجة:negative
+
+Output comment:batch_5_19
+ان الانتخابات الرئاسية حاسمة ومصيرية بالنسبة لنا كجزائريين يبحثون على امن واستقرار وازدهار بلادهم فلنلاحظ كم من المنشات انجزت وتقلصت البطالة كما ان المديونية الخارجية سددت قبل اجالهاوكل هذا بتاطير الحكومة الحالية حفظها الله وأدامها وأدامها ومن يريد ان يرجع البلاد الى التسعينيات بمقاطعته للانتخابات فلن يستطيع
+Gold targets:
+الانتخابات الرئاسية حاسمة ومصيرية:undetermined
+الحكومة الحالية:positive
+التسعينيات:negative
+المديونية الخارجية:negative
+امن واستقرار وازدهار بلادهم:positive
+Predicted targets:
+Number of predicted targets:2
+الانتخابات الرئاسية حاسمة ومصيرية:positive
+المديونية الخارجية:negative
+
+Output comment:batch_3_35
+الفيزياء هي علم وصف الطبيعة ويحتاج المرء لذلك لمستوى رفيع من اللغة الأدبية التي تعبر عن الأفكار العميقة التي تليق بوصف ما خلقه الله في ملكوت السماوات و الأرض كما يحتاج إلى معرفة بلغة الرياضيات لتلخيص أفكاره ونثره وشعره برموز تسمح له بالاستنتاج و الاستقراءوالتوقع وربط أحداث الطبيعةبخيوط التعقل والتحليل و التركيب و الشعور .
+Gold targets:
+الأفكار العميقة:positive
+ما خلقه الله في ملكوت السماوات و الأرض:positive
+علم وصف الطبيعة:positive
+Predicted targets:
+Number of predicted targets:4
+اللغة:negative
+الأفكار العميقة:negative
+السماوات:negative
+بلغة:positive
+
+Output comment:batch_1_5
+انا كردي سوري ومثلكم احلم بالحرية وان اكون مثل باقي الادمين انسانا له قيمة . في بلد لا قيمة للانسان فيه . لقد حول النظام الاسدي سورية الى غابة والقوي فيها هو الذي سيعيش . انتهكوا اعراضنا وسرقوا عمر شبابنا ونهبوا البلد حتى اخر فلس . واليوم نزلوا فينا قتلا واغتصابا لحرماتنا . واعتقال شبابنا وبناتنا وتعذيبهم حتى الموت . فهل جرى لكم ما جرى لنا
+Gold targets:
+النظام الاسدي:negative
+سورية:negative
+Predicted targets:
+Number of predicted targets:3
+سوري:negative
+للانسان:negative
+النظام الاسدي سورية:negative
+
+Output comment:batch_5_336
+بعد العلاقات الطيبة بين تركيا واربيل منذ 5 السنوات اصبحت مدينة اربيل مدينة من المدن التركية تطورا والازدهارا قبل ذلك لم تكن اربيل الا حالها حال اي المدينة العراقية عادية لهذا الكثير لا يستطعون التحمل من حسدهم لهذا الازدهار التي تقدمت حقا من قبل تركيا صاحبت الادارة والخبرة والحضارات . . . ولهذا كل هذا الحقد من قبل النفوس الضعيفة والمريضة ، حياالله تركيا والاخوة الاسلامية
+Gold targets:
+تركيا والاخوة الاسلامية:positive
+اربيل:positive
+الازدهار:positive
+المدينة العراقية عادية:negative
+المدينة العراقية:negative
+تركيا:positive
+مدينة اربيل:positive
+تركيا واربيل:positive
+المدن التركية:positive
+العلاقات الطيبة:positive
+Predicted targets:
+Number of predicted targets:8
+الطيبة:positive
+تركيا:positive
+مدينة اربيل:negative
+المدن التركية:negative
+العراقية:negative
+تركيا:negative
+والخبرة والحضارات:positive
+تركيا:negative
+
+Output comment:batch_3_23
+حسب بعض المعلقين و خاصة المغاربة و الليبية . . كل من يدافع عن وطنه فهو من المخابرات . . نحن لا نعيش في سويسرا . . لكننا لسنا مثل ليبيا . و جبهة الانقاذ هي من حللت دماء الجزائريين . . . لذا نحن نكرهها و نكره كل من يساندها . . تحية لمخابراتنا و جنرالاتنا و رئيسنا الشهم . انتم خربتم اوطانكم و نحن لن نحدو حدوكم . . لانكم انتم من يجب ان يقلدنا
+Gold targets:
+جبهة الانقاذ:negative
+Predicted targets:
+Number of predicted targets:3
+المعلقين:negative
+جنرالاتنا:positive
+رئيسنا:negative
+
+Output comment:batch_4_133
+ان خيرة الشعب السوري مهجر خارج البلد بسبب هذا النظام القمعي وحسب احصائيات وزارة المغتربين اكثر من خمسين الف طبيب من ذوي الاختصاصات والخبرات العالية خارج الوطن عدا المهندسين والادباء والمفكرين وغيرهم تستفيد منهم الدول الغربية والاجنبية اي نظام هذا فليسقط غير مأسوف عليه
+Gold targets:
+خمسين الف طبيب من ذوي الاختصاصات والخبرات العالية خارج الوطن:negative
+النظام القمعي:negative
+المهندسين والادباء والمفكرين وغيرهم:undetermined
+خيرة الشعب السوري:positive
+احصائيات وزارة المغتربين:negative
+Predicted targets:
+Number of predicted targets:5
+السوري:positive
+النظام القمعي:negative
+الف:negative
+العالية:positive
+الدول الغربية:negative
+
+Output comment:batch_4_59
+التي تون فوق رؤوس الأطباء وهم فيعملية جراحية للمريض هي روح المريض ، وعلم الأرواح ليس علما ماديا ولا تنطبق عليه المقاييس المادية فالروح تستطيع أن تصل إلى ملايين السنوات الضوئية في لحظة وهي المتحكمة في الجسم وتتذكر كل ما يقع له في خلاصة الإنسان هو الروح وما الجسم إلا أداة ، ولا يستطيع العلماء صنع أرواح
+Gold targets:
+الروح:positive
+Predicted targets:
+Number of predicted targets:1
+الأطباء:negative
+
+Output comment:batch_5_110
+ألف ألف ألف ألف ألف مبروك لقناتى المفضله لدى والله لا أقدر أن أعبر عن تهنئتى الحارة لكم فأقول لكم أمضوا قدما والله يبارك لكم ، وأقدم سلامى لجميع أهل الجزيرة ومراسليها ، وبالخاص خذيجة بن قنه لأنى بحبها أوي إليك منى سلاما خاصا خذيجه . . .
+Gold targets:
+أهل الجزيرة ومراسليها،:positive
+خذيجة بن قنه:positive
+لقناتى المفضله:positive
+Predicted targets:
+Number of predicted targets:2
+لقناتى المفضله:positive
+الجزيرة:positive
+
+Output comment:batch_2_198
+الإرغواي انشأ الله قاهرت البرازيل في عام 1950 تمكنت الأرغواي من هزيمة البرازيل في المبارة النهائية في رودي جانيرو ومن ذلك الوقت اصبحت عقدة للبرازيل واتوقع فوزها بكأس العالم 2010 ويكون الكأس الثالث لها عام 1930 و 1950 وانشأالله 2010 بالنسبة لغانا يكفيها الوصول إلى هذه المرحلة .
+Gold targets:
+هزيمة البرازيل:undetermined
+الكأس الثالث:positive
+لغانا:positive
+الإرغواي:positive
+عقدة للبرازيل:undetermined
+قاهرت البرازيل:positive
+Predicted targets:
+Number of predicted targets:2
+للبرازيل:negative
+لغانا:positive
+
+Output comment:batch_1_45
+الله ينصر أخواننا في غزة الأخوة في حركة حماس الإسلامية ويكف شر اليهود عن أخواننا في غزة . . اللهم انصرهم وثبت أقدامهم فقد دكوا مواطن العدو الصهيوني بوابل من الصواريخ والراجمات وأطلقت صافرات الإنذار في مدن إسرائيلية وهذا بفضل الله وبرحمته حتى أن ضابط صهيوني تحدث بالقناة العاشرة أنهم يواجهون أشباح وصواريخ بلا رامي ! وسبحان الله والحمدلله .
+Gold targets:
+مدن إسرائيلية:negative
+غزة:positive
+حركة حماس الإسلامية:positive
+ضابط صهيوني:negative
+مواطن العدو الصهيوني:negative
+شر اليهود:negative
+Predicted targets:
+Number of predicted targets:7
+أخواننا في غزة الأخوة:positive
+حركة حماس الإسلامية:positive
+أخواننا في غزة:positive
+مواطن العدو الصهيوني:negative
+إسرائيلية:negative
+ضابط صهيوني:negative
+بالقناة:negative
+
+Output comment:batch_4_153
+ويتوقع أن يكون حرم جامعة الملك عبد الله للعلوم والتقنية التي لا تخضع لسيطرة وزارة التعليم ، ساحة حرية تامة إذ لا تمنع القوانين اختلاط الطالبات مع الطلاب في إطار الدراسة ، كما لا تجبرهن على ارتداء العباءة السوداء أو تمنعهن من قيادة السيارات داخل الحرم الجامعي .
+Gold targets:
+Predicted targets:
+Number of predicted targets:3
+وزارة:negative
+العباءة:negative
+السيارات:negative
+
+Output comment:batch_4_32
+الحمد لله رب العالمين . دفع الله ما كان اعظم ولا حول ولا قوة الا بالله . والحمد لله على سلامة الركاب . الخطوط الجوية القطرية من افضل الخطوط الموجودة في العالم . فقد سافرت عدة مرات على متنها . تقدم خدمات عالية وهي مفخرة لكل عربي ومسلم . شهادة لا يمكن نكرانها .
+Gold targets:
+Predicted targets:
+Number of predicted targets:2
+القطرية:positive
+شهادة:negative
+
+Output comment:batch_5_106
+الأخ عبد يطالب ان يحتكم الطرفان لكتاب الله ، ، يبدو ان الاخ عبد الله لايعلم أن جميع فصائل منظمة التحرير هي أما علمانيه أو شيوعيه تعتنق الشيوعيه ، ماركسيه ولينينيه ، وماويه ، ، أي انها تعلن الحرب على الله والأسلام والمسلمين قبل الصهاينه ، ، اما الصهاينه العلمانيين فهم حلفائهم في العقيد ، ، أفيقوا
+Gold targets:
+جميع فصائل منظمة التحرير:negative
+الصهاينه العلمانيين:negative
+الحرب على الله والأسلام والمسلمين:negative
+الاخ عبد الله:negative
+الأخ عبد:negative
+Predicted targets:
+Number of predicted targets:5
+عبد:negative
+الاخ عبد:positive
+الحرب:positive
+الصهاينه:negative
+الصهاينه العلمانيين:negative
+
+Output comment:batch_5_46
+الأخوة الذين يطالبون الكاتب بدليل على أن السعودية تضغط للحؤول بين مبارك والمحاكمة انتقائيون عجيبو التفكير ، إذ كيف يتغافلون عن ذلك الفيض من المعالم التي طرحها الكاتب ، والتي تدلل على الموقف السلبي والعدائي للثورة المصرية من قبل هذه الأنظمة الخليجية .
+Gold targets:
+السعودية:negative
+الأخوة:negative
+الأنظمة الخليجية.:negative
+الموقف السلبي والعدائي للثورة المصرية:negative
+Predicted targets:
+Number of predicted targets:5
+السعودية:positive
+الكاتب:negative
+والعدائي:negative
+المصرية:negative
+الأنظمة:negative
+
+Output comment:batch_5_97
+المقاومة الخيار الناجع للوحدة والسلام وليس المفاوضات التي لا زمن لها فقظ الكيان الصهيوني هو من يحدد موعدها مع اعوانه امريكا وبريطانيا واختلاف الفلسطنين طبيعي الا ان الذين يبعون المربع العربي الذي ما يسمي بدول الاعتدال التي تدعو وتدعم الحوار مع الكيان هم من يقومون بزعزة الامور ويعملون علي توسيع الشرخ بين الفلسطنين والكيان هو الكاسب .
+Gold targets:
+الخيار الناجع:positive
+الكيان:negative
+المفاوضات:negative
+الكيان الصهيوني:negative
+بدول الاعتدال:negative
+المقاومة:positive
+اعوانه امريكا وبريطانيا:negative
+للوحدة والسلام:positive
+الحوار مع الكيان:negative
+يبعون المربع العربي:negative
+Predicted targets:
+Number of predicted targets:5
+المقاومة:positive
+الناجع:negative
+الكيان الصهيوني:negative
+امريكا وبريطانيا:negative
+المربع:negative
+
+Output comment:batch_3_111
+السكري النوع الثاني يبدأ بتطوير الخلايا مقاومه للانسولين ثم يتضرر البنكرياس فتضرر قدرة افراز الانسولين ، لذلك في مرحلة معينه من المرض هناك حاجة لاستعمال حقن الانسولين ، اما النوع الاول فسببه عدم القدره على افراز الانسولين لسبب غير معلوم دون اي مشكله لخلايا الجسم على التفاعل مع الانسولين وبالتالي ادخال الجلوكوز
+Gold targets:
+Predicted targets:
+Number of predicted targets:0
+
+Output comment:batch_4_30
+في تقييم الرياضيات وفي موضوع جانبي حول المصادر المساعدة في البيت كان هناك سؤال عن اعلى مستوى لاحد الابوين في البيت الصاعقة كانت قطر 65 % احد الابوين جامعي او اعلى وهي اعلى نسبة في الدول المشاركة في الدراسة واعلى من النرويج . . . اي مصداقية لمشاركة هكذا دول في هكذا تقييم ؟ ؟ ؟ ؟ ؟ ؟ ؟ ؟ ؟ ؟ ؟ ؟ ؟
+Gold targets:
+Predicted targets:
+Number of predicted targets:3
+البيت:positive
+لمشاركة:negative
+دول:positive
+
+Output comment:batch_5_45
+رئيس حكومة لبنان يجب أن يتمتع بالحكمة وبعد النظر من أمثال عمر كرامي أو ميقاتي أو الحص الله يعطيه الصحة وطول العمر وليس مثل سعد مع كل الاحترام . . . فكما هو معروف للجميع المال لايصنع الرجال . وإنما الرجال هم من يصنعون المجد للبنان . بوركت المقاومة ومن يدعمها . .
+Gold targets:
+سعد:negative
+المجد للبنان:positive
+عمر كرامي أو ميقاتي أو الحص:positive
+Predicted targets:
+Number of predicted targets:2
+رئيس حكومة لبنان:negative
+عمر كرامي:positive
+
+Output comment:batch_4_190
+شكرا على الموصوع ، و نشكر الجزيرة على عرض كل ما هو جديد في عالم تكنولوجيا المعلومات ، و نتمنى من شركة مايكروسوفت الاهتمام اكثر باللغة العربية في منتجاتها ، لتنعم العائلة العربية و تستفيد الاستفادة الكاملة من هذه المنتجات الجميلة و المفيدة
+Gold targets:
+شركة مايكروسوفت:positive
+الجزيرة:positive
+المنتجات الجميلة و المفيدة:positive
+Predicted targets:
+Number of predicted targets:2
+عالم:positive
+العائلة العربية:positive
+
+Output comment:batch_5_232
+من المؤكد أن وراء أطلاق سراح البغدادي هو شلقم فقد عملوا معا في اللا نظام ويعرفون اسرار بعض . وإن كان هناك رشاوى دفعت وأنا أشك كثيرا في ذلك ، فإن كليهما قد فر بملايين الدولارات . فترةت شلقم تقدر ب 30 مليون دولار أما البغدادي فتفوق المائة مليون .
+Gold targets:
+أطلاق سراح البغدادي:negative
+فترةت شلقم تقدر بـ 30 مليون:negative
+شلقم:negative
+فترةت شلقم:negative
+Predicted targets:
+Number of predicted targets:3
+سراح البغدادي:negative
+شلقم:negative
+البغدادي:negative
+
+Output comment:batch_2_141
+لقد لعب المنتخب المغربي مبارته ضد غينيا مبارة قوية كان ينقصه بعض الفعالية في الهجوم مع الحكم السيئ للحكم ومع تصريح المدرب و اللاعبين أكدوا على الفوز في المبارة القادمة أمام غانا ان شاء الله ومع حضور اللاعب العلودي ونتمنى كل التوفيق للمغاربة
+Gold targets:
+تصريح المدرب و اللاعبين:positive
+للمغاربة:positive
+الحكم السيئ للحكم:negative
+المنتخب المغربي:positive
+Predicted targets:
+Number of predicted targets:3
+المنتخب المغربي:negative
+غينيا:negative
+غانا:positive
+
+Output comment:batch_1_79
+الظاهر ان اللعبه اشتغلت اليوم إسرائيل تضرب غزة وبكره تقول غزه تأتى بإسلاح من لبنان وبعدين من إيران ويحصل بين إسرائيل وإيران حرب مصتنعة ومن ثم الجعجة والمتاجرة بإسم القضية الفلسطنية ولا غرابه إحنا من اعطاهم الفرصه تركنا ميدان المعركة فأخذو مكاننا للمتاجره به ولا حول ولا قوة إلا بالله
+Gold targets:
+إيران:negative
+حرب مصتنعة:negative
+القضية الفلسطنية:undetermined
+إسرائيل:negative
+ميدان المعركة:undetermined
+Predicted targets:
+Number of predicted targets:5
+إسرائيل:negative
+بإسلاح:negative
+إسرائيل وإيران:negative
+القضية الفلسطنية:negative
+المعركة:positive
+
+Output comment:batch_1_46
+بسم الله بدأت هذه الانتفاضة وعلى بركة الله تتواصل من أجل اجتثاث هذا النظام الظالم والمتسلط والذي يعرف كل شيء الا الانسانية . . لماذا يبقى بشار المتغطرس في منصبه ويقتل كل هؤلاء الابرياء من أبناء شعبه وجلدته . . والله اليهود لم يفعلو ما يفعله بشار بشعبه . . حسبنا الله ونعم الوكيل . . . وسيعلم الذين ظلمو اي منقلب ينقلبون . . والنصر قريب ان شاء الله
+Gold targets:
+النظام:negative
+اليهود:positive
+بشار المتغطرس:negative
+الانتفاضة:positive
+Predicted targets:
+Number of predicted targets:4
+الانتفاضة:negative
+النظام الظالم:negative
+بشار:negative
+بشار:negative
+
+Output comment:batch_5_32
+الف مبروك لأبي حمزة يبدو ان الرجل عمره طويل وعلاقتة برب العالمين علي ما يرام لانه سوف يسلم الي امريكا وليس الي مكان اخر . أمك داعيا لك يا أبي حمزة . . ألف مبروك الله نجاك من الشلاليت والمشي علي الجمر . في امريكا تفطر كورنفلكس وفروت يوقت وتتغدي استيك بالبطاطس ، لبراون صوص
+Gold targets:
+امريكا:positive
+لأبي حمزة:positive
+استيك بالبطاطس ، لبراون صوص:positive
+الشلاليت والمشي علي الجمر:negative
+الرجل عمره طويل:positive
+Predicted targets:
+Number of predicted targets:3
+لأبي:positive
+حمزة:positive
+كورنفلكس:negative
+
+Output comment:batch_2_25
+شوستر مدرب لا يستحق الريال الفريق يتراجع شيء فشيء وهو يفكر في لاعبي منالمقدمة الريال لا يحتاج الى مهاجمين هو بحاجة الى لاعبي خط وسط دفاعي الى متى والريال يهزم من اضعف فرق اوربا ياجماعة الريال تغير 180 درجة ، نحن بحاجة الى مدرب ينمي مهارات الفريق ويبعث روح الحماس في الفريق .
+Gold targets:
+الريال:negative
+اضعف فرق اوربا:negative
+شوستر:negative
+Predicted targets:
+Number of predicted targets:2
+شوستر مدرب:negative
+الريال:positive
+
+Output comment:batch_2_19
+صحيح انا زملكاوى ولم اكن اتوقع فوز الاهلى لكن الاهلى فاجانى بالمستوى واللياقة العالية كما فوجئت بمستوى الصفاقص المتدنى والفكر العقيم لمدربه وعموما الاهلى يستحق لانه يمتلك ادارة جيدة و لاعبيين عندهم روح للنادى اللذين يلعبون له اما الاخ المغربى فاقول له بصوت العقل انتو حظكوا عالى علينا فى المنتخب اما الاندية فالمصريين افضل منكم بمراحل والدليل النتائج يا عزيزى
+Gold targets:
+بمستوى الصفاقص المتدنى والفكر العقيم لمدربه:negative
+الاهلى:positive
+Predicted targets:
+Number of predicted targets:4
+للنادى:positive
+الاخ:negative
+الاندية:positive
+بمراحل:positive
+
+Output comment:batch_2_33
+مصر لعبت بقوة ولياقة بدنية عالية وهذا ادي الي هزيمتها في الشوط الثاني من وجهة نظري منتخب مصر الأول علي العالم في اللعب الجماعي والإصرار علي الفوز بالبطولات المجمعة انشاء الله بنعوضها بإسبانيا ومبروك لمصر علي الأداء الرائع والجميل مصر كانت احسن من انجلترا بس للعلم وتحياتي للموقع المميز . . . سالسلام عليكم من فلسطين . . غزة
+Gold targets:
+انجلترا:undetermined
+منتخب مصر:positive
+لمصر:positive
+مصر:positive
+Predicted targets:
+Number of predicted targets:6
+مصر:positive
+نظري منتخب مصر:positive
+لمصر:positive
+والجميل:positive
+انجلترا:negative
+فلسطين:negative
+
+Output comment:batch_2_159
+ألف مبروك للمنتخب المصري الشقيق على الفوز الصعب على المنتخب الرواندي لكن بكل صراحة أداء ضعيف جدا أمام منتخب ضعيف يثبت مرة اخرى تراجع المنتخب المصري عن اداءه المعهود وبهذا المستوى لن تذهب مصر بعيدا في هذه التصفيات اللهم اذا تمكنوا من تصحيح أخطائهم في أسرع وقت وبالتوفيق للمنتخب الجزائري في الوصول الى جنوب أفريقيا
+Gold targets:
+للمنتخب الجزائري:positive
+المنتخب الرواندي:undetermined
+مصر:undetermined
+للمنتخب المصري الشقيق:undetermined
+المنتخب المصري:negative
+للمنتخب المصري:positive
+Predicted targets:
+Number of predicted targets:5
+للمنتخب المصري الشقيق:positive
+المنتخب المصري:positive
+مصر:positive
+للمنتخب الجزائري:positive
+أفريقيا:negative
+
+Output comment:batch_3_135
+شكرا على المعلومات المفيدة ، أقترح على الخطوط الجوية القطرية ان تقدم مثل هذا الطعام الصحي في رحلاتها ، خاصة الرحلات طويلة المدى الى امريكا و اوروبا و شرق آسيا و أستراليا ، لتعطي ميزة اضافية للمسافرين لاختيارها ، خاصة انها تعتبر من احسن الخطوط الجوية في العالم .
+Gold targets:
+الطعام الصحي:positive
+الخطوط الجوية القطرية:positive
+الخطوط الجوية:positive
+Predicted targets:
+Number of predicted targets:4
+المعلومات المفيدة:positive
+الخطوط الجوية القطرية:positive
+الطعام الصحي:positive
+ميزة اضافية للمسافرين:positive
+
+Output comment:batch_1_10
+اعداد القتلى في صفوف الارهابيين بالمئات و من الصعب حصر اعداد القتلى بشكل دقيق بسبب الحرب الشاملة التي يشنها الجيش العربي السوري في اماكن تواجدهم . 118 قتيل هو استخفاف بعقول القراء اذ كيف يتم احصاء قتلى الارهابيين في الاحراش و البساتين ! . لقد جلبتم الدمار للشعب السوري بسبب اعلامكم التحريضي و الفتنوي و الدور سوف يصلكم .
+Gold targets:
+الحرب الشاملة:undetermined
+اعلامكم التحريضي:negative
+صفوف الارهابيين:negative
+للشعب السوري:undetermined
+الدمار:negative
+قتلى الارهابيين:negative
+Predicted targets:
+Number of predicted targets:5
+صفوف الارهابيين:negative
+الحرب:negative
+الجيش العربي السوري:positive
+الارهابيين:negative
+الدمار للشعب السوري:negative
+
+Output comment:batch_3_138
+يا ريت العرب يعملوا بمقابل البرامج الفنية مثل سوبر ستار وأكس فاكتر وغيرها من البرامج إلى برامج للبحث عن النوابغ والعقول والمخترعين ودعمها لكي تتطور البلاد العربية وتصبح بلاد صناعية وليس إستهلاكية وحسب . ويتوقفوا عن التآمر على العقول المخترعة لمحاصرتها وتهجيرها إلى دول أجنبية . لخدمة أهداف إستعمارية بمساعدة عملائها من الأنظمة العربية
+Gold targets:
+العرب:negative
+البرامج الفنية:negative
+النوابغ والعقول والمخترعين:positive
+الأنظمة العربية:negative
+أهداف إستعمارية:negative
+بلاد صناعية:positive
+البرامج:negative
+Predicted targets:
+Number of predicted targets:7
+العرب:negative
+البرامج الفنية:negative
+النوابغ:positive
+البلاد العربية:positive
+العقول المخترعة:negative
+عملائها:negative
+العربية:negative
+
+Output comment:batch_5_391
+كلام خالد رقم 34 مضحك عندما يقول ان السعودية قادرة على ارجاع ايران الى العصر الحجري بكيسة زر والله يا اخي هذا لا يفكر بعقل سليم لان السعودية لا تملك جيشا اصلا بستطسع ان يقاتل والحوثيون كانوا اوضح مثال عندما كبدوا الجيش السعودي الهزائم والويلات فاين اذن انتم من ايران وجيشها تكلم بمايقبله عقل يا سيد خالد ؟ ؟ ؟ ؟ ؟ ! ! ! ! ! !
+Gold targets:
+السعودية:negative
+ايران وجيشها:positive
+العصر الحجري:negative
+ايران:positive
+الجيش السعودي:negative
+Predicted targets:
+Number of predicted targets:7
+السعودية:positive
+ايران:negative
+العصر الحجري:negative
+السعودية:positive
+الجيش السعودي الهزائم:negative
+ايران:negative
+وجيشها:positive
+
+Output comment:batch_5_368
+الساده الافاضل المعارضين : اين كنتم عندما سلم السيد عبد الرحمن سوار الدهب الحكم للمدنين ؟ اين كنتم عندما امسكتم زمام الامور فى السودان ؟ ان انتم نسيتم سوء ادارتكم للبلاد . . نحن لم ننسى . . قولوا خيرا او اصمتواافضل لكم ، بدلا من المهاترات التى تضر بالبلاد .
+Gold targets:
+المهاترات التى تضر بالبلاد.:negative
+Predicted targets:
+Number of predicted targets:2
+الافاضل:positive
+السيد عبد الرحمن:negative
+
+Output comment:batch_5_89
+ليس من مصلحة دول الخليج الملكية ان ترى قوة عربية غير ملكية . . . اقرأوا تاريخ العرب في الستينات والسبعينات من القرن الماضي . . وفرحة الكويت في تدمير العراق . . . وفرحة السعودية في النكسة . . . والدعوة الآن للأردن والمغرب الى دول التعاون الخليجي . . . انه نفس الصراع بين ما كنا نسميه تقدمية ورجعية . . . تعددت الأسماء . . والشيء واحد .
+Gold targets:
+النكسة:negative
+دول التعاون الخليجي:negative
+نفس الصراع:negative
+للأردن والمغرب:negative
+تاريخ العرب:negative
+دول الخليج الملكية:negative
+تدمير العراق:negative
+Predicted targets:
+Number of predicted targets:4
+مصلحة دول الخليج الملكية:negative
+الكويت:negative
+السعودية:negative
+دول:negative
+
+Output comment:batch_3_142
+نعم اننى وبحكم مهنتى اؤكد ان المانيا وخصوصآ بعد ان اصبح ما يسمى بالبابا منها ، هي مصدر كل الحملات المغرضة ظد الاسلام بتحريظ مباشر من جوزف راتسينقر او الباابا ، حيث انشات عدة اذاعات تنصيرية و / ليست تبشيرية / بالغة العربية ومحطات تستهزئ وتستخف بالسلام وتنفر منه مثل فيونيكس والدوكوكانال . وهناك 3 مراكز تصدر كتب مخصصة لفتنه المسلمين فى دينهم . / / ان استطاعوااااا / /
+Gold targets:
+المانيا:negative
+جوزف راتسينقر:negative
+اذاعات تنصيرية:negative
+بالبابا:negative
+جوزف راتسينقر او الباابا:negative
+الاسلام:positive
+بتحريظ مباشر:negative
+Predicted targets:
+Number of predicted targets:6
+المانيا:negative
+ما يسمى بالبابا:negative
+الحملات المغرضة ظد الاسلام:negative
+جوزف راتسينقر او الباابا:negative
+اذاعات تنصيرية و / ليست تبشيرية / بالغة العربية:negative
+كتب مخصصة لفتنه المسلمين:negative
+
+Output comment:batch_5_80
+نعم توحدت جميع الفصائل بعدم الإعتراف بالكيان الصهيوني الأمر الذي يبرز جليا أن الشعب الفلسطيني متماسك في هذا الامر ولكن لماذا لا يتحدون وتنهي حماس وفتح الجدال القائم بينهم منذ فترة . . ويهنأ كل العرب بوحدتهم فلربما نستطيع أن نقول لأعدائنا لا ففلسطين أتحدت وأن العرب لقادمون . . .
+Gold targets:
+العرب لقادمون:positive
+الإعتراف بالكيان الصهيوني:negative
+كل العرب:positive
+الجدال القائم:negative
+الشعب الفلسطيني:positive
+Predicted targets:
+Number of predicted targets:4
+الفصائل:negative
+الشعب الفلسطيني:positive
+العرب:negative
+العرب:negative
+
+Output comment:batch_2_174
+البرازيل لاتستحق الفوز بالبطولة لأنها كانت متذبذبة طوال البطولة ، ثم إن البرازيل فازت على أوروجواي بضربات الحظ في دور الأربعة ، ولقد لعبت أوروجواي مباراة العمر وأبدعت وكافحت ولكن الحظ عاندها . . لقد شجعت أوروجواي بحرارة في تلك المباراة . . البرازيل لاتستحق الكأس مطلقا . . الكأس كان المفروض للأرجنتين أو أوروجواي
+Gold targets:
+للأرجنتين أو أوروجواي:positive
+أوروجواي:positive
+الفوز بالبطولة:undetermined
+البرازيل:negative
+Predicted targets:
+Number of predicted targets:4
+البرازيل:negative
+البرازيل:positive
+أوروجواي:negative
+أوروجواي:negative
+
+Output comment:batch_2_165
+المنتخب الوحيد الذي يستحق الكاس هو هولندا لم يخسرو اي مباراة ليس فقط في البطولة ولكن حتى في التصفيات المؤهلة لكاس العالم هكذا هو الفريق المثالي لا مانع من فوز اسبانيا لكن المانيا لا تستحق لان فوزهم على انجلترا كان مبنى على تحكيم سيء
+Gold targets:
+المانيا:negative
+انجلترا:positive
+هولندا:positive
+Predicted targets:
+Number of predicted targets:5
+المنتخب الوحيد:positive
+هولندا:negative
+لكاس:positive
+اسبانيا:positive
+انجلترا:negative
+
+Output comment:batch_3_4
+لا اعتقد انها تتقدم على نظريتها الامريكية أف 22 رابتور لانه الامريكيين يتفوقون على الروس بأشواط كثيرة في مجال الالكترونيات وهناك برامج مساعدات امريكي للروس في هذا المجال ! ! ولوفرضنا ان محرك هذا الطائرة اقوى من محرك الرابتور فإن هذا غير كاف في مجال الطيران
+Gold targets:
+نظريتها الامريكية أف 22 رابتور:positive
+الامريكيين:positive
+محرك هذا الطائرة:undetermined
+Predicted targets:
+Number of predicted targets:3
+الامريكية:negative
+امريكي:negative
+هذا الطائرة:positive
+
+Output comment:batch_2_170
+الله اكبر ولله الحمد الفريق العربى الوحيد فى المونديال شرف العرب فبعد مباره رائعه اما سلوفاكيا وكان هو الاقرب للفوز يعود الفريق العربى الوحبد ويحقق التعادل مع بطل العالم بعد ان تقدم عليه بهدف ولكن الحظ جعل بطل العالم يتعادل يعنى من حق نيوزيلاندا تفتخر لانها احرزت هدفين ولا عزاء لمنتخب الصابغين
+Gold targets:
+سلوفاكيا:positive
+نيوزيلاندا:positive
+الفريق العربى الوحيد:positive
+بطل العالم:positive
+Predicted targets:
+Number of predicted targets:4
+العرب:positive
+العالم:negative
+العالم:positive
+حق نيوزيلاندا:negative
+
+Output comment:batch_4_143
+تعطي حقنة لجميع المواليد في السعودية عند الولاده طبعا سبب نقص فيتامين ك عند المواليد هو ان امعاء المواليد معقمة جدا ولا تحتوي على البكتيريا المفيده المنتجه لفيتامين ك وبعد عده اشهر تبداء البكتيريات المفيده التكاثر في الامعاء و انتاج فيتمامين ك
+Gold targets:
+البكتيريا المفيده المنتجه لفيتامين ك:positive
+البكتيريات المفيده:positive
+نقص فيتامين ك عند المواليد:negative
+Predicted targets:
+Number of predicted targets:4
+لجميع:negative
+امعاء المواليد:negative
+البكتيريا المفيده:positive
+البكتيريات المفيده:positive
+
+Output comment:batch_4_116
+غذائكم دوائكم ، صدق رسول الله ، أما العلاج بالأشعة والمواد الكيميائية فتضعف خلايا الجسم السليمة مع الخلايا السرطانية وبالتالي يضعف الجسم كله ، النهاية موت الخلايا السرطانية بموت الخلايا السليمة ، فلماذا لا نبحث عن الأدوية التي في الغذاء والخضار والفواكه وباقي النباتات ، وعلى الأقل تبقى صحية أكثر والفستق من بينها .
+Gold targets:
+رسول الله،:positive
+موت الخلايا السرطانية:undetermined
+العلاج بالأشعة والمواد الكيميائية:negative
+الخلايا السرطانية:negative
+Predicted targets:
+Number of predicted targets:1
+العلاج:negative
+
+Output comment:batch_2_167
+أحسن مدرب في الوقت الراهن السيد رابح سعدان . أحسن لاعب في الوقت الراهن اللاعب مراد مغني الفنان والذكي . أحسن فريق في مجموع الفرق المشاركة هو الفريق الجزائري والذي يعتبر الفريق الوحيد الذي تأهل من مباراة واجه من خلالهانظام بكامله ونتمنى أن يكون النهائي بين الجزائر وفرنسا
+Gold targets:
+أحسن لاعب:positive
+الفريق الجزائري:positive
+الجزائر وفرنسا:positive
+Predicted targets:
+Number of predicted targets:6
+أحسن مدرب:positive
+السيد:positive
+لاعب:negative
+اللاعب مراد:positive
+الجزائري:positive
+الجزائر وفرنسا:negative
+
+Output comment:batch_3_76
+الله ينجينا من سياسات آميركا و خباثاتها . آميركا حامية الصهاينة و تدعي بالعدل و العدالة فبآية مقاييس إنسانية تنتسب إليها الولايات المتحدة الأميريكية فهي مفلسة من القيم و الشيم الإنسانية و الحضارية بتبنيها لإسرائيل . إيران في ذروة الحق و التقدم العلمي و هذا ما يزعج آميركا و إسرائيل معا .
+Gold targets:
+القيم و الشيم الإنسانية و الحضارية:undetermined
+آميركا:negative
+الولايات المتحدة الأميريكية:negative
+آميركا و إسرائيل:negative
+التقدم العلمي:positive
+سياسات آميركا و خباثاتها:negative
+لإسرائيل:negative
+بالعدل و العدالة:undetermined
+الصهاينة:negative
+سياسات آميركا:negative
+Predicted targets:
+Number of predicted targets:9
+سياسات آميركا:negative
+آميركا حامية الصهاينة:negative
+العدالة:positive
+الولايات المتحدة الأميريكية:negative
+الشيم:positive
+و:positive
+إيران:positive
+و:positive
+إسرائيل:negative
+
+Output comment:batch_5_344
+أنا صيدلى أعمل فى أمريكا أندهش من أين أتيتم بهذه الارقام عن أمريكا ؟ . . . الاصابات فى امريكا لا تتعدى 200 ألف فى كل أمريكا و بعض الحالات غير مؤكدة . . . و الوفيات حوالى 15 حالة فقط فى كل أمريكا . . . و معظم الحالات فى المستشفيات تم شفاءها
+Gold targets:
+معظم الحالات:positive
+كل أمريكا:positive
+الارقام عن أمريكا:negative
+المستشفيات:positive
+Predicted targets:
+Number of predicted targets:3
+أمريكا:negative
+امريكا:negative
+أمريكا:negative
+
+Output comment:batch_3_149
+مخترع الانترنت هو السير تيموثي بيرنرز - لي الانجليزي الجنسية أثناء عمله في المعهد الاوروبي لأبحاث الطاقة النووية - سيرن - حيث انطلقت الانترنت عام 1991 . . لينوارد كلينروك عالم رياضيات من جامعة كاليفورنيا وله اسهامات عظيمة في مجال شبكات الحاسوب لكنه ليس من اخترع الانترنت
+Gold targets:
+لينوارد كلينروك:positive
+Predicted targets:
+Number of predicted targets:2
+مخترع الانترنت:negative
+الانترنت:negative
+
+Output comment:batch_2_48
+لا يوجد شخص شاهد المستوى الباهر الذي ظهر عليه المنتخب الارجنتيني إلا انحنى اعجابا وتقديرا لنجوم التانجو الذين سحروا الملايين من المشاهدين بالعروض القوية واللمسات السحرية واللعب الجماعي والاصرار والانتماء لبلدهم والحلول السريعة والجذرية لكل العقبات الناتجة عن تكدس الفريق المقابل امام المرمى مما يجعل منه منتخب الاحلام الذي يستحق البطولة عن جدارة واستحقاق .
+Gold targets:
+لنجوم التانجو:positive
+منتخب الاحلام:positive
+المنتخب الارجنتيني:positive
+تكدس الفريق المقابل امام المرمى:negative
+Predicted targets:
+Number of predicted targets:4
+المنتخب الارجنتيني:negative
+القوية:positive
+واللمسات السحرية:positive
+الاحلام:positive
+
+Output comment:batch_4_35
+تريد أن تجعل اللغة العامية لغة موحدة بين العرب ولدى العرب اصلا لغة موحدة وهي اللغة الفصحة وبدلا من الاهتمام بها والتركيز لها والتخلص من الاشياء التي تعيق اللغة العربية الفصحة مثل اللغة العامية كانت ردة الفعل معاكسة تماما ولسان حال المقال دعكم من الفصحة . . .
+Gold targets:
+الاشياء التي تعيق اللغة العربية الفصحة:negative
+اللغة العربية الفصحة:positive
+اللغة العامية:negative
+لغة موحدة وهي اللغة الفصحة:positive
+لغة موحدة بين العرب:undetermined
+Predicted targets:
+Number of predicted targets:5
+اللغة العامية:positive
+موحدة بين العرب:positive
+العرب اصلا:positive
+موحدة:negative
+العربية الفصحة:negative
+
+Output comment:batch_3_65
+ينبغى على الاطباء عدم الافراط فى استخدام الكورتيزون للعلاج كما ان الكورتيزون الذى يؤخذ عن طريق الاستنشاق اقل فى الاعراض الجانبيه من الطرق الاخرى كاحقن او الشراب كما ظهرت نتائج ايجابيه لاستخدام العلاج بالوخز بالابر الصينيه لكثير من الحالات لكن عند الطبيب المتخصص بالابر الصينيه
+Gold targets:
+الكورتيزون:negative
+الكورتيزون الذى يؤخذ عن طريق الاستنشاق:negative
+Predicted targets:
+Number of predicted targets:4
+الكورتيزون للعلاج:negative
+الجانبيه:negative
+العلاج:negative
+بالوخز بالابر:negative
+
+Output comment:batch_3_169
+شكرا على المواضبع العلمية و الهندسية القيمة ، و نتمنى منكم الكتابة عن البرامج التعليمية في الحاسوب ، و عرض شرح كل برنامج تعليمي يستخدم الحاسوب لتسهيل فهم الطلاب للمادة الدراسية ، و ارشاد المعلمين العرب الى كيفية الحصول على هذه البرامج التعليمية و استخدامها ، بارك الله فيكم و الله يعطيكم العافية
+Gold targets:
+البرامج التعليمية:positive
+المواضبع العلمية و الهندسية القيمة:positive
+Predicted targets:
+Number of predicted targets:1
+البرامج:negative
+
+Output comment:batch_4_60
+لا أتفق مع كاتب المقال من حيث الأمثلة التي ساقها . . . فكما حكى قبلي أحد المشاركين يتعلق الأمر بتحريف في كتابة اللغة الانجليزية و ليس العربية . . . كل لغات العالم هي مهددة بلغة الانترنت و العولمة ، لهذا يلزم المهتمين و الغيورين على لغة الضاد أن يبذلوا قصارى جهودهم للتأقلم مع معطيات هذا العالم الرقمي و عالم التكنولوجيا . . .
+Gold targets:
+كتابة اللغة الانجليزية:negative
+المهتمين و الغيورين:positive
+Predicted targets:
+Number of predicted targets:3
+المقال:negative
+اللغة الانجليزية:negative
+العالم:negative
+
+Output comment:batch_1_97
+إلى جميع المعلقين المعركة في سوريا العروبة انتهت لصالح الجيش العربي السوري البطل . انتهت المعركة ومابقي إلى الإرهابيين التكفيريين المجرمين اللذين يفجرون الأبرياء لأنهم جبناء من ان يواجهوا الأبطال . هذا ديدنهم يختبئون بين الأبرياء ويفجرون الأبرياء . فلتحيا سوريا ويحيا الجيش السوري .
+Gold targets:
+الجيش العربي السوري:positive
+الإرهابيين التكفيريين:negative
+سوريا:positive
+الأبرياء:undetermined
+سوريا العروبة:positive
+Predicted targets:
+Number of predicted targets:5
+المعلقين المعركة:negative
+سوريا العروبة:positive
+الجيش العربي السوري:positive
+الإرهابيين التكفيريين:negative
+الجيش:positive
+
+Output comment:batch_4_92
+دكرتنى بحادثة لجدتى التى لا تجيد القراءة ولا الكتابة ، سئلتها كم عمرك ؟ فقالت ا عتقد ا نه مئة او مئتين ، فلما لمحتنى مبتسما ، قالت او ربما الفا او الفي سنة ! / لما بالغت الجدة في عمرها الحقيقي هل هي سياسة الحيلة للتهرب من عمرها الحقيقي فإذا كانت الجدة الطيبة تجيد الكتابة و القراءة فكيف عندئذ ستتصرف أكيد ستكون خارقة الذكاء .
+Gold targets:
+لجدتى:positive
+Predicted targets:
+Number of predicted targets:0
+
+Output comment:batch_2_169
+شباب شوفو المقارنة بين ميسي افضل لاعب في العالم وبين رونالدو الغبي في السرعة ميسي اسرع في الاختراق ميسي افضل في صناعة الاهداف ميسي افضل في بناء الهجمات ميسي افضل في اللعب الجماعي اكيد ميسي اكيد ميسي اكتر جماعية في الروح الرياضية اكيد ميسي افضل مادا بقى لرونالدو ادا رونالدو يتفوق على ميسي فقط بالضربات الراسية والتسديدفقط لاغير
+Gold targets:
+لرونالدو:negative
+ميسي افضل لاعب في العالم:positive
+ميسي:positive
+رونالدو الغبي:negative
+Predicted targets:
+Number of predicted targets:11
+ميسي:positive
+رونالدو الغبي:negative
+ميسي:positive
+ميسي:positive
+ميسي:positive
+الهجمات ميسي:positive
+ميسي:positive
+ميسي:positive
+ميسي:positive
+رونالدو:positive
+ميسي:positive
+
+Output comment:batch_1_49
+قال الأسد لأوغلو : إننا لا نحتاج لأكثر من ست ساعات حتى نشعل الشرق الأوسط إذا ما أطلق أحد أي صاروخ على سوريا وأن حزب الله سيهاجم إسرائيل وإيران ستهاجم السفن والبوارج الغربية في الخليج . وكشف عن الوجه الطائفي للحكم السوري بكل صراحة .
+Gold targets:
+الأسد:undetermined
+حزب الله:undetermined
+Predicted targets:
+Number of predicted targets:5
+الله:negative
+إسرائيل وإيران:negative
+السفن والبوارج الغربية:negative
+الوجه الطائفي:positive
+للحكم:negative
+
+Output comment:batch_5_42
+الحمد لله على سلامة الرهائن مش مهم مين انقذ الرهائن المهم أنهم عادو بسلامة الله كى يفرح بهم أهليم ولكن لى الحقائق لايفيد بشئ نرجو نشر الحقائق حتى لانضطر الى اللجوء الى وسائل الاعلام الاخرى . شكرا لكل من شارك سواء من السودان أو مصر أو حتى الدول الاخرى .
+Gold targets:
+سلامة الرهائن:positive
+الحقائق:undetermined
+نشر الحقائق:positive
+السودان أو مصر أو حتى الدول الاخرى:positive
+Predicted targets:
+Number of predicted targets:1
+الرهائن:positive
+
+Output comment:batch_3_26
+عدم بلوغ الوعي الثقافي عند الكثير وللاسف المسؤلين وبعض النقاد جعلهم مستنفرين ضد الابداع ، ولمجرد قراءه مشوهه صدرت احكامهم . اي عمل ابداعي يجب ان يلم بكل النواحي الاجتماعيه وخاصه الشائعه و الغير علنيه للاغناء . الغربي من الكتاب الرائعين وصاحب وحي ابداعي جميل متنوع نسعد بابداعاته
+Gold targets:
+الكتاب الرائعين:positive
+الوعي الثقافي:undetermined
+المسؤلين:negative
+الابداع،:undetermined
+قراءه مشوهه:negative
+Predicted targets:
+Number of predicted targets:0
+
+Output comment:batch_2_57
+اثبت ان ميسي هو لاعب فاشل مع المنتخب في كاس العالم عملو منه الالمان انسه وهسه في كوبا امريكا نفس الشي هاي لاعب فاشل مع الاسف اختاره افضل لاعب لان لازم يكون افضل لاعب مستوئ مع المنتخب وليس مع النادي تحياتي الج انسه ميسي
+Gold targets:
+ميسي:negative
+الالمان:negative
+انسه ميسي:negative
+لاعب فاشل:negative
+Predicted targets:
+Number of predicted targets:5
+ميسي:positive
+المنتخب:negative
+كوبا امريكا:negative
+المنتخب:negative
+ميسي:positive
+
+Output comment:batch_5_43
+اتمنى من كل قلبي ان يكون في كل دولة عربية قواعد من كل الدول الاجنبية لكي نضيع ونهدر اموالنا . . . التي يحتاجها الاخوة في فلسطين والصومال . . الامارات منذ فترة طويلة اصبحت دولة مشركة والفساد الي فيها اكثر من اوربا . . . انشاء الله يخلص النفط في دولنا لكي نرجع ونرى الروساء والحكام على الابل والحمير . . .
+Gold targets:
+الروساء والحكام:negative
+النفط:negative
+الابل والحمير ...:negative
+قواعد من كل الدول الاجنبية:negative
+دولة مشركة:negative
+اوربا:negative
+كل دولة عربية:negative
+الاخوة في فلسطين والصومال:positive
+الابل:negative
+الامارات:negative
+Predicted targets:
+Number of predicted targets:1
+كل:positive
+
+Output comment:batch_2_146
+بصراحة الشعب المصري عاطفي جدا ، ومن السهل اللعب في عواطفه وبالتالي على الإعلام المصري أن يهدئ اللعب ، بصراحة أتمنى تأهل المنتخب المصري لأن هذه هي الفرصة الأخيرة لهذا الجيل الرائع أن يلعب كأس العالم ، والمنتخب المصري عودنا أن يكون أداءه في النهائيات أفضل من التصفيات .
+Gold targets:
+الشعب المصري:undetermined
+المنتخب المصري:positive
+Predicted targets:
+Number of predicted targets:3
+الشعب المصري:positive
+الإعلام:negative
+المنتخب:positive
+
+Output comment:batch_5_74
+ماهذه السطحية في التفكير ياناس ، إن وجود القاعدة يتم بموجب اتفاقية قانونية مثبتة بنودها وصلاحيتها ومدة إقامتها ، لاتطلبوا من البلد المهدد في كيانه أن يخلد دائما لحسن نية بمتربصيه ، سخرية القدر أن إخواننا في الخليج محتم عليهم التعامل دائما بحذر مع جار يحلم باستعادة عاصمة الرشيد والنيل من سيادة الإمارات والبحرين ، لذا كان لزاما قبل هذا التهجم قراءة التاريخ وجغرافية الأوطان .
+Gold targets:
+السطحية في التفكير:negative
+إخواننا في الخليج:positive
+البلد المهدد:negative
+Predicted targets:
+Number of predicted targets:6
+السطحية:negative
+القاعدة:negative
+لحسن:positive
+إخواننا في:positive
+الرشيد:negative
+الإمارات والبحرين:negative

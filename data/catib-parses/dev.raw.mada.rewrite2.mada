@@ -1,0 +1,2639 @@
+;;; SENTENCE_ID (batch_5_261)
+;;; SENTENCE AlbrAdEY k$f Hqyqth EndmA xsr Hzbh AlAntxAbAt wAEln An AlAntxAbAt lyst dymwqrATyh wyryd AdxAl mSr fY dwAmp Enf w fwDY lyjrhA AlY HAlp mn Alrkwd AlAqtSAdY ltnHnY llgrb wyEAwnh fY *lk 6 Abryl w nHn jmyEA hwythA w mmwlyhA wms}wlythA fY AHdAv fwDY w txryb .
+;;WORD AlbrAdEY
+;;LENGTH 8
+;;OFFSET 0
+;;SVM_PREDICTIONS: AlbrAdEy diac:AlbarAdiEiy~i lex:barAdiEiy~ asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884158 diac:AlbarAdiEiy~u lex:barAdiEiy~_1 bw:Al/DET+barAdiEiy~/ADJ+u/CASE_DEF_NOM gloss:saddle_maker pregloss:the sufgloss:[def.nom.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y source:spvar stem:barAdiEiy~ stemcat:Nall
+--------------
+;;WORD k$f
+;;LENGTH 3
+;;OFFSET 9
+;;SVM_PREDICTIONS: k$f diac:ka$afa lex:ka$af asp:na cas:na enc0:0 gen:m mod:i num:s per:na pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.825420 diac:ka$afa lex:ka$af-i_1 bw:ka$af/PV+a/PVSUFF_SUBJ:3MS gloss:discover;reveal;disclose;examine sufgloss:he;it_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:ka$af stemcat:PV
+--------------
+;;WORD Hqyqth
+;;LENGTH 6
+;;OFFSET 13
+;;SVM_PREDICTIONS: Hqyqth diac:Haqiyqatahu lex:Haqiyqap asp:na cas:a enc0:3ms_poss gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.893949 diac:Haqiyqatahu lex:Haqiyqap_1 bw:Haqiyq/NOUN+ap/NSUFF_FEM_SG+a/CASE_DEF_ACC+hu/POSS_PRON_3MS gloss:truth;reality sufgloss:his;its pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:a enc0:3ms_poss rat:y source:lex stem:Haqiyq stemcat:Napdu
+--------------
+;;WORD EndmA
+;;LENGTH 5
+;;OFFSET 20
+;;SVM_PREDICTIONS: EndmA diac:EanodamAF lex:Einod asp:na cas:a enc0:mA_sub gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.784532 diac:EinodamA lex:Einod_1 bw:Einod/NOUN+a/CASE_DEF_ACC+mA/SUB_CONJ gloss:when pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:mA_sub rat:y source:lex stem:EinodamA stemcat:FW-Wa
+--------------
+;;WORD xsr
+;;LENGTH 3
+;;OFFSET 26
+;;SVM_PREDICTIONS: xsr diac:xasira lex:xasir asp:p cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.895518 diac:xasira lex:xasir-a_1 bw:xasir/PV+a/PVSUFF_SUBJ:3MS gloss:lose sufgloss:he;it_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:xasir stemcat:PV
+--------------
+;;WORD Hzbh
+;;LENGTH 4
+;;OFFSET 30
+;;SVM_PREDICTIONS: Hzbh diac:Hizobihi lex:Hizob asp:na cas:a enc0:3ms_poss gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.883780 diac:Hizobahu lex:Hizob_1 bw:Hizob/NOUN+a/CASE_DEF_ACC+hu/POSS_PRON_3MS gloss:party;band sufgloss:its;his pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:3ms_poss rat:y source:lex stem:Hizob stemcat:Ndu
+--------------
+;;WORD AlAntxAbAt
+;;LENGTH 10
+;;OFFSET 35
+;;SVM_PREDICTIONS: AlAntxAbAt diac:AlAinotixAbAti lex:{inotixAb asp:na cas:a enc0:0 gen:f mod:na num:p per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.894075 diac:AlAinotixAbAti lex:{inotixAb_1 bw:Al/DET+{inotixAb/NOUN+At/NSUFF_FEM_PL+i/CASE_DEF_ACC gloss:election;selection pregloss:the sufgloss:[fem.pl.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:p stt:d cas:a enc0:0 rat:y source:lex stem:{inotixAb stemcat:NduAt
+--------------
+;;WORD wAEln
+;;LENGTH 5
+;;OFFSET 46
+;;SVM_PREDICTIONS: wAEln diac:wa>aEolana lex:>aEolan asp:p cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:na vox:a
+*0.825236 diac:wa>aEolana lex:>aEolan_1 bw:wa/CONJ+>aEolan/PV+a/PVSUFF_SUBJ:3MS gloss:announce;declare pregloss:and sufgloss:he;it_<verb> pos:verb prc3:0 prc2:wa_conj prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:spvar stem:>aEolan stemcat:PV-n
+--------------
+;;WORD An
+;;LENGTH 2
+;;OFFSET 52
+;;SVM_PREDICTIONS: An diac:>an~a lex:>an~a asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj_sub prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.825863 diac:>an~a lex:>an~a_1 bw:>an~a/SUB_CONJ gloss:that pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:spvar stem:>an~a stemcat:FW-Wa
+--------------
+;;WORD AlAntxAbAt
+;;LENGTH 10
+;;OFFSET 55
+;;SVM_PREDICTIONS: AlAntxAbAt diac:AlAinotixAbAti lex:{inotixAb asp:na cas:a enc0:0 gen:f mod:na num:p per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.894075 diac:AlAinotixAbAti lex:{inotixAb_1 bw:Al/DET+{inotixAb/NOUN+At/NSUFF_FEM_PL+i/CASE_DEF_ACC gloss:election;selection pregloss:the sufgloss:[fem.pl.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:p stt:d cas:a enc0:0 rat:y source:lex stem:{inotixAb stemcat:NduAt
+--------------
+;;WORD lyst
+;;LENGTH 4
+;;OFFSET 66
+;;SVM_PREDICTIONS: lyst diac:layosat lex:layosa asp:p cas:na enc0:0 gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.894850 diac:layosat lex:layosa_1 bw:layos/PV+at/PVSUFF_SUBJ:3FS gloss:not_+_it;she;they_(it;she_is_not,_they_are_not) pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:layosat stemcat:FW-Wa
+--------------
+;;WORD dymwqrATyh
+;;LENGTH 10
+;;OFFSET 71
+;;SVM_PREDICTIONS: dymwqrATyh diac:diymuwqrATiy~apK lex:diymuwqrATiy~ asp:na cas:a enc0:3ms_poss gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.763087 diac:diymuwqrATiy~ahu lex:diymuwqrATiy~_1 bw:diymuwqrATiy~/ADJ+a/CASE_DEF_ACC+hu/POSS_PRON_3MS gloss:democratic sufgloss:its;his pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:3ms_poss rat:y source:lex stem:diymuwqrATiy~ stemcat:Nall
+--------------
+;;WORD wyryd
+;;LENGTH 5
+;;OFFSET 82
+;;SVM_PREDICTIONS: wyryd diac:wayuriyd lex:>arAd asp:i cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:na vox:a
+*0.855626 diac:wayuriyd lex:>arAd_1 bw:wa/CONJ+yu/IV3MS+riyd/IV gloss:want;desire;intend pregloss:and_+_he;it pos:verb prc3:0 prc2:wa_conj prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:riyd stemcat:IV_V_yu
+--------------
+;;WORD AdxAl
+;;LENGTH 5
+;;OFFSET 88
+;;SVM_PREDICTIONS: AdxAl diac:<idoxAli lex:<idoxAl asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.816896 diac:<idoxAla lex:<idoxAl_1 bw:<idoxAl/NOUN+a/CASE_DEF_ACC gloss:insertion;entering;inclusion sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y source:spvar stem:<idoxAl stemcat:NduAt
+--------------
+;;WORD mSr
+;;LENGTH 3
+;;OFFSET 94
+;;SVM_PREDICTIONS: mSr diac:miSor lex:miSor asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.800224 diac:miSor lex:miSor_1 bw:miSor/NOUN_PROP gloss:Egypt pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:miSor stemcat:Nprop
+--------------
+;;WORD fY
+;;LENGTH 2
+;;OFFSET 98
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:spvar stem:fiy stemcat:FW-Wa
+--------------
+;;WORD dwAmp
+;;LENGTH 5
+;;OFFSET 101
+;;SVM_PREDICTIONS: dwAmp diac:daw~AmapK lex:daw~Amap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.884954 diac:daw~Amapi lex:daw~Amap_1 bw:daw~Am/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:dizziness;whirlpool;vortex sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y source:lex stem:daw~Am stemcat:Nap
+--------------
+;;WORD Enf
+;;LENGTH 3
+;;OFFSET 107
+;;SVM_PREDICTIONS: Enf diac:EunofK lex:Eunof asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.895576 diac:EunofK lex:Eunof_1 bw:Eunof/NOUN+K/CASE_INDEF_GEN gloss:violence;force sufgloss:[indef.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y source:lex stem:Eunof stemcat:N
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 111
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD fwDY
+;;LENGTH 4
+;;OFFSET 113
+;;SVM_PREDICTIONS: fwDy diac:fawoDaY lex:fawoDaY asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:fawoDaY lex:fawoDaY_1 bw:fawoDaY/NOUN gloss:chaos;anarchy pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:fawoDaY stemcat:N0
+--------------
+;;WORD lyjrhA
+;;LENGTH 6
+;;OFFSET 118
+;;SVM_PREDICTIONS: lyjrhA diac:liyujorhA lex:jar~ asp:i cas:na enc0:3fs_dobj gen:m mod:u num:s per:3 pos:verb prc0:0 prc1:li_prep prc2:0 prc3:0 stt:na vox:a
+*0.884129 diac:liyajur~hA lex:jar~-u_1 bw:li/PREP+ya/IV3MS+jur~/IV+hA/IVSUFF_DO:3FS gloss:pull;drag pregloss:for_+_him;it_to sufgloss:it;them;her pos:verb prc3:0 prc2:0 prc1:li_prep prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:3fs_dobj rat:na source:lex stem:jur~ stemcat:IV_V
+--------------
+;;WORD AlY
+;;LENGTH 3
+;;OFFSET 125
+;;SVM_PREDICTIONS: Aly diac:<ilaY lex:<ilaY asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.833109 diac:<ilaY lex:<ilaY_1 bw:<ilaY/PREP gloss:to;towards pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:spvar stem:<ilaY stemcat:FW-Wa
+--------------
+;;WORD HAlp
+;;LENGTH 4
+;;OFFSET 129
+;;SVM_PREDICTIONS: HAlp diac:HAlapK lex:HAl asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.878357 diac:HAlapK lex:HAlap_1 bw:HAl/NOUN+ap/NSUFF_FEM_SG+K/CASE_INDEF_GEN gloss:condition;case;situation sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:g enc0:0 rat:y source:lex stem:HAl stemcat:NapAt
+--------------
+;;WORD mn
+;;LENGTH 2
+;;OFFSET 134
+;;SVM_PREDICTIONS: mn diac:min lex:min asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:min lex:min_1 bw:min/PREP gloss:from pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:min stemcat:FW-Wa
+--------------
+;;WORD Alrkwd
+;;LENGTH 6
+;;OFFSET 137
+;;SVM_PREDICTIONS: Alrkwd diac:Alr~ukuwdi lex:rukuwd asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:Alr~ukuwdi lex:rukuwd_1 bw:Al/DET+rukuwd/NOUN+i/CASE_DEF_GEN gloss:stagnation;standstill;suspension pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:rukuwd stemcat:N
+--------------
+;;WORD AlAqtSAdY
+;;LENGTH 9
+;;OFFSET 144
+;;SVM_PREDICTIONS: AlAqtSAdy diac:AlAiqotiSAdiy~i lex:{iqotiSAdiy~ asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895776 diac:AlAiqotiSAdiy~i lex:{iqotiSAdiy~_2 bw:Al/DET+{iqotiSAdiy~/ADJ+i/CASE_DEF_GEN gloss:economic;economical pregloss:the sufgloss:[def.gen.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:spvar stem:{iqotiSAdiy~ stemcat:N-ap
+--------------
+;;WORD ltnHnY
+;;LENGTH 6
+;;OFFSET 154
+;;SVM_PREDICTIONS: ltnHny diac:litanoHaniy lex:{inoHanaY asp:i cas:na enc0:1s_dobj gen:f mod:u num:s per:3 pos:verb prc0:0 prc1:li_prep prc2:0 prc3:0 stt:na vox:a
+*0.878289 diac:litanoHaniy lex:naHaY_1 bw:li/PREP+ta/IV3FS+noHa/IV+niy/IVSUFF_DO:1S gloss:go_towards;move_towards pregloss:for_+_it;them;her_(to) sufgloss:me pos:verb prc3:0 prc2:0 prc1:li_prep prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:1s_dobj rat:na source:spvar stem:noHa stemcat:IV_0hwnyn
+--------------
+;;WORD llgrb
+;;LENGTH 5
+;;OFFSET 161
+;;SVM_PREDICTIONS: llgrb diac:lilgarobi lex:garob asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:li_prep prc2:0 prc3:0 stt:d vox:na
+*0.894437 diac:lilgarobi lex:garob_1 bw:li/PREP+Al/DET+garob/NOUN+i/CASE_DEF_GEN gloss:west;West pregloss:to;for_+_the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:garob stemcat:N
+--------------
+;;WORD wyEAwnh
+;;LENGTH 7
+;;OFFSET 167
+;;SVM_PREDICTIONS: wyEAwnh diac:wayuEAwin~ahu lex:EAwan asp:i cas:na enc0:3ms_dobj gen:m mod:u num:p per:3 pos:verb prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:na vox:a
+*0.867732 diac:wayuEAwin~ahu lex:EAwan_1 bw:wa/CONJ+yu/IV3FP+EAwin/IV+na/IVSUFF_SUBJ:FP+hu/IVSUFF_DO:3MS gloss:assist;support pregloss:and_+_they_(women) sufgloss:it;him pos:verb prc3:0 prc2:wa_conj prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:p stt:na cas:na enc0:3ms_dobj rat:na source:lex stem:EAwin stemcat:IV-n_yu
+--------------
+;;WORD fY
+;;LENGTH 2
+;;OFFSET 175
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:spvar stem:fiy stemcat:FW-Wa
+--------------
+;;WORD *lk
+;;LENGTH 3
+;;OFFSET 178
+;;SVM_PREDICTIONS: *lk diac:*`lika lex:*`lika asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:pron_dem prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894316 diac:*`lika lex:*`lika_1 bw:*`lika/DEM_PRON_MS gloss:that pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:*`lika stemcat:FW-WaBi
+--------------
+;;WORD 6
+;;LENGTH 1
+;;OFFSET 182
+;;SVM_PREDICTIONS: 8 diac:8 lex:8 asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:digit prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:6 lex:6_0 bw:6/NOUN_NUM gloss:6 pos:digit prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:digit
+--------------
+;;WORD Abryl
+;;LENGTH 5
+;;OFFSET 184
+;;SVM_PREDICTIONS: Abryl diac:>aboriyl lex:>aboriyl asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.830042 diac:>aboriyl lex:>aboriyl_1 bw:>aboriyl/NOUN_PROP gloss:April pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:spvar stem:>aboriyl stemcat:Nprop
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 190
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD nHn
+;;LENGTH 3
+;;OFFSET 192
+;;SVM_PREDICTIONS: nHn diac:naHonu lex:naHonu asp:na cas:n enc0:0 gen:m mod:na num:p per:1 pos:pron prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.893920 diac:naHonu lex:naHonu_1 bw:naHonu/PRON_1P gloss:we pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:1 asp:na vox:na mod:na gen:m num:p stt:i cas:n enc0:0 rat:y source:lex stem:naHonu stemcat:FW-Wa
+--------------
+;;WORD jmyEA
+;;LENGTH 5
+;;OFFSET 196
+;;SVM_PREDICTIONS: jmyEA diac:jamiyEAF lex:jamiyE asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun_quant prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.825688 diac:jamiyEAF lex:jamiyE_1 bw:jamiyE/NOUN+AF/CASE_INDEF_ACC gloss:all_of;every_one_of sufgloss:[acc.indef.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:a enc0:0 rat:y source:lex stem:jamiyE stemcat:N
+--------------
+;;WORD hwythA
+;;LENGTH 6
+;;OFFSET 202
+;;SVM_PREDICTIONS: hwythA diac:huwiy~atahA lex:huwiy~ap asp:na cas:a enc0:3fs_poss gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.893928 diac:huwiy~atahA lex:huwiy~ap_1 bw:huwiy~/NOUN+ap/NSUFF_FEM_SG+a/CASE_DEF_ACC+hA/POSS_PRON_3FS gloss:identity_card;identity sufgloss:its;their;her pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:a enc0:3fs_poss rat:y source:lex stem:huwiy~ stemcat:NapAt
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 209
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD mmwlyhA
+;;LENGTH 7
+;;OFFSET 211
+;;SVM_PREDICTIONS: mmwlyhA diac:mumaw~ilayohA lex:mumaw~al asp:na cas:a enc0:3fs_poss gen:m mod:na num:p per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.867466 diac:mumaw~iliyhA lex:mumaw~il_1 bw:mumaw~il/NOUN+iy/NSUFF_MASC_PL_ACC+hA/POSS_PRON_3FS gloss:financier;financial_backer sufgloss:its;their;her pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:p stt:c cas:a enc0:3fs_poss rat:y source:lex stem:mumaw~il stemcat:Nall
+--------------
+;;WORD wms}wlythA
+;;LENGTH 10
+;;OFFSET 219
+;;SVM_PREDICTIONS: wms}wlythA diac:wamaso}uwliy~atahA lex:maso&uwliy~ap asp:na cas:g enc0:3fs_poss gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:c vox:na
+*0.883615 diac:wamaso}uwliy~atihA lex:maso&uwliy~ap_1 bw:wa/CONJ+maso}uwliy~/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN+hA/POSS_PRON_3FS gloss:responsibility pregloss:and sufgloss:its;their;her pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:3fs_poss rat:y source:lex stem:maso}uwliy~ stemcat:NapAt
+--------------
+;;WORD fY
+;;LENGTH 2
+;;OFFSET 230
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:spvar stem:fiy stemcat:FW-Wa
+--------------
+;;WORD AHdAv
+;;LENGTH 5
+;;OFFSET 233
+;;SVM_PREDICTIONS: AHdAv diac:>aHodAvi lex:Hadav asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.827915 diac:>aHodAvi lex:Hadav_1 bw:>aHodAv/NOUN+i/CASE_DEF_GEN gloss:events sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:spvar stem:>aHodAv stemcat:N
+--------------
+;;WORD fwDY
+;;LENGTH 4
+;;OFFSET 239
+;;SVM_PREDICTIONS: fwDy diac:fawoDaY lex:fawoDaY asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:fawoDaY lex:fawoDaY_1 bw:fawoDaY/NOUN gloss:chaos;anarchy pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:fawoDaY stemcat:N0
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 244
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD txryb
+;;LENGTH 5
+;;OFFSET 246
+;;SVM_PREDICTIONS: txryb diac:taxoriybi lex:taxoriyb asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.885278 diac:taxoriybK lex:taxoriyb_1 bw:taxoriyb/NOUN+K/CASE_INDEF_GEN gloss:destruction;sabotage;terrorism sufgloss:[indef.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y source:lex stem:taxoriyb stemcat:NduAt
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 252
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+SENTENCE BREAK
+--------------
+;;; SENTENCE_ID (batch_1_16)
+;;; SENTENCE <lY mtY syntZr AlEAlm qbl >n ytdxl l<yqAf h*h AlmjAzr Dd Al<nsAnyp Alty yqwm bhA h*A AlnZAm Aldmwy Almjrm Al*y ln ytwqf En *lk . . . l>n bqA'h dA}mA wAbdA ArtbT bAlqmE wAlqtl wAl<jrAm . . . wlkn >n Al>wAn l>n yzwl wyndHr fy mzAbl AltAryx
+;;WORD <lY
+;;LENGTH 3
+;;OFFSET 0
+;;SVM_PREDICTIONS: Aly diac:<ilaY lex:<ilaY asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:<ilaY lex:<ilaY_1 bw:<ilaY/PREP gloss:to;towards pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:<ilaY stemcat:FW-Wa
+--------------
+;;WORD mtY
+;;LENGTH 3
+;;OFFSET 4
+;;SVM_PREDICTIONS: mty diac:mataY lex:mataY asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:adv_interrog prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.893925 diac:mataY lex:mataY_2 bw:mataY/INTERROG_ADV gloss:when pos:adv_interrog prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:mataY stemcat:FW-Wa
+--------------
+;;WORD syntZr
+;;LENGTH 6
+;;OFFSET 8
+;;SVM_PREDICTIONS: syntZr diac:sayunotaZar lex:{inotaZar asp:i cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:sa_fut prc2:0 prc3:0 stt:na vox:a
+*0.883726 diac:sayanotaZir lex:{inotaZar_1 bw:sa/FUT_PART+ya/IV3MS+notaZir/IV gloss:expect;wait_for pregloss:will_+_he;it pos:verb prc3:0 prc2:0 prc1:sa_fut prc0:0 per:3 asp:i vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:notaZir stemcat:IV
+--------------
+;;WORD AlEAlm
+;;LENGTH 6
+;;OFFSET 15
+;;SVM_PREDICTIONS: AlEAlm diac:AlEAlami lex:EAlam asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884765 diac:AlEAlamu lex:EAlam_1 bw:Al/DET+EAlam/NOUN+u/CASE_DEF_NOM gloss:world pregloss:the sufgloss:[def.nom.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y source:lex stem:EAlam stemcat:Ndu
+--------------
+;;WORD qbl
+;;LENGTH 3
+;;OFFSET 22
+;;SVM_PREDICTIONS: qbl diac:qabola lex:qabil asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.870537 diac:qibala lex:qibal_1 bw:qibal/NOUN+a/CASE_DEF_ACC gloss:(on_the)_part_of sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y source:lex stem:qibal stemcat:N
+--------------
+;;WORD >n
+;;LENGTH 2
+;;OFFSET 26
+;;SVM_PREDICTIONS: An diac:>an~a lex:>ano asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj_sub prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.885344 diac:>an lex:>ano_1 bw:>an/SUB_CONJ gloss:to pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:>an stemcat:FW-Wa
+--------------
+;;WORD ytdxl
+;;LENGTH 5
+;;OFFSET 29
+;;SVM_PREDICTIONS: ytdxl diac:yatadax~al lex:tadax~al asp:i cas:na enc0:0 gen:m mod:s num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*1.000000 diac:yatadax~al lex:tadax~al_1 bw:ya/IV3MS+tadax~al/IV gloss:intervene;interfere pregloss:he;it pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:tadax~al stemcat:IV
+--------------
+;;WORD l<yqAf
+;;LENGTH 6
+;;OFFSET 35
+;;SVM_PREDICTIONS: lAyqAf diac:la<iyqAf lex:<iyqAf asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.778378 diac:li<iyqAfi lex:<iyqAf_1 bw:li/PREP+<iyqAf/NOUN+i/CASE_DEF_GEN gloss:stopping;halting pregloss:for;to sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:<iyqAf stemcat:N/At
+--------------
+;;WORD h*h
+;;LENGTH 3
+;;OFFSET 42
+;;SVM_PREDICTIONS: h*h diac:h`*ihi lex:h`*A asp:na cas:u enc0:0 gen:f mod:na num:s per:na pos:pron_dem prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:h`*ihi lex:h`*A_1 bw:h`*ihi/DEM_PRON_F gloss:this;these pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y source:lex stem:h`*ihi stemcat:FW-WaBi
+--------------
+;;WORD AlmjAzr
+;;LENGTH 7
+;;OFFSET 46
+;;SVM_PREDICTIONS: AlmjAzr diac:AlmajAziri lex:majozarap asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:AlmajAziri lex:majozarap_1 bw:Al/DET+majAzir/NOUN+i/CASE_DEF_GEN gloss:massacres;slaughters pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:majAzir stemcat:Ndip
+--------------
+;;WORD Dd
+;;LENGTH 2
+;;OFFSET 54
+;;SVM_PREDICTIONS: Dd diac:Did~a lex:Did~ asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.896974 diac:Did~a lex:Did~_1 bw:Did~/NOUN+a/CASE_DEF_ACC gloss:contrary;against;opposed;anti-;counter- sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y source:lex stem:Did~ stemcat:N
+--------------
+;;WORD Al<nsAnyp
+;;LENGTH 9
+;;OFFSET 57
+;;SVM_PREDICTIONS: AlAnsAnyp diac:Al<inosAniy~api lex:<inosAniy~ap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895953 diac:Al<inosAniy~api lex:<inosAniy~ap_1 bw:Al/DET+<inosAniy~/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:humanity pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:<inosAniy~ stemcat:Nap
+--------------
+;;WORD Alty
+;;LENGTH 4
+;;OFFSET 67
+;;SVM_PREDICTIONS: Alty diac:Al~atiy lex:Al~a*iy asp:na cas:u enc0:0 gen:f mod:na num:s per:na pos:pron_rel prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894508 diac:Al~atiy lex:Al~a*iy_1 bw:Al~atiy/REL_PRON gloss:which;who;whom_[fem.sg.] pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y source:lex stem:Al~atiy stemcat:FW-Wa
+--------------
+;;WORD yqwm
+;;LENGTH 4
+;;OFFSET 72
+;;SVM_PREDICTIONS: yqwm diac:yaquwm lex:qAm asp:i cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.855626 diac:yaquwm lex:qAm-u_1 bw:ya/IV3MS+quwm/IV gloss:undertake;carry_out pregloss:he;it pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:quwm stemcat:IV_V
+--------------
+;;WORD bhA
+;;LENGTH 3
+;;OFFSET 77
+;;SVM_PREDICTIONS: bhA diac:bihA lex:bi asp:na cas:na enc0:3fs_pron gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*1.000000 diac:bihA lex:bi_1 bw:bi/PREP+hA/PRON_3FS gloss:with;by_+_it;them;her pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:3fs_pron rat:na source:lex stem:bihA stemcat:FW-Wa
+--------------
+;;WORD h*A
+;;LENGTH 3
+;;OFFSET 81
+;;SVM_PREDICTIONS: h*A diac:h`*A lex:h`*A asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:pron_dem prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:h`*A lex:h`*A_1 bw:h`*A/DEM_PRON_MS gloss:this pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:h`*A stemcat:FW-WaBi
+--------------
+;;WORD AlnZAm
+;;LENGTH 6
+;;OFFSET 85
+;;SVM_PREDICTIONS: AlnZAm diac:Aln~iZAmi lex:niZAm asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884765 diac:Aln~iZAmu lex:niZAm_1 bw:Al/DET+niZAm/NOUN+u/CASE_DEF_NOM gloss:regime;government pregloss:the sufgloss:[def.nom.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y source:lex stem:niZAm stemcat:NduAt
+--------------
+;;WORD Aldmwy
+;;LENGTH 6
+;;OFFSET 92
+;;SVM_PREDICTIONS: Aldmwy diac:Ald~amawiy~i lex:damawiy~ asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884002 diac:Ald~amawiy~a lex:damawiy~_1 bw:Al/DET+damawiy~/ADJ+a/CASE_DEF_ACC gloss:bloody;blood pregloss:the sufgloss:[def.acc.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y source:lex stem:damawiy~ stemcat:Nall
+--------------
+;;WORD Almjrm
+;;LENGTH 6
+;;OFFSET 99
+;;SVM_PREDICTIONS: Almjrm diac:Almujorimi lex:mujorim asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.829798 diac:Almujorimi lex:mujorim_1 bw:Al/DET+mujorim/NOUN+i/CASE_DEF_GEN gloss:criminal pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:mujorim stemcat:Nall
+--------------
+;;WORD Al*y
+;;LENGTH 4
+;;OFFSET 106
+;;SVM_PREDICTIONS: Al*y diac:Al~a*iy lex:Al~a*iy asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:pron_rel prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894608 diac:Al~a*iy lex:Al~a*iy_1 bw:Al~a*iy/REL_PRON gloss:which;who;whom pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:Al~a*iy stemcat:FW-Wa
+--------------
+;;WORD ln
+;;LENGTH 2
+;;OFFSET 111
+;;SVM_PREDICTIONS: ln diac:lan lex:lan asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:part_neg prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*1.000000 diac:lan lex:lan_1 bw:lan/NEG_PART gloss:(will)_not pos:part_neg prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:lan stemcat:FW-Wa
+--------------
+;;WORD ytwqf
+;;LENGTH 5
+;;OFFSET 114
+;;SVM_PREDICTIONS: ytwqf diac:yatawaq~af lex:tawaq~af asp:i cas:na enc0:0 gen:m mod:s num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*1.000000 diac:yatawaq~af lex:tawaq~af_1 bw:ya/IV3MS+tawaq~af/IV gloss:stop;halt;depend_on pregloss:he;it pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:tawaq~af stemcat:IV
+--------------
+;;WORD En
+;;LENGTH 2
+;;OFFSET 120
+;;SVM_PREDICTIONS: En diac:Ean lex:Ean asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:Ean lex:Ean_1 bw:Ean/PREP gloss:from;about pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:Ean stemcat:FW-Wa
+--------------
+;;WORD *lk
+;;LENGTH 3
+;;OFFSET 123
+;;SVM_PREDICTIONS: *lk diac:*`lika lex:*`lika asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:pron_dem prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894316 diac:*`lika lex:*`lika_1 bw:*`lika/DEM_PRON_MS gloss:that pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:*`lika stemcat:FW-WaBi
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 127
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 127
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 127
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD l>n
+;;LENGTH 3
+;;OFFSET 133
+;;SVM_PREDICTIONS: lAn diac:li>an~a lex:>an~a asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj_sub prc0:na prc1:li_prep prc2:0 prc3:0 stt:na vox:na
+*0.789901 diac:li>an~a lex:>an~a_1 bw:li>an~a/SUB_CONJ gloss:because pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:li>an~a stemcat:FW-Wa
+--------------
+;;WORD bqA'h
+;;LENGTH 5
+;;OFFSET 137
+;;SVM_PREDICTIONS: bqA'h diac:baqA'uhu lex:baqA' asp:na cas:a enc0:3ms_poss gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.883780 diac:baqA'ahu lex:baqA'_1 bw:baqA'/NOUN+a/CASE_DEF_ACC+hu/POSS_PRON_3MS gloss:survival;remaining sufgloss:its;his pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:3ms_poss rat:y source:lex stem:baqA' stemcat:N0_Nh
+--------------
+;;WORD dA}mA
+;;LENGTH 5
+;;OFFSET 143
+;;SVM_PREDICTIONS: dA}mA diac:dA}imAF lex:dA}im asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894635 diac:dA}imAF lex:dA}im_1 bw:dA}im/ADJ+AF/CASE_INDEF_ACC gloss:permanent;lasting;constant sufgloss:[acc.indef.] pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:a enc0:0 rat:y source:lex stem:dA}im stemcat:Nall
+--------------
+;;WORD wAbdA
+;;LENGTH 5
+;;OFFSET 149
+;;SVM_PREDICTIONS: wAbdA diac:wa>abadA lex:bada> asp:na cas:a enc0:0 gen:m mod:na num:s per:3 pos:verb prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:i vox:a
+*0.691221 diac:wa>abadAF lex:>abadAF_1 bw:wa/CONJ+>abad/ADV+AF/CASE_INDEF_ACC gloss:never;not_at_all pregloss:and sufgloss:[acc.indef.] pos:adv prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:a enc0:0 rat:y source:spvar stem:>abad stemcat:NF
+--------------
+;;WORD ArtbT
+;;LENGTH 5
+;;OFFSET 155
+;;SVM_PREDICTIONS: ArtbT diac:AirotabaTa lex:{irotabaT asp:p cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.895518 diac:AirotabaTa lex:{irotabaT_1 bw:{irotabaT/PV+a/PVSUFF_SUBJ:3MS gloss:be_tied;be_connected sufgloss:he;it_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:{irotabaT stemcat:PV_intr
+--------------
+;;WORD bAlqmE
+;;LENGTH 6
+;;OFFSET 161
+;;SVM_PREDICTIONS: bAlqmE diac:biAlqumoE lex:qamoE asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:bi_prep prc2:0 prc3:0 stt:d vox:na
+*0.883871 diac:biAlqamoEi lex:qamoE_1 bw:bi/PREP+Al/DET+qamoE/NOUN+i/CASE_DEF_GEN gloss:repression pregloss:with;by_+_the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:qamoE stemcat:N
+--------------
+;;WORD wAlqtl
+;;LENGTH 6
+;;OFFSET 168
+;;SVM_PREDICTIONS: wAlqtl diac:waAlqatoli lex:qatol asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:wa_conj prc3:0 stt:d vox:na
+*0.894336 diac:waAlqatoli lex:qatol_1 bw:wa/CONJ+Al/DET+qatol/NOUN+i/CASE_DEF_GEN gloss:murder;killing pregloss:and_+_the sufgloss:[def.gen.] pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:qatol stemcat:N
+--------------
+;;WORD wAl<jrAm
+;;LENGTH 8
+;;OFFSET 175
+;;SVM_PREDICTIONS: wAlAjrAm diac:waAl<ijorAmi lex:<ijorAm asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:wa_conj prc3:0 stt:d vox:na
+*0.894336 diac:waAl<ijorAmi lex:<ijorAm_1 bw:wa/CONJ+Al/DET+<ijorAm/NOUN+i/CASE_DEF_GEN gloss:delinquency;criminality pregloss:and_+_the sufgloss:[def.gen.] pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:<ijorAm stemcat:NduAt
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 184
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 184
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 184
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD wlkn
+;;LENGTH 4
+;;OFFSET 190
+;;SVM_PREDICTIONS: wlkn diac:wal`kin~a lex:l`kin~a asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:wa_conj prc3:0 stt:na vox:na
+*0.893934 diac:wal`kin~a lex:l`kin~a_1 bw:wa/CONJ+l`kin~a/CONJ gloss:however pregloss:and pos:conj prc3:0 prc2:wa_conj prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:l`kin~a stemcat:FW-Wa
+--------------
+;;WORD >n
+;;LENGTH 2
+;;OFFSET 195
+;;SVM_PREDICTIONS: An diac:|na lex:|n asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj_sub prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.869205 diac:>an lex:>ano_1 bw:>an/SUB_CONJ gloss:to pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:>an stemcat:FW-Wa
+--------------
+;;WORD Al>wAn
+;;LENGTH 6
+;;OFFSET 198
+;;SVM_PREDICTIONS: AlAwAn diac:Al>awAnu lex:>awAn asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884914 diac:Al>awAna lex:>awAn_1 bw:Al/DET+>awAn/NOUN+a/CASE_DEF_ACC gloss:time;moment pregloss:the sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y source:lex stem:>awAn stemcat:N
+--------------
+;;WORD l>n
+;;LENGTH 3
+;;OFFSET 205
+;;SVM_PREDICTIONS: lAn diac:li>an~a lex:>ano asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj_sub prc0:na prc1:li_prep prc2:0 prc3:0 stt:na vox:na
+*0.779602 diac:li>an lex:>ano_1 bw:li>an/SUB_CONJ gloss:in_order_to pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:li>an stemcat:FW-Wa
+--------------
+;;WORD yzwl
+;;LENGTH 4
+;;OFFSET 209
+;;SVM_PREDICTIONS: yzwl diac:yazuwl lex:zAl asp:i cas:na enc0:0 gen:m mod:u num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.894428 diac:yazuwl lex:zAl-u_1 bw:ya/IV3MS+zuwl/IV gloss:disappear pregloss:he;it pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:zuwl stemcat:IV_V
+--------------
+;;WORD wyndHr
+;;LENGTH 6
+;;OFFSET 214
+;;NO-ANALYSIS
+;;SVM_PREDICTIONS: wyndHr diac:wyndHr lex:wyndHr asp:na cas:a enc0:3d_poss gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:na vox:a
+NO-ANALYSIS [wyndHr]
+--------------
+;;WORD fy
+;;LENGTH 2
+;;OFFSET 221
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:fiy stemcat:FW-Wa
+--------------
+;;WORD mzAbl
+;;LENGTH 5
+;;OFFSET 224
+;;SVM_PREDICTIONS: mzAbl diac:mazAbili lex:mazobalap asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.897695 diac:mazAbili lex:mazobalap_1 bw:mazAbil/NOUN+i/CASE_DEF_GEN gloss:dunghills;garbage_bins sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:mazAbil stemcat:Ndip
+--------------
+;;WORD AltAryx
+;;LENGTH 7
+;;OFFSET 230
+;;SVM_PREDICTIONS: AltAryx diac:Alt~Ariyxi lex:tAriyx asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:Alt~Ariyxi lex:tAriyx_1 bw:Al/DET+tAriyx/NOUN+i/CASE_DEF_GEN gloss:date;history pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:tAriyx stemcat:Ndu
+--------------
+SENTENCE BREAK
+--------------
+;;; SENTENCE_ID (batch_5_203)
+;;; SENTENCE Zlt AlmEArDh AlswdAnyh Tylp Alftrp AlmADyh w mn* mj} h*h AlHkwmh AltY >wrdt blAdnA mwArd AlhlAk tqwl wlA tfEl $y}Aw rbmA EA}d lElAqp h*h AlmEArDp bh*A AlnZAm Al*Y Zl yrDEhA mn AlmAl AlEAm w lmA yqTE AlrDAEp twlwl w tHtj . w lkn hmA syAn flA xyr fY mEArDp tqlydyh w lA fY Hkwmh dktAtwryh w <n kAnt bvwb mdnY
+;;WORD Zlt
+;;LENGTH 3
+;;OFFSET 0
+;;SVM_PREDICTIONS: Zlt diac:Zal~at lex:Zal~a asp:p cas:na enc0:0 gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*1.000000 diac:Zal~at lex:Zal~a_1 bw:Zal~/PV+at/PVSUFF_SUBJ:3FS gloss:remain;continue sufgloss:it;they;she_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:Zal~ stemcat:PV_V
+--------------
+;;WORD AlmEArDh
+;;LENGTH 8
+;;OFFSET 4
+;;SVM_PREDICTIONS: AlmEArDh diac:AlmuEAraDapi lex:muEAraDap asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.814259 diac:AlmuEAraDapu lex:muEAraDap_1 bw:Al/DET+muEAraD/NOUN+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:opposition pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:n enc0:0 rat:y source:spvar stem:muEAraD stemcat:NapAt
+--------------
+;;WORD AlswdAnyh
+;;LENGTH 9
+;;OFFSET 13
+;;SVM_PREDICTIONS: AlswdAnyh diac:Als~uwdAniy~api lex:suwdAniy~ asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.826741 diac:Als~uwdAniy~api lex:suwdAniy~_1 bw:Al/DET+suwdAniy~/ADJ+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:Sudanese pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:spvar stem:suwdAniy~ stemcat:Nall
+--------------
+;;WORD Tylp
+;;LENGTH 4
+;;OFFSET 23
+;;SVM_PREDICTIONS: Tylp diac:Tiylapa lex:Tiylapa asp:na cas:a enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*1.000000 diac:Tiylapa lex:Tiylapa_1 bw:Tiylapa/PREP gloss:during pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:Tiylapa stemcat:FW-Wa
+--------------
+;;WORD Alftrp
+;;LENGTH 6
+;;OFFSET 28
+;;SVM_PREDICTIONS: Alftrp diac:Alfatorapi lex:fatorap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895953 diac:Alfatorapi lex:fatorap_1 bw:Al/DET+fator/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:phase;time_period;interval pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:fator stemcat:Napdu
+--------------
+;;WORD AlmADyh
+;;LENGTH 7
+;;OFFSET 35
+;;SVM_PREDICTIONS: AlmADyh diac:AlmADiyapi lex:mADiy asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.826741 diac:AlmADiyapi lex:mADiy_1 bw:Al/DET+mADiy/ADJ+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:past;bygone pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:spvar stem:mADiy stemcat:Napdu
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 43
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD mn*
+;;LENGTH 3
+;;OFFSET 45
+;;SVM_PREDICTIONS: mn* diac:muno*u lex:muno*u asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*1.000000 diac:muno*u lex:muno*u_1 bw:muno*u/CONJ gloss:since;ago pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:muno*u stemcat:FW-Wa
+--------------
+;;WORD mj}
+;;LENGTH 3
+;;OFFSET 49
+;;NO-ANALYSIS
+;;SVM_PREDICTIONS: mj} diac:mj} lex:mj} asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+NO-ANALYSIS [mj}]
+--------------
+;;WORD h*h
+;;LENGTH 3
+;;OFFSET 53
+;;SVM_PREDICTIONS: h*h diac:h`*ihi lex:h`*A asp:na cas:u enc0:0 gen:f mod:na num:s per:na pos:pron_dem prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:h`*ihi lex:h`*A_1 bw:h`*ihi/DEM_PRON_F gloss:this;these pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y source:lex stem:h`*ihi stemcat:FW-WaBi
+--------------
+;;WORD AlHkwmh
+;;LENGTH 7
+;;OFFSET 57
+;;SVM_PREDICTIONS: AlHkwmh diac:AlHukuwmapu lex:Hukuwmap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.815875 diac:AlHukuwmapi lex:Hukuwmap_1 bw:Al/DET+Hukuwm/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:government;administration pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:spvar stem:Hukuwm stemcat:Napdu
+--------------
+;;WORD AltY
+;;LENGTH 4
+;;OFFSET 65
+;;SVM_PREDICTIONS: Alty diac:Al~atiy lex:Al~a*iy asp:na cas:u enc0:0 gen:f mod:na num:s per:na pos:pron_rel prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894508 diac:Al~atiy lex:Al~a*iy_1 bw:Al~atiy/REL_PRON gloss:which;who;whom_[fem.sg.] pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y source:spvar stem:Al~atiy stemcat:FW-Wa
+--------------
+;;WORD >wrdt
+;;LENGTH 5
+;;OFFSET 70
+;;SVM_PREDICTIONS: Awrdt diac:>aworadat lex:>aworad asp:p cas:na enc0:0 gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.894850 diac:>aworadat lex:>aworad_1 bw:>aworad/PV+at/PVSUFF_SUBJ:3FS gloss:present;import sufgloss:it;they;she_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:>aworad stemcat:PV
+--------------
+;;WORD blAdnA
+;;LENGTH 6
+;;OFFSET 76
+;;SVM_PREDICTIONS: blAdnA diac:bilAdinA lex:balad asp:na cas:a enc0:1p_poss gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.883630 diac:bilAdanA lex:balad_1 bw:bilAd/NOUN+a/CASE_DEF_ACC+nA/POSS_PRON_1P gloss:country;countries sufgloss:our pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:1p_poss rat:y source:lex stem:bilAd stemcat:N
+--------------
+;;WORD mwArd
+;;LENGTH 5
+;;OFFSET 83
+;;SVM_PREDICTIONS: mwArd diac:mawAridi lex:maworid asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.886676 diac:mawArida lex:maworid_1 bw:mawArid/NOUN+a/CASE_DEF_ACC gloss:sources;resources sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y source:lex stem:mawArid stemcat:Ndip
+--------------
+;;WORD AlhlAk
+;;LENGTH 6
+;;OFFSET 89
+;;SVM_PREDICTIONS: AlhlAk diac:AlhalAka lex:hAlik asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884038 diac:AlhulAk lex:hAlik_1 bw:Al/DET+hulAk/NOUN gloss:mortal;perishable;doomed pregloss:the pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:u enc0:0 rat:y source:lex stem:hulAk stemcat:N
+--------------
+;;WORD tqwl
+;;LENGTH 4
+;;OFFSET 96
+;;SVM_PREDICTIONS: tqwl diac:taqaw~ulN lex:qAl asp:i cas:na enc0:0 gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.845327 diac:taquwl lex:qAl-u_1 bw:ta/IV3FS+quwl/IV gloss:say pregloss:it;they;she pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:quwl stemcat:IV_V
+--------------
+;;WORD wlA
+;;LENGTH 3
+;;OFFSET 101
+;;SVM_PREDICTIONS: wlA diac:walA lex:lA asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:part_neg prc0:na prc1:0 prc2:wa_conj prc3:0 stt:na vox:na
+*0.894071 diac:walA lex:lA_1 bw:wa/CONJ+lA/NEG_PART gloss:no;not pregloss:and pos:part_neg prc3:0 prc2:wa_conj prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:lA stemcat:FW-Wa
+--------------
+;;WORD tfEl
+;;LENGTH 4
+;;OFFSET 105
+;;SVM_PREDICTIONS: tfEl diac:tafoEal lex:faEal asp:i cas:na enc0:0 gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.855626 diac:tafoEal lex:faEal-a_1 bw:ta/IV3FS+foEal/IV gloss:do;act pregloss:it;they;she pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:foEal stemcat:IV
+--------------
+;;WORD $y}Aw
+;;LENGTH 5
+;;OFFSET 110
+;;NO-ANALYSIS
+;;SVM_PREDICTIONS: $y}Aw diac:$y}Aw lex:$y}Aw asp:na cas:u enc0:3d_poss gen:f mod:na num:na per:na pos:noun prc0:0 prc1:sa_fut prc2:0 prc3:0 stt:na vox:na
+NO-ANALYSIS [$y}Aw]
+--------------
+;;WORD rbmA
+;;LENGTH 4
+;;OFFSET 116
+;;SVM_PREDICTIONS: rbmA diac:rub~amA lex:rub~amA asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:adv prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:rub~amA lex:rub~amA_1 bw:rub~amA/ADV gloss:perhaps;maybe pos:adv prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:rub~amA stemcat:FW-Wa
+--------------
+;;WORD EA}d
+;;LENGTH 4
+;;OFFSET 121
+;;SVM_PREDICTIONS: EA}d diac:EA}idK lex:EA}id asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.884007 diac:EA}idN lex:EA}id_2 bw:EA}id/NOUN+N/CASE_INDEF_NOM gloss:revenue;profit;royalty sufgloss:[indef.nom.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:n enc0:0 rat:y source:lex stem:EA}id stemcat:N
+--------------
+;;WORD lElAqp
+;;LENGTH 6
+;;OFFSET 126
+;;SVM_PREDICTIONS: lElAqp diac:liEal~Aqihi lex:EalAqap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.778165 diac:liEalAqapi lex:EalAqap_1 bw:li/PREP+EalAq/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:connection;relation;link pregloss:for;to sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y source:lex stem:EalAq stemcat:Napdu
+--------------
+;;WORD h*h
+;;LENGTH 3
+;;OFFSET 133
+;;SVM_PREDICTIONS: h*h diac:h`*ihi lex:h`*A asp:na cas:u enc0:0 gen:f mod:na num:s per:na pos:pron_dem prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:h`*ihi lex:h`*A_1 bw:h`*ihi/DEM_PRON_F gloss:this;these pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y source:lex stem:h`*ihi stemcat:FW-WaBi
+--------------
+;;WORD AlmEArDp
+;;LENGTH 8
+;;OFFSET 137
+;;SVM_PREDICTIONS: AlmEArDp diac:AlmuEAraDapi lex:muEAraDap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895953 diac:AlmuEAraDapi lex:muEAraDap_1 bw:Al/DET+muEAraD/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:opposition pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:muEAraD stemcat:NapAt
+--------------
+;;WORD bh*A
+;;LENGTH 4
+;;OFFSET 146
+;;SVM_PREDICTIONS: bh*A diac:bih`*A lex:h`*A asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:pron_dem prc0:0 prc1:bi_prep prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:bih`*A lex:h`*A_1 bw:bi/PREP+h`*A/DEM_PRON_MS gloss:this pregloss:by;with pos:pron_dem prc3:0 prc2:0 prc1:bi_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:h`*A stemcat:FW-WaBi
+--------------
+;;WORD AlnZAm
+;;LENGTH 6
+;;OFFSET 151
+;;SVM_PREDICTIONS: AlnZAm diac:Aln~iZAma lex:niZAm asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.888918 diac:Aln~iZAmi lex:niZAm_1 bw:Al/DET+niZAm/NOUN+i/CASE_DEF_GEN gloss:regime;government pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:niZAm stemcat:NduAt
+--------------
+;;WORD Al*Y
+;;LENGTH 4
+;;OFFSET 158
+;;SVM_PREDICTIONS: Al*y diac:Al~a*iy lex:Al~a*iy asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:pron_rel prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894608 diac:Al~a*iy lex:Al~a*iy_1 bw:Al~a*iy/REL_PRON gloss:which;who;whom pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:spvar stem:Al~a*iy stemcat:FW-Wa
+--------------
+;;WORD Zl
+;;LENGTH 2
+;;OFFSET 163
+;;SVM_PREDICTIONS: Zl diac:Zal~a lex:Zil~ asp:p cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.879379 diac:Zal~a lex:Zal~a_1 bw:Zal~/PV+a/PVSUFF_SUBJ:3MS gloss:remain;continue sufgloss:he;it_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:Zal~ stemcat:PV_V
+--------------
+;;WORD yrDEhA
+;;LENGTH 6
+;;OFFSET 166
+;;SVM_PREDICTIONS: yrDEhA diac:yuroDiEhA lex:>aroDaE asp:i cas:na enc0:3fs_dobj gen:m mod:u num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.894428 diac:yuroDiEhA lex:>aroDaE_1 bw:yu/IV3MS+roDiE/IV+hA/IVSUFF_DO:3FS gloss:breast-feed;nurture pregloss:he;it sufgloss:it;them;her pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:3fs_dobj rat:na source:lex stem:roDiE stemcat:IV_yu
+--------------
+;;WORD mn
+;;LENGTH 2
+;;OFFSET 173
+;;SVM_PREDICTIONS: mn diac:min lex:min asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:min lex:min_1 bw:min/PREP gloss:from pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:min stemcat:FW-Wa
+--------------
+;;WORD AlmAl
+;;LENGTH 5
+;;OFFSET 176
+;;SVM_PREDICTIONS: AlmAl diac:AlmAli lex:mAl asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:AlmAli lex:mAl_1 bw:Al/DET+mAl/NOUN+i/CASE_DEF_GEN gloss:money;capital;funds pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:mAl stemcat:N
+--------------
+;;WORD AlEAm
+;;LENGTH 5
+;;OFFSET 182
+;;SVM_PREDICTIONS: AlEAm diac:AlEAm~i lex:EAm~ asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895776 diac:AlEAm~i lex:EAm~_1 bw:Al/DET+EAm~/ADJ+i/CASE_DEF_GEN gloss:general;common;public pregloss:the sufgloss:[def.gen.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:EAm~ stemcat:N-ap
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 188
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD lmA
+;;LENGTH 3
+;;OFFSET 190
+;;SVM_PREDICTIONS: lmA diac:limA lex:mA asp:na cas:u enc0:0 gen:m mod:na num:na per:na pos:pron_rel prc0:0 prc1:la_rc prc2:0 prc3:0 stt:i vox:na
+*0.765799 diac:limA lex:mA_1 bw:li/PREP+mA/REL_PRON gloss:why;for_+_what pos:pron_rel prc3:0 prc2:0 prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:limA stemcat:FW-Wa
+--------------
+;;WORD yqTE
+;;LENGTH 4
+;;OFFSET 194
+;;SVM_PREDICTIONS: yqTE diac:yuqoTiE lex:qaTaE asp:i cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.845327 diac:yaqoTaE lex:qaTaE-a_1 bw:ya/IV3MS+qoTaE/IV gloss:cut_off;sever;interrupt;stop pregloss:he;it pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:qoTaE stemcat:IV
+--------------
+;;WORD AlrDAEp
+;;LENGTH 7
+;;OFFSET 199
+;;SVM_PREDICTIONS: AlrDAEp diac:Alr~aD~AEapa lex:raDAEap asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884039 diac:Alr~aDAEapu lex:raDAEap_1 bw:Al/DET+raDAE/NOUN+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:breast-feeding;sucking pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:n enc0:0 rat:y source:lex stem:raDAE stemcat:Nap
+--------------
+;;WORD twlwl
+;;LENGTH 5
+;;OFFSET 207
+;;SVM_PREDICTIONS: twlwl diac:tuwalowil lex:walowal asp:i cas:na enc0:0 gen:m mod:u num:s per:na pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.867736 diac:tuwalowil lex:walowal_1 bw:tu/IV2MS+walowil/IV gloss:wail;lament pregloss:you_[masc.sg.] pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:2 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:walowil stemcat:IV_yu
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 210
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD tHtj
+;;LENGTH 4
+;;OFFSET 215
+;;SVM_PREDICTIONS: tHtj diac:taHotaj~ lex:{iHotAj asp:i cas:na enc0:0 gen:f mod:u num:s per:na pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.857437 diac:taHotaj lex:{iHotAj_1 bw:ta/IV3FS+Hotaj/IV gloss:need;want pregloss:it;they;she pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:Hotaj stemcat:IV_C
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 215
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 221
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD lkn
+;;LENGTH 3
+;;OFFSET 223
+;;SVM_PREDICTIONS: lkn diac:l`kin~a lex:kAn asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:verb_pseudo prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.808929 diac:l`kin~a lex:l`kin~a_1 bw:l`kin~a/CONJ gloss:however pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:l`kin~a stemcat:FW-Wa
+--------------
+;;WORD hmA
+;;LENGTH 3
+;;OFFSET 227
+;;SVM_PREDICTIONS: hmA diac:humA lex:humA asp:na cas:n enc0:0 gen:m mod:na num:d per:3 pos:pron prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.893909 diac:humA lex:humA_1 bw:humA/PRON_3D gloss:they_(both) pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:d stt:i cas:n enc0:0 rat:y source:lex stem:humA stemcat:FW-Wa
+--------------
+;;WORD syAn
+;;LENGTH 4
+;;OFFSET 231
+;;SVM_PREDICTIONS: syAn diac:siyAnN lex:siy~ asp:i cas:n enc0:0 gen:m mod:na num:s per:na pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.765342 diac:siyAnN lex:siyAn_1 bw:siyAn/NOUN+N/CASE_INDEF_NOM gloss:cyanogen sufgloss:[indef.nom.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:n enc0:0 rat:y source:lex stem:siyAn stemcat:N
+--------------
+;;WORD flA
+;;LENGTH 3
+;;OFFSET 236
+;;SVM_PREDICTIONS: flA diac:falA lex:lA asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:part_neg prc0:na prc1:0 prc2:fa_conj prc3:0 stt:na vox:na
+*0.893910 diac:falA lex:lA_1 bw:fa/CONJ+lA/NEG_PART gloss:no;not pregloss:and;so pos:part_neg prc3:0 prc2:fa_conj prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:lA stemcat:FW-Wa
+--------------
+;;WORD xyr
+;;LENGTH 3
+;;OFFSET 240
+;;SVM_PREDICTIONS: xyr diac:xayorK lex:xayor asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.886676 diac:xayora lex:xayor_1 bw:xayor/NOUN+a/CASE_DEF_ACC gloss:good sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y source:lex stem:xayor stemcat:N
+--------------
+;;WORD fY
+;;LENGTH 2
+;;OFFSET 244
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:spvar stem:fiy stemcat:FW-Wa
+--------------
+;;WORD mEArDp
+;;LENGTH 6
+;;OFFSET 247
+;;SVM_PREDICTIONS: mEArDp diac:muEAraDapi lex:maEoriD asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.879114 diac:muEAraDapi lex:muEAraDap_1 bw:muEAraD/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:opposition sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y source:lex stem:muEAraD stemcat:NapAt
+--------------
+;;WORD tqlydyh
+;;LENGTH 7
+;;OFFSET 254
+;;SVM_PREDICTIONS: tqlydyh diac:taqoliydiy~apK lex:taqoliydiy~ asp:na cas:g enc0:3ms_poss gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.767841 diac:taqoliydayohi lex:taqoliyd_1 bw:taqoliyd/NOUN+ayo/NSUFF_MASC_DU_ACC+hu/POSS_PRON_3MS gloss:imitation sufgloss:his;its_two pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:d stt:c cas:g enc0:3ms_poss rat:y source:lex stem:taqoliyd stemcat:Ndu
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 262
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD lA
+;;LENGTH 2
+;;OFFSET 264
+;;SVM_PREDICTIONS: lA diac:lA lex:lA asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:part_neg prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*1.000000 diac:lA lex:lA_1 bw:lA/NEG_PART gloss:no;not pos:part_neg prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:lA stemcat:FW-Wa
+--------------
+;;WORD fY
+;;LENGTH 2
+;;OFFSET 267
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:spvar stem:fiy stemcat:FW-Wa
+--------------
+;;WORD Hkwmh
+;;LENGTH 5
+;;OFFSET 270
+;;SVM_PREDICTIONS: Hkwmh diac:Hukuwmapi lex:Hukuwmap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.825473 diac:Hukuwmapi lex:Hukuwmap_1 bw:Hukuwm/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:government;administration sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y source:spvar stem:Hukuwm stemcat:Napdu
+--------------
+;;WORD dktAtwryh
+;;LENGTH 9
+;;OFFSET 276
+;;SVM_PREDICTIONS: dktAtwryh diac:dikotAtuwriy~ap lex:diykotAtuwriy~ap asp:na cas:g enc0:3ms_poss gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.746947 diac:dikotAtuwriy~ihi lex:diykotAtuwriy~_1 bw:dikotAtuwriy~/ADJ+i/CASE_DEF_GEN+hu/POSS_PRON_3MS gloss:dictatorial sufgloss:its;his pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:3ms_poss rat:y source:lex stem:dikotAtuwriy~ stemcat:Nall
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 286
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD <n
+;;LENGTH 2
+;;OFFSET 288
+;;SVM_PREDICTIONS: An diac:>an~a lex:>ano asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj_sub prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.869205 diac:<in lex:<ino_1 bw:<in/SUB_CONJ gloss:if;whether pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:<in stemcat:FW-Wa
+--------------
+;;WORD kAnt
+;;LENGTH 4
+;;OFFSET 291
+;;SVM_PREDICTIONS: kAnt diac:kAnat lex:kAn asp:p cas:na enc0:0 gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*1.000000 diac:kAnat lex:kAn_1 bw:kAn/PV+at/PVSUFF_SUBJ:3FS gloss:was;were sufgloss:it;they;she_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:kAn stemcat:PV_V
+--------------
+;;WORD bvwb
+;;LENGTH 4
+;;OFFSET 296
+;;SVM_PREDICTIONS: bvwb diac:bivawobK lex:vawob asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:bi_prep prc2:0 prc3:0 stt:i vox:na
+*0.894060 diac:bivawobK lex:vawob_1 bw:bi/PREP+vawob/NOUN+K/CASE_INDEF_GEN gloss:garment;robe pregloss:by;with sufgloss:[indef.gen.] pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y source:lex stem:vawob stemcat:Ndu
+--------------
+;;WORD mdnY
+;;LENGTH 4
+;;OFFSET 301
+;;SVM_PREDICTIONS: mdny diac:madaniy~K lex:madiynap asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.878304 diac:madaniy~K lex:madaniy~_1 bw:madaniy~/ADJ+K/CASE_INDEF_GEN gloss:civilian sufgloss:[indef.gen.] pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y source:spvar stem:madaniy~ stemcat:Nall
+--------------
+SENTENCE BREAK
+--------------
+;;; SENTENCE_ID (batch_3_74)
+;;; SENTENCE >Ely drjp HrArp msjlp fy mnTqp AlEzyzyp fy lybyA w hy bAlDbT 57.7 drjp m}wyp ywm 13 sbtmbr snp 1913 w llElm drjAt AlHrArp Alty trSd w t*kr fy n$rAt AlAHwAl Aljwyp tsjl fy AlZl w lys fy Al$ms ! . AlmSdr mwswEp AlwykybydyA
+;;WORD >Ely
+;;LENGTH 4
+;;OFFSET 0
+;;SVM_PREDICTIONS: AEly diac:>aEolaY lex:>aEolaY asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:adj_comp prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.824573 diac:>aEolaY lex:>aEolaY_2 bw:>aEolaY/ADJ gloss:higher;highest;supreme pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:spvar stem:>aEolaY stemcat:N0
+--------------
+;;WORD drjp
+;;LENGTH 4
+;;OFFSET 5
+;;SVM_PREDICTIONS: drjp diac:darajapi lex:darajap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.895252 diac:darajapi lex:darajap_1 bw:daraj/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:degree;class;rank;grade;level sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y source:lex stem:daraj stemcat:Napdu
+--------------
+;;WORD HrArp
+;;LENGTH 5
+;;OFFSET 10
+;;SVM_PREDICTIONS: HrArp diac:HarArapu lex:HarArap asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.894255 diac:HarArapu lex:HarArap_1 bw:HarAr/NOUN+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:temperature;heat;fever sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:n enc0:0 rat:y source:lex stem:HarAr stemcat:Nap
+--------------
+;;WORD msjlp
+;;LENGTH 5
+;;OFFSET 16
+;;SVM_PREDICTIONS: msjlp diac:musaj~alapK lex:musaj~al asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894650 diac:musaj~alapK lex:musaj~al_1 bw:musaj~al/ADJ+ap/NSUFF_FEM_SG+K/CASE_INDEF_GEN gloss:registered;recorded sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:g enc0:0 rat:y source:lex stem:musaj~al stemcat:N/ap
+--------------
+;;WORD fy
+;;LENGTH 2
+;;OFFSET 22
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:fiy stemcat:FW-Wa
+--------------
+;;WORD mnTqp
+;;LENGTH 5
+;;OFFSET 25
+;;SVM_PREDICTIONS: mnTqp diac:minoTaqapi lex:minoTaqap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.895252 diac:minoTaqapi lex:minoTaqap_1 bw:minoTaq/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:area;zone;territory sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y source:lex stem:minoTaq stemcat:Napdu
+--------------
+;;WORD AlEzyzyp
+;;LENGTH 8
+;;OFFSET 31
+;;SVM_PREDICTIONS: AlEzyzyp diac:AlEaziyziy~apa lex:Eaziyziy~ asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.886222 diac:AlEaziyziy~api lex:Eaziyziy~_2 bw:Al/DET+Eaziyziy~/ADJ+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:dear;precious pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:Eaziyziy~ stemcat:Nall
+--------------
+;;WORD fy
+;;LENGTH 2
+;;OFFSET 40
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:fiy stemcat:FW-Wa
+--------------
+;;WORD lybyA
+;;LENGTH 5
+;;OFFSET 43
+;;SVM_PREDICTIONS: lybyA diac:liybiyA lex:liybiyA asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.899822 diac:liybiyA lex:liybiyA_1 bw:liybiyA/NOUN_PROP gloss:Libya pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:liybiyA stemcat:N0_L
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 49
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD hy
+;;LENGTH 2
+;;OFFSET 51
+;;SVM_PREDICTIONS: hy diac:hiya lex:hiya asp:na cas:n enc0:0 gen:f mod:na num:s per:3 pos:pron prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:hiya lex:hiya_1 bw:hiya/PRON_3FS gloss:it;they;she pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:f num:s stt:i cas:n enc0:0 rat:y source:lex stem:hiya stemcat:FW-Wa
+--------------
+;;WORD bAlDbT
+;;LENGTH 6
+;;OFFSET 54
+;;SVM_PREDICTIONS: bAlDbT diac:biAlD~aboTi lex:DaboT asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:bi_prep prc2:0 prc3:0 stt:d vox:na
+*0.894170 diac:biAlD~aboTi lex:DaboT_1 bw:bi/PREP+Al/DET+DaboT/NOUN+i/CASE_DEF_GEN gloss:adjusting;regulating;precision pregloss:with;by_+_the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:DaboT stemcat:N
+--------------
+;;WORD 57.7
+;;LENGTH 4
+;;OFFSET 61
+;;SVM_PREDICTIONS: 88.8 diac:88.8 lex:88.8 asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:digit prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:57.7 lex:57.7_0 bw:57.7/NOUN_NUM gloss:57.7 pos:digit prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:digit
+--------------
+;;WORD drjp
+;;LENGTH 4
+;;OFFSET 66
+;;SVM_PREDICTIONS: drjp diac:darajapu lex:darajap asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.894255 diac:darajapu lex:darajap_1 bw:daraj/NOUN+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:degree;class;rank;grade;level sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:n enc0:0 rat:y source:lex stem:daraj stemcat:Napdu
+--------------
+;;WORD m}wyp
+;;LENGTH 5
+;;OFFSET 71
+;;SVM_PREDICTIONS: m}wyp diac:mi}awiy~apK lex:mi}awiy~ asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.883621 diac:mi}awiy~api lex:mi}awiy~_1 bw:mi}awiy~/ADJ+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:one-hundred;hundreth;percentage sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y source:lex stem:mi}awiy~ stemcat:Nall
+--------------
+;;WORD ywm
+;;LENGTH 3
+;;OFFSET 77
+;;SVM_PREDICTIONS: ywm diac:yawoma lex:yawom asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.896974 diac:yawoma lex:yawom_1 bw:yawom/NOUN+a/CASE_DEF_ACC gloss:day sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y source:lex stem:yawom stemcat:Ndu
+--------------
+;;WORD 13
+;;LENGTH 2
+;;OFFSET 81
+;;SVM_PREDICTIONS: 88 diac:88 lex:88 asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:digit prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:13 lex:13_0 bw:13/NOUN_NUM gloss:13 pos:digit prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:digit
+--------------
+;;WORD sbtmbr
+;;LENGTH 6
+;;OFFSET 84
+;;SVM_PREDICTIONS: sbtmbr diac:sibotamobir lex:sibotamobir asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:sibotamobir lex:sibotamobir_1 bw:sibotamobir/NOUN_PROP gloss:September pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:sibotamobir stemcat:N0
+--------------
+;;WORD snp
+;;LENGTH 3
+;;OFFSET 91
+;;SVM_PREDICTIONS: snp diac:sanapa lex:sanap asp:na cas:a enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.894299 diac:sanapa lex:sanap_1 bw:san/NOUN+ap/NSUFF_FEM_SG+a/CASE_DEF_ACC gloss:year sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:a enc0:0 rat:y source:lex stem:san stemcat:Napdu
+--------------
+;;WORD 1913
+;;LENGTH 4
+;;OFFSET 95
+;;SVM_PREDICTIONS: 8888 diac:8888 lex:8888 asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:digit prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:1913 lex:1913_0 bw:1913/NOUN_NUM gloss:1913 pos:digit prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:digit
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 100
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD llElm
+;;LENGTH 5
+;;OFFSET 102
+;;SVM_PREDICTIONS: llElm diac:lilEilomi lex:Eilom asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:li_prep prc2:0 prc3:0 stt:d vox:na
+*0.894437 diac:lilEilomi lex:Eilom_1 bw:li/PREP+Al/DET+Eilom/NOUN+i/CASE_DEF_GEN gloss:knowledge;knowing pregloss:to;for_+_the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:Eilom stemcat:N
+--------------
+;;WORD drjAt
+;;LENGTH 5
+;;OFFSET 108
+;;SVM_PREDICTIONS: drjAt diac:darajAtK lex:darajap asp:na cas:g enc0:0 gen:f mod:na num:p per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.883868 diac:darajAti lex:darajap_1 bw:daraj/NOUN+At/NSUFF_FEM_PL+i/CASE_DEF_GEN gloss:degrees;classes;ranks;grades;levels sufgloss:[fem.pl.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:p stt:c cas:g enc0:0 rat:y source:lex stem:daraj stemcat:NAt
+--------------
+;;WORD AlHrArp
+;;LENGTH 7
+;;OFFSET 114
+;;SVM_PREDICTIONS: AlHrArp diac:AlHarArapi lex:HarArap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895953 diac:AlHarArapi lex:HarArap_1 bw:Al/DET+HarAr/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:temperature;heat;fever pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:HarAr stemcat:Nap
+--------------
+;;WORD Alty
+;;LENGTH 4
+;;OFFSET 122
+;;SVM_PREDICTIONS: Alty diac:Al~atiy lex:Al~a*iy asp:na cas:u enc0:0 gen:f mod:na num:s per:na pos:pron_rel prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894508 diac:Al~atiy lex:Al~a*iy_1 bw:Al~atiy/REL_PRON gloss:which;who;whom_[fem.sg.] pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y source:lex stem:Al~atiy stemcat:FW-Wa
+--------------
+;;WORD trSd
+;;LENGTH 4
+;;OFFSET 127
+;;SVM_PREDICTIONS: trSd diac:turoSid lex:raSad asp:p cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.869080 diac:taraS~ada lex:taraS~ad_1 bw:taraS~ad/PV+a/PVSUFF_SUBJ:3MS gloss:observe;watch sufgloss:he;it_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:taraS~ad stemcat:PV
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 132
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD t*kr
+;;LENGTH 4
+;;OFFSET 134
+;;SVM_PREDICTIONS: t*kr diac:tu*ak~ir lex:*akar asp:i cas:na enc0:0 gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.845327 diac:ta*okur lex:*akar-u_1 bw:ta/IV3FS+*okur/IV gloss:mention;cite;remember pregloss:it;they;she pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:*okur stemcat:IV
+--------------
+;;WORD fy
+;;LENGTH 2
+;;OFFSET 139
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:fiy stemcat:FW-Wa
+--------------
+;;WORD n$rAt
+;;LENGTH 5
+;;OFFSET 142
+;;SVM_PREDICTIONS: n$rAt diac:na$arAtK lex:na$orap asp:na cas:g enc0:0 gen:f mod:na num:p per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894215 diac:na$arAtK lex:na$orap_1 bw:na$ar/NOUN+At/NSUFF_FEM_PL+K/CASE_INDEF_GEN gloss:reports;announcements;proclamations sufgloss:[fem.pl.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:p stt:i cas:g enc0:0 rat:y source:lex stem:na$ar stemcat:NAt
+--------------
+;;WORD AlAHwAl
+;;LENGTH 7
+;;OFFSET 148
+;;SVM_PREDICTIONS: AlAHwAl diac:Al>aHowAli lex:HAl asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.829437 diac:Al>aHowAli lex:HAl_1 bw:Al/DET+>aHowAl/NOUN+i/CASE_DEF_GEN gloss:situations;conditions;cases pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:spvar stem:>aHowAl stemcat:N
+--------------
+;;WORD Aljwyp
+;;LENGTH 6
+;;OFFSET 156
+;;SVM_PREDICTIONS: Aljwyp diac:Aljaw~iy~api lex:jaw~iy~ asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.896520 diac:Aljaw~iy~api lex:jaw~iy~_1 bw:Al/DET+jaw~iy~/ADJ+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:air;aerial;atmospheric pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:jaw~iy~ stemcat:N/ap
+--------------
+;;WORD tsjl
+;;LENGTH 4
+;;OFFSET 163
+;;SVM_PREDICTIONS: tsjl diac:tusaj~il lex:saj~al asp:i cas:na enc0:0 gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.855626 diac:tusaj~il lex:saj~al_1 bw:tu/IV3FS+saj~il/IV gloss:register;record;inscribe pregloss:it;they;she pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:saj~il stemcat:IV_yu
+--------------
+;;WORD fy
+;;LENGTH 2
+;;OFFSET 168
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:fiy stemcat:FW-Wa
+--------------
+;;WORD AlZl
+;;LENGTH 4
+;;OFFSET 171
+;;SVM_PREDICTIONS: AlZl diac:AlZ~il~i lex:Zil~ asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:AlZ~il~i lex:Zil~_1 bw:Al/DET+Zil~/NOUN+i/CASE_DEF_GEN gloss:patronage;shelter pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:Zil~ stemcat:N
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 176
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD lys
+;;LENGTH 3
+;;OFFSET 178
+;;SVM_PREDICTIONS: lys diac:layosa lex:layosa asp:p cas:na enc0:0 gen:m mod:i num:na per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.846991 diac:layosa lex:layosa_1 bw:layos/PV+a/PVSUFF_SUBJ:3MS gloss:not_+_he;it_(he;it_is_not) pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:layosa stemcat:FW-Wa
+--------------
+;;WORD fy
+;;LENGTH 2
+;;OFFSET 182
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:fiy stemcat:FW-Wa
+--------------
+;;WORD Al$ms
+;;LENGTH 5
+;;OFFSET 185
+;;SVM_PREDICTIONS: Al$ms diac:Al$~amosi lex:$amos asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:Al$~amosi lex:$amos_1 bw:Al/DET+$amos/NOUN+i/CASE_DEF_GEN gloss:sun pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:$amos stemcat:N
+--------------
+;;WORD !
+;;LENGTH 1
+;;OFFSET 191
+;;SVM_PREDICTIONS: ! diac:! lex:! asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:! lex:!_0 bw:!/PUNC gloss:! pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 191
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD AlmSdr
+;;LENGTH 6
+;;OFFSET 194
+;;SVM_PREDICTIONS: AlmSdr diac:AlmaSodaru lex:maSodar asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895063 diac:AlmaSodaru lex:maSodar_1 bw:Al/DET+maSodar/NOUN+u/CASE_DEF_NOM gloss:source pregloss:the sufgloss:[def.nom.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y source:lex stem:maSodar stemcat:Ndu
+--------------
+;;WORD mwswEp
+;;LENGTH 6
+;;OFFSET 201
+;;SVM_PREDICTIONS: mwswEp diac:mawosuwEapa lex:mawosuwEap asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.883957 diac:mawosuwEapu lex:mawosuwEap_1 bw:mawosuwE/NOUN+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:encyclopedia sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:n enc0:0 rat:y source:lex stem:mawosuwE stemcat:Napdu
+--------------
+;;WORD AlwykybydyA
+;;LENGTH 11
+;;OFFSET 208
+;;NO-ANALYSIS
+;;SVM_PREDICTIONS: AlwykybydyA diac:AlwykybydyA lex:AlwykybydyA asp:na cas:a enc0:3d_poss gen:m mod:na num:s per:na pos:adj prc0:lA_neg prc1:0 prc2:0 prc3:0 stt:d vox:na
+NO-ANALYSIS [AlwykybydyA]
+--------------
+SENTENCE BREAK
+--------------
+;;; SENTENCE_ID (batch_3_67)
+;;; SENTENCE tEtmd SnAEp h*h AlSwAryx AlTA}fyp ElY tHfyz EnASr Altxlf w txSyb ywrAnywm Aljhl Almrkb , bHyv tnxfD nsbp AlmErfp <lY >ql mn 10 % , h*h AlmAdp AlxAm Alty mA zAlt mtwfrp bgzArp fy Alkvyr mn mnAjm AlEqwl AlErbyp Albkr Alty lm tstxdm HtY Al|n ltHAfZ h*h AlEqwl ElY E*rythA , bAlrgm mn tqdm AlHDArp bTlbAt kvyrp llzwAj . . . . . . wlkn EbvA .
+;;WORD tEtmd
+;;LENGTH 5
+;;OFFSET 0
+;;SVM_PREDICTIONS: tEtmd diac:taEotamid lex:{iEotamad asp:i cas:na enc0:0 gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.855626 diac:taEotamid lex:{iEotamad_1 bw:ta/IV3FS+Eotamid/IV gloss:depend;rely_(on) pregloss:it;they;she pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:Eotamid stemcat:IV
+--------------
+;;WORD SnAEp
+;;LENGTH 5
+;;OFFSET 6
+;;SVM_PREDICTIONS: SnAEp diac:SinAEapi lex:SinAEap asp:na cas:a enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.884001 diac:SinAEapa lex:SinAEap_1 bw:SinAE/NOUN+ap/NSUFF_FEM_SG+a/CASE_DEF_ACC gloss:manufacture;industry;trade;craft sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:a enc0:0 rat:y source:lex stem:SinAE stemcat:NapAt
+--------------
+;;WORD h*h
+;;LENGTH 3
+;;OFFSET 12
+;;SVM_PREDICTIONS: h*h diac:h`*ihi lex:h`*A asp:na cas:u enc0:0 gen:f mod:na num:s per:na pos:pron_dem prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:h`*ihi lex:h`*A_1 bw:h`*ihi/DEM_PRON_F gloss:this;these pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y source:lex stem:h`*ihi stemcat:FW-WaBi
+--------------
+;;WORD AlSwAryx
+;;LENGTH 8
+;;OFFSET 16
+;;SVM_PREDICTIONS: AlSwAryx diac:AlS~awAriyxi lex:SAruwx asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884914 diac:AlS~awAriyxa lex:SAruwx_1 bw:Al/DET+SawAriyx/NOUN+a/CASE_DEF_ACC gloss:missiles;rockets pregloss:the sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y source:lex stem:SawAriyx stemcat:Ndip
+--------------
+;;WORD AlTA}fyp
+;;LENGTH 8
+;;OFFSET 25
+;;SVM_PREDICTIONS: AlTA}fyp diac:AlT~A}ifiy~api lex:TA}ifiy~ asp:na cas:a enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.883960 diac:AlT~A}ifiy~apa lex:TA}ifiy~_1 bw:Al/DET+TA}ifiy~/ADJ+ap/NSUFF_FEM_SG+a/CASE_DEF_ACC gloss:sectarian;factional pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:a enc0:0 rat:y source:lex stem:TA}ifiy~ stemcat:Nall
+--------------
+;;WORD ElY
+;;LENGTH 3
+;;OFFSET 34
+;;SVM_PREDICTIONS: Ely diac:EalaY lex:EalaY asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:EalaY lex:EalaY_1 bw:EalaY/PREP gloss:on;above pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:EalaY stemcat:FW-Wa
+--------------
+;;WORD tHfyz
+;;LENGTH 5
+;;OFFSET 38
+;;NO-ANALYSIS
+;;SVM_PREDICTIONS: tHfyz diac:tHfyz lex:tHfyz asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+NO-ANALYSIS [tHfyz]
+--------------
+;;WORD EnASr
+;;LENGTH 5
+;;OFFSET 44
+;;SVM_PREDICTIONS: EnASr diac:EanASiri lex:EunoSur asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.897695 diac:EanASiri lex:EunoSur_1 bw:EanASir/NOUN+i/CASE_DEF_GEN gloss:elements;factors sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:EanASir stemcat:Ndip
+--------------
+;;WORD Altxlf
+;;LENGTH 6
+;;OFFSET 50
+;;SVM_PREDICTIONS: Altxlf diac:Alt~axal~ufu lex:taxal~uf asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.888918 diac:Alt~axal~ufi lex:taxal~uf_1 bw:Al/DET+taxal~uf/NOUN+i/CASE_DEF_GEN gloss:backwardness;underdevelopment pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:taxal~uf stemcat:NduAt
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 58
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD txSyb
+;;LENGTH 5
+;;OFFSET 60
+;;SVM_PREDICTIONS: txSyb diac:taxoSiyba lex:taxoSiyb asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.884561 diac:taxoSiybu lex:taxoSiyb_1 bw:taxoSiyb/NOUN+u/CASE_DEF_NOM gloss:fertilization sufgloss:[def.nom.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:n enc0:0 rat:y source:lex stem:taxoSiyb stemcat:NduAt
+--------------
+;;WORD ywrAnywm
+;;LENGTH 8
+;;OFFSET 66
+;;SVM_PREDICTIONS: ywrAnywm diac:yuwrAniyuwm lex:yuwrAniyuwm asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:yuwrAniyuwm lex:yuwrAniyuwm_1 bw:yuwrAniyuwm/NOUN gloss:uranium pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:yuwrAniyuwm stemcat:N0
+--------------
+;;WORD Aljhl
+;;LENGTH 5
+;;OFFSET 75
+;;SVM_PREDICTIONS: Aljhl diac:Aljaholi lex:jahol asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:Aljaholi lex:jahol_1 bw:Al/DET+jahol/NOUN+i/CASE_DEF_GEN gloss:ignorance pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:jahol stemcat:N
+--------------
+;;WORD Almrkb
+;;LENGTH 6
+;;OFFSET 81
+;;SVM_PREDICTIONS: Almrkb diac:Almarokabi lex:murak~ab asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.885477 diac:Almurak~abi lex:murak~ab_1 bw:Al/DET+murak~ab/ADJ+i/CASE_DEF_GEN gloss:composed;installed;consisting pregloss:the sufgloss:[def.gen.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:murak~ab stemcat:N-ap
+--------------
+;;WORD ,
+;;LENGTH 1
+;;OFFSET 88
+;;SVM_PREDICTIONS: , diac:, lex:, asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:, lex:,_0 bw:,/PUNC gloss:, pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD bHyv
+;;LENGTH 4
+;;OFFSET 90
+;;SVM_PREDICTIONS: bHyv diac:biHayovu lex:Hayovu asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:adv_rel prc0:0 prc1:bi_prep prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:biHayovu lex:Hayovu_1 bw:biHayovu/CONJ gloss:where;whereby;since;given_that pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:biHayovu stemcat:FW-Wa
+--------------
+;;WORD tnxfD
+;;LENGTH 5
+;;OFFSET 95
+;;SVM_PREDICTIONS: tnxfD diac:tanoxafiD lex:{inoxafaD asp:i cas:na enc0:0 gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.855626 diac:tanoxafiD lex:{inoxafaD_1 bw:ta/IV3FS+noxafiD/IV gloss:be_lowered;decrease pregloss:it;they;she pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:noxafiD stemcat:IV_intr
+--------------
+;;WORD nsbp
+;;LENGTH 4
+;;OFFSET 101
+;;SVM_PREDICTIONS: nsbp diac:nisobapa lex:nisobap asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.883957 diac:nisobapu lex:nisobap_1 bw:nisob/NOUN+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:ratio;rate sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:n enc0:0 rat:y source:lex stem:nisob stemcat:Nap
+--------------
+;;WORD AlmErfp
+;;LENGTH 7
+;;OFFSET 106
+;;SVM_PREDICTIONS: AlmErfp diac:AlmaEorifapi lex:maEorifap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895953 diac:AlmaEorifapi lex:maEorifap_1 bw:Al/DET+maEorif/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:knowledge;information;acquaintance pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:maEorif stemcat:Nap
+--------------
+;;WORD <lY
+;;LENGTH 3
+;;OFFSET 114
+;;SVM_PREDICTIONS: Aly diac:<ilaY lex:<ilaY asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:<ilaY lex:<ilaY_1 bw:<ilaY/PREP gloss:to;towards pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:<ilaY stemcat:FW-Wa
+--------------
+;;WORD >ql
+;;LENGTH 3
+;;OFFSET 118
+;;SVM_PREDICTIONS: Aql diac:>aqal~a lex:>aqal~ asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:adj_comp prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.817978 diac:>aqal~i lex:>aqal~_2 bw:>aqal~/NOUN+i/CASE_DEF_GEN gloss:less;least;smaller;smallest;minimum sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:>aqal~ stemcat:Nel
+--------------
+;;WORD mn
+;;LENGTH 2
+;;OFFSET 122
+;;SVM_PREDICTIONS: mn diac:min lex:min asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:min lex:min_1 bw:min/PREP gloss:from pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:min stemcat:FW-Wa
+--------------
+;;WORD 10
+;;LENGTH 2
+;;OFFSET 125
+;;SVM_PREDICTIONS: 88 diac:88 lex:88 asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:digit prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:10 lex:10_0 bw:10/NOUN_NUM gloss:10 pos:digit prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:digit
+--------------
+;;WORD %
+;;LENGTH 1
+;;OFFSET 125
+;;SVM_PREDICTIONS: % diac:% lex:% asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:% lex:%_0 bw:%/PUNC gloss:% pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD ,
+;;LENGTH 1
+;;OFFSET 129
+;;SVM_PREDICTIONS: , diac:, lex:, asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:, lex:,_0 bw:,/PUNC gloss:, pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD h*h
+;;LENGTH 3
+;;OFFSET 129
+;;SVM_PREDICTIONS: h*h diac:h`*ihi lex:h`*A asp:na cas:u enc0:0 gen:f mod:na num:s per:na pos:pron_dem prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:h`*ihi lex:h`*A_1 bw:h`*ihi/DEM_PRON_F gloss:this;these pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y source:lex stem:h`*ihi stemcat:FW-WaBi
+--------------
+;;WORD AlmAdp
+;;LENGTH 6
+;;OFFSET 134
+;;SVM_PREDICTIONS: AlmAdp diac:AlmAd~api lex:mAd~ap asp:na cas:a enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884012 diac:AlmAd~apa lex:mAd~ap_1 bw:Al/DET+mAd~/NOUN+ap/NSUFF_FEM_SG+a/CASE_DEF_ACC gloss:substance;material pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:a enc0:0 rat:y source:lex stem:mAd~ stemcat:Napdu
+--------------
+;;WORD AlxAm
+;;LENGTH 5
+;;OFFSET 141
+;;SVM_PREDICTIONS: AlxAm diac:AlxAmi lex:xAm asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895776 diac:AlxAmi lex:xAm_1 bw:Al/DET+xAm/ADJ+i/CASE_DEF_GEN gloss:raw;unprocessed pregloss:the sufgloss:[def.gen.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:xAm stemcat:N
+--------------
+;;WORD Alty
+;;LENGTH 4
+;;OFFSET 147
+;;SVM_PREDICTIONS: Alty diac:Al~atiy lex:Al~a*iy asp:na cas:u enc0:0 gen:f mod:na num:s per:na pos:pron_rel prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894508 diac:Al~atiy lex:Al~a*iy_1 bw:Al~atiy/REL_PRON gloss:which;who;whom_[fem.sg.] pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y source:lex stem:Al~atiy stemcat:FW-Wa
+--------------
+;;WORD mA
+;;LENGTH 2
+;;OFFSET 152
+;;SVM_PREDICTIONS: mA diac:mA lex:mA asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:part_neg prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894437 diac:mA lex:mA_2 bw:mA/NEG_PART gloss:not pos:part_neg prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:mA stemcat:FW-Wa
+--------------
+;;WORD zAlt
+;;LENGTH 4
+;;OFFSET 155
+;;SVM_PREDICTIONS: zAlt diac:zAlat lex:zAl asp:p cas:na enc0:0 gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.894850 diac:zAlat lex:zAl-u_1 bw:zAl/PV+at/PVSUFF_SUBJ:3FS gloss:disappear sufgloss:it;they;she_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:zAl stemcat:PV_V
+--------------
+;;WORD mtwfrp
+;;LENGTH 6
+;;OFFSET 160
+;;SVM_PREDICTIONS: mtwfrp diac:mutawaf~irh lex:mutawaf~ir asp:na cas:a enc0:0 gen:f mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.883969 diac:mutawaf~irapF lex:mutawaf~ir_1 bw:mutawaf~ir/ADJ+ap/NSUFF_FEM_SG+F/CASE_INDEF_ACC gloss:available;abundant sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:a enc0:0 rat:y source:lex stem:mutawaf~ir stemcat:Nall
+--------------
+;;WORD bgzArp
+;;LENGTH 6
+;;OFFSET 167
+;;SVM_PREDICTIONS: bgzArp diac:bigazArapK lex:gaziyr asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:bi_prep prc2:0 prc3:0 stt:i vox:na
+*0.877880 diac:bigazArapK lex:gazArap_1 bw:bi/PREP+gazAr/NOUN+ap/NSUFF_FEM_SG+K/CASE_INDEF_GEN gloss:abundance;lavish_amount pregloss:by;with sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:g enc0:0 rat:y source:lex stem:gazAr stemcat:Nap
+--------------
+;;WORD fy
+;;LENGTH 2
+;;OFFSET 174
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:fiy stemcat:FW-Wa
+--------------
+;;WORD Alkvyr
+;;LENGTH 6
+;;OFFSET 177
+;;SVM_PREDICTIONS: Alkvyr diac:Alkaviyri lex:kaviyr asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.829798 diac:Alkaviyri lex:kaviyr_1 bw:Al/DET+kaviyr/NOUN+i/CASE_DEF_GEN gloss:many;much;numerous pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:kaviyr stemcat:Nall
+--------------
+;;WORD mn
+;;LENGTH 2
+;;OFFSET 184
+;;SVM_PREDICTIONS: mn diac:min lex:min asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:min lex:min_1 bw:min/PREP gloss:from pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:min stemcat:FW-Wa
+--------------
+;;WORD mnAjm
+;;LENGTH 5
+;;OFFSET 187
+;;SVM_PREDICTIONS: mnAjm diac:manAjima lex:manojam asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.896974 diac:manAjima lex:manojam_1 bw:manAjim/NOUN+a/CASE_DEF_ACC gloss:mines;pits;sources sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y source:lex stem:manAjim stemcat:Ndip
+--------------
+;;WORD AlEqwl
+;;LENGTH 6
+;;OFFSET 193
+;;SVM_PREDICTIONS: AlEqwl diac:AlEuquwli lex:Eaqol asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:AlEuquwli lex:Eaqol_1 bw:Al/DET+Euquwl/NOUN+i/CASE_DEF_GEN gloss:senses;intellects;brains pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:Euquwl stemcat:N
+--------------
+;;WORD AlErbyp
+;;LENGTH 7
+;;OFFSET 200
+;;SVM_PREDICTIONS: AlErbyp diac:AlEarabiy~api lex:Earabiy~ asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.896520 diac:AlEarabiy~api lex:Earabiy~_1 bw:Al/DET+Earabiy~/ADJ+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:Arabic;Arab pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:Earabiy~ stemcat:N-ap
+--------------
+;;WORD Albkr
+;;LENGTH 5
+;;OFFSET 208
+;;SVM_PREDICTIONS: Albkr diac:Albikoru lex:bikor asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.885477 diac:Albikori lex:bikor_1 bw:Al/DET+bikor/ADJ+i/CASE_DEF_GEN gloss:eldest;first-born pregloss:the sufgloss:[def.gen.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:bikor stemcat:N
+--------------
+;;WORD Alty
+;;LENGTH 4
+;;OFFSET 214
+;;SVM_PREDICTIONS: Alty diac:Al~atiy lex:Al~a*iy asp:na cas:u enc0:0 gen:f mod:na num:s per:na pos:pron_rel prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894508 diac:Al~atiy lex:Al~a*iy_1 bw:Al~atiy/REL_PRON gloss:which;who;whom_[fem.sg.] pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y source:lex stem:Al~atiy stemcat:FW-Wa
+--------------
+;;WORD lm
+;;LENGTH 2
+;;OFFSET 219
+;;SVM_PREDICTIONS: lm diac:lam lex:lam~ asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:part_neg prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.878299 diac:lam lex:lam_1 bw:lam/NEG_PART gloss:not pos:part_neg prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:lam stemcat:FW-Wa
+--------------
+;;WORD tstxdm
+;;LENGTH 6
+;;OFFSET 222
+;;SVM_PREDICTIONS: tstxdm diac:tasotaxodim lex:{isotaxodam asp:i cas:na enc0:0 gen:f mod:j num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:p
+*0.845327 diac:tusotaxodam lex:{isotaxodam_1 bw:tu/IV3FS+sotaxodam/IV_PASS gloss:be_used;be_utilized;be_employed pregloss:it;they;she pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:p mod:u gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:sotaxodam stemcat:IV_Pass_yu
+--------------
+;;WORD HtY
+;;LENGTH 3
+;;OFFSET 230
+;;SVM_PREDICTIONS: Hty diac:Hat~aY lex:Hat~aY asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:Hat~aY lex:Hat~aY_1 bw:Hat~aY/PREP gloss:until;up_to pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:Hat~aY stemcat:FW-Wa
+--------------
+;;WORD Al|n
+;;LENGTH 4
+;;OFFSET 234
+;;SVM_PREDICTIONS: AlAn diac:Al|na lex:|n asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895212 diac:Al|na lex:|n_1 bw:Al/DET+|n/NOUN+a/CASE_DEF_ACC gloss:time;moment pregloss:the sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y source:lex stem:|n stemcat:N
+--------------
+;;WORD ltHAfZ
+;;LENGTH 6
+;;OFFSET 239
+;;SVM_PREDICTIONS: ltHAfZ diac:lituHAfiZ lex:HAfaZ asp:i cas:na enc0:0 gen:m mod:u num:s per:na pos:verb prc0:0 prc1:li_prep prc2:0 prc3:0 stt:na vox:a
+*0.867736 diac:lituHAfiZ lex:HAfaZ_1 bw:li/PREP+tu/IV2MS+HAfiZ/IV gloss:preserve;protect pregloss:for_+_you_[masc.sg.]_(to) pos:verb prc3:0 prc2:0 prc1:li_prep prc0:0 per:2 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:HAfiZ stemcat:IV_yu
+--------------
+;;WORD h*h
+;;LENGTH 3
+;;OFFSET 246
+;;SVM_PREDICTIONS: h*h diac:h`*ihi lex:h`*A asp:na cas:u enc0:0 gen:f mod:na num:s per:na pos:pron_dem prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:h`*ihi lex:h`*A_1 bw:h`*ihi/DEM_PRON_F gloss:this;these pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y source:lex stem:h`*ihi stemcat:FW-WaBi
+--------------
+;;WORD AlEqwl
+;;LENGTH 6
+;;OFFSET 250
+;;SVM_PREDICTIONS: AlEqwl diac:AlEuquwli lex:Eaqol asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:AlEuquwli lex:Eaqol_1 bw:Al/DET+Euquwl/NOUN+i/CASE_DEF_GEN gloss:senses;intellects;brains pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:Euquwl stemcat:N
+--------------
+;;WORD ElY
+;;LENGTH 3
+;;OFFSET 257
+;;SVM_PREDICTIONS: Ely diac:EalaY lex:EalaY asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:EalaY lex:EalaY_1 bw:EalaY/PREP gloss:on;above pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:EalaY stemcat:FW-Wa
+--------------
+;;WORD E*rythA
+;;LENGTH 7
+;;OFFSET 261
+;;SVM_PREDICTIONS: E*rythA diac:Eu*oriy~athA lex:Eu*oriy~ asp:na cas:g enc0:3fs_poss gen:f mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.883603 diac:Eu*oriy~atihA lex:Eu*oriy~_1 bw:Eu*oriy~/ADJ+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN+hA/POSS_PRON_3FS gloss:platonic;chaste sufgloss:its;their;her pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:3fs_poss rat:y source:lex stem:Eu*oriy~ stemcat:N-ap
+--------------
+;;WORD ,
+;;LENGTH 1
+;;OFFSET 269
+;;SVM_PREDICTIONS: , diac:, lex:, asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:, lex:,_0 bw:,/PUNC gloss:, pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD bAlrgm
+;;LENGTH 6
+;;OFFSET 269
+;;SVM_PREDICTIONS: bAlrgm diac:biAlr~agomi lex:ragom asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:bi_prep prc2:0 prc3:0 stt:d vox:na
+*0.894170 diac:biAlr~agomi lex:ragom_1 bw:bi/PREP+Al/DET+ragom/NOUN+i/CASE_DEF_GEN gloss:in_spite_of;despite pregloss:with;by_+_the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:ragom stemcat:N
+--------------
+;;WORD mn
+;;LENGTH 2
+;;OFFSET 277
+;;SVM_PREDICTIONS: mn diac:min lex:min asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:min lex:min_1 bw:min/PREP gloss:from pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:min stemcat:FW-Wa
+--------------
+;;WORD tqdm
+;;LENGTH 4
+;;OFFSET 280
+;;SVM_PREDICTIONS: tqdm diac:taqad~umi lex:taqad~um asp:na cas:g enc0:0 gen:m mod:i num:s per:3 pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.770223 diac:taqad~umi lex:taqad~um_1 bw:taqad~um/NOUN+i/CASE_DEF_GEN gloss:progress;coming_forward sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:taqad~um stemcat:N/At
+--------------
+;;WORD AlHDArp
+;;LENGTH 7
+;;OFFSET 285
+;;SVM_PREDICTIONS: AlHDArp diac:AlHaDArapi lex:HaDArap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895953 diac:AlHaDArapi lex:HaDArap_1 bw:Al/DET+HaDAr/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:civilization;culture pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:HaDAr stemcat:Napdu
+--------------
+;;WORD bTlbAt
+;;LENGTH 6
+;;OFFSET 293
+;;SVM_PREDICTIONS: bTlbAt diac:biTalabAti lex:Talab asp:na cas:g enc0:0 gen:f mod:na num:p per:na pos:noun prc0:0 prc1:bi_prep prc2:0 prc3:0 stt:i vox:na
+*0.883625 diac:biTalabAtK lex:Talab_2 bw:bi/PREP+Talab/NOUN+At/NSUFF_FEM_PL+K/CASE_INDEF_GEN gloss:requests;demands pregloss:by;with sufgloss:[fem.pl.] pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:0 per:na asp:na vox:na mod:na gen:f num:p stt:i cas:g enc0:0 rat:y source:lex stem:Talab stemcat:NAt
+--------------
+;;WORD kvyrp
+;;LENGTH 5
+;;OFFSET 300
+;;SVM_PREDICTIONS: kvyrp diac:kaviyrapK lex:kaviyr asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.825077 diac:kaviyrapK lex:kaviyr_1 bw:kaviyr/NOUN+ap/NSUFF_FEM_SG+K/CASE_INDEF_GEN gloss:many;much;numerous sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:g enc0:0 rat:y source:lex stem:kaviyr stemcat:Nall
+--------------
+;;WORD llzwAj
+;;LENGTH 6
+;;OFFSET 306
+;;SVM_PREDICTIONS: llzwAj diac:lilz~iwAj lex:zawAj asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:li_prep prc2:0 prc3:0 stt:d vox:na
+*0.884139 diac:lilz~awAji lex:zawAj_1 bw:li/PREP+Al/DET+zawAj/NOUN+i/CASE_DEF_GEN gloss:marriage;wedding pregloss:to;for_+_the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:zawAj stemcat:N
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 313
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 313
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 313
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 313
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 313
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 313
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD wlkn
+;;LENGTH 4
+;;OFFSET 320
+;;SVM_PREDICTIONS: wlkn diac:wal`kin~a lex:l`kin~a asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:verb_pseudo prc0:na prc1:0 prc2:wa_conj prc3:0 stt:na vox:na
+*0.824515 diac:wal`kin~a lex:l`kin~a_1 bw:wa/CONJ+l`kin~a/CONJ gloss:however pregloss:and pos:conj prc3:0 prc2:wa_conj prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:l`kin~a stemcat:FW-Wa
+--------------
+;;WORD EbvA
+;;LENGTH 4
+;;OFFSET 325
+;;SVM_PREDICTIONS: EbvA diac:EabavAF lex:Eabav asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.895107 diac:EabavAF lex:Eabav_1 bw:Eabav/NOUN+AF/CASE_INDEF_ACC gloss:play;jest;frivolity sufgloss:[acc.indef.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:a enc0:0 rat:y source:lex stem:Eabav stemcat:N
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 331
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+SENTENCE BREAK
+--------------
+;;; SENTENCE_ID (batch_5_137)
+;;; SENTENCE AEtqd An hnAk |rA' w tHlylAt AElAmyp bHtp hy Alty tETy tfsyr gyr nADj lwqA}E rwtynyp . A*A kAn AlkAtb yqwl Anh lA yHq llsEwdyp Aw AlAmArAt ( lAnh $>n mSry bHt ) Tlb Edm mHAkmp mbArk ( whw AlAmr Al*y nfth AldwltAn ) fy nfs Alwqt y>ty w ystgrb mn tAjyl zyArp $rf llAmArAt w thkm ElY ( An$gAlAthm ) Aw lys h*A $>n AmArAty bHt !
+;;WORD AEtqd
+;;LENGTH 5
+;;OFFSET 0
+;;SVM_PREDICTIONS: AEtqd diac:AiEotaqada lex:{iEotaqad asp:i cas:na enc0:0 gen:m mod:i num:s per:1 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.825420 diac:AiEotaqada lex:{iEotaqad_1 bw:{iEotaqad/PV+a/PVSUFF_SUBJ:3MS gloss:believe sufgloss:he;it_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:{iEotaqad stemcat:PV
+--------------
+;;WORD An
+;;LENGTH 2
+;;OFFSET 6
+;;SVM_PREDICTIONS: An diac:>an~a lex:>an~a asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj_sub prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.825863 diac:>an~a lex:>an~a_1 bw:>an~a/SUB_CONJ gloss:that pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:spvar stem:>an~a stemcat:FW-Wa
+--------------
+;;WORD hnAk
+;;LENGTH 4
+;;OFFSET 9
+;;SVM_PREDICTIONS: hnAk diac:hunAka lex:hunAka asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:adv prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894160 diac:hunAka lex:hunAka_1 bw:hunAka/ADV gloss:there;there_(is;are) pos:adv prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:hunAka stemcat:FW-Wa
+--------------
+;;WORD |rA'
+;;LENGTH 4
+;;OFFSET 14
+;;SVM_PREDICTIONS: ArA' diac:|rA'i lex:ra>oy asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.835635 diac:|rA' lex:ra>oy_1 bw:|rA'/NOUN gloss:opinions;views;ideas pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:|rA' stemcat:N0_Nh
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 19
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD tHlylAt
+;;LENGTH 7
+;;OFFSET 21
+;;SVM_PREDICTIONS: tHlylAt diac:taHoliylAtK lex:taHoliyl asp:na cas:g enc0:0 gen:f mod:na num:p per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894215 diac:taHoliylAtK lex:taHoliyl_1 bw:taHoliyl/NOUN+At/NSUFF_FEM_PL+K/CASE_INDEF_GEN gloss:analysis;dissolution sufgloss:[fem.pl.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:p stt:i cas:g enc0:0 rat:y source:lex stem:taHoliyl stemcat:NduAt
+--------------
+;;WORD AElAmyp
+;;LENGTH 7
+;;OFFSET 29
+;;SVM_PREDICTIONS: AElAmyp diac:<iEolAmiy~apK lex:<iEolAmiy~ asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.824870 diac:<iEolAmiy~apK lex:<iEolAmiy~_1 bw:<iEolAmiy~/ADJ+ap/NSUFF_FEM_SG+K/CASE_INDEF_GEN gloss:information;media sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:g enc0:0 rat:y source:spvar stem:<iEolAmiy~ stemcat:N-ap
+--------------
+;;WORD bHtp
+;;LENGTH 4
+;;OFFSET 37
+;;SVM_PREDICTIONS: bHtp diac:buH~atihi lex:bAH asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:bi_prep prc2:0 prc3:0 stt:i vox:na
+*0.867581 diac:biHit~apK lex:Hit~ap_1 bw:bi/PREP+Hit~/NOUN+ap/NSUFF_FEM_SG+K/CASE_INDEF_GEN gloss:morsel;piece pregloss:by;with sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:g enc0:0 rat:y source:lex stem:Hit~ stemcat:Napdu
+--------------
+;;WORD hy
+;;LENGTH 2
+;;OFFSET 42
+;;SVM_PREDICTIONS: hy diac:hiya lex:hiya asp:na cas:n enc0:0 gen:f mod:na num:s per:3 pos:pron prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:hiya lex:hiya_1 bw:hiya/PRON_3FS gloss:it;they;she pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:f num:s stt:i cas:n enc0:0 rat:y source:lex stem:hiya stemcat:FW-Wa
+--------------
+;;WORD Alty
+;;LENGTH 4
+;;OFFSET 45
+;;SVM_PREDICTIONS: Alty diac:Al~atiy lex:Al~a*iy asp:na cas:u enc0:0 gen:f mod:na num:s per:na pos:pron_rel prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894508 diac:Al~atiy lex:Al~a*iy_1 bw:Al~atiy/REL_PRON gloss:which;who;whom_[fem.sg.] pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y source:lex stem:Al~atiy stemcat:FW-Wa
+--------------
+;;WORD tETy
+;;LENGTH 4
+;;OFFSET 50
+;;SVM_PREDICTIONS: tETy diac:tuEoTiy lex:>aEoTaY asp:i cas:na enc0:0 gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.855626 diac:tuEoTiy lex:>aEoTaY_1 bw:tu/IV3FS+EoTiy/IV gloss:give;provide pregloss:it;they;she pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:EoTiy stemcat:IV_0hAnn_yu
+--------------
+;;WORD tfsyr
+;;LENGTH 5
+;;OFFSET 55
+;;SVM_PREDICTIONS: tfsyr diac:tafosiyrK lex:tafosiyr asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.847078 diac:tafosiyrK lex:tafosiyr_1 bw:tafosiyr/NOUN+K/CASE_INDEF_GEN gloss:explanation;commentary sufgloss:[indef.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y source:lex stem:tafosiyr stemcat:NduAt
+--------------
+;;WORD gyr
+;;LENGTH 3
+;;OFFSET 61
+;;SVM_PREDICTIONS: gyr diac:gayori lex:gayor asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.897695 diac:gayori lex:gayor_1 bw:gayor/NOUN+i/CASE_DEF_GEN gloss:not;other sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:gayor stemcat:N
+--------------
+;;WORD nADj
+;;LENGTH 4
+;;OFFSET 65
+;;SVM_PREDICTIONS: nADj diac:nADijK lex:nADij asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894442 diac:nADijK lex:nADij_1 bw:nADij/ADJ+K/CASE_INDEF_GEN gloss:ripe;mature;well-cooked sufgloss:[indef.gen.] pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y source:lex stem:nADij stemcat:N-ap
+--------------
+;;WORD lwqA}E
+;;LENGTH 6
+;;OFFSET 70
+;;SVM_PREDICTIONS: lwqA}E diac:liwaqA}iEi lex:waqiyEap asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:li_prep prc2:0 prc3:0 stt:c vox:na
+*0.894418 diac:liwaqA}iEi lex:waqiyEap_1 bw:li/PREP+waqA}iE/NOUN+i/CASE_DEF_GEN gloss:events;incidents pregloss:for;to sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:waqA}iE stemcat:Ndip
+--------------
+;;WORD rwtynyp
+;;LENGTH 7
+;;OFFSET 77
+;;SVM_PREDICTIONS: rwtynyp diac:ruwtiyniy~apK lex:ruwtiyniy~ asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894650 diac:ruwtiyniy~apK lex:ruwtiyniy~_1 bw:ruwtiyniy~/ADJ+ap/NSUFF_FEM_SG+K/CASE_INDEF_GEN gloss:routine;bureaucratic sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:g enc0:0 rat:y source:lex stem:ruwtiyniy~ stemcat:Nall
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 77
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD A*A
+;;LENGTH 3
+;;OFFSET 86
+;;SVM_PREDICTIONS: A*A diac:<i*A lex:<i*A asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj_sub prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.755288 diac:<i*A lex:<i*A_1 bw:<i*A/CONJ gloss:if;whether pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:spvar stem:<i*A stemcat:FW-Wa
+--------------
+;;WORD kAn
+;;LENGTH 3
+;;OFFSET 90
+;;SVM_PREDICTIONS: kAn diac:kAna lex:kAn asp:p cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.895518 diac:kAna lex:kAn_1 bw:kAn/PV+a/PVSUFF_SUBJ:3MS gloss:was;were sufgloss:he;it_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:kAn stemcat:PV_V
+--------------
+;;WORD AlkAtb
+;;LENGTH 6
+;;OFFSET 94
+;;SVM_PREDICTIONS: AlkAtb diac:AlkAtibu lex:kAtib asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895063 diac:AlkAtibu lex:kAtib_1 bw:Al/DET+kAtib/NOUN+u/CASE_DEF_NOM gloss:writer;author pregloss:the sufgloss:[def.nom.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y source:lex stem:kAtib stemcat:N/ap
+--------------
+;;WORD yqwl
+;;LENGTH 4
+;;OFFSET 101
+;;SVM_PREDICTIONS: yqwl diac:yaquwl lex:qAl asp:i cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*1.000000 diac:yaquwl lex:qAl-u_1 bw:ya/IV3MS+quwl/IV gloss:say pregloss:he;it pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:quwl stemcat:IV_V
+--------------
+;;WORD Anh
+;;LENGTH 3
+;;OFFSET 106
+;;SVM_PREDICTIONS: Anh diac:>an~ahu lex:>an~a asp:na cas:na enc0:3ms_pron gen:na mod:na num:na per:na pos:conj_sub prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.824283 diac:>an~ahu lex:>an~a_1 bw:>an~a/SUB_CONJ+hu/PRON_3MS gloss:that sufgloss:it;he pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:3ms_pron rat:na source:spvar stem:>an~a stemcat:FW-Wa-n~a
+--------------
+;;WORD lA
+;;LENGTH 2
+;;OFFSET 110
+;;SVM_PREDICTIONS: lA diac:lA lex:lA asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:part_neg prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*1.000000 diac:lA lex:lA_1 bw:lA/NEG_PART gloss:no;not pos:part_neg prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:lA stemcat:FW-Wa
+--------------
+;;WORD yHq
+;;LENGTH 3
+;;OFFSET 113
+;;SVM_PREDICTIONS: yHq diac:yaHuq~ lex:Haq~ asp:i cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.855626 diac:yaHuq~ lex:Haq~-iu_1 bw:ya/IV3MS+Huq~/IV gloss:be_correct;be_right pregloss:he;it pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:Huq~ stemcat:IV_V_intr
+--------------
+;;WORD llsEwdyp
+;;LENGTH 8
+;;OFFSET 117
+;;SVM_PREDICTIONS: llsEwdyp diac:lils~aEuwdiy~api lex:saEuwdiy~ asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun_prop prc0:Al_det prc1:li_prep prc2:0 prc3:0 stt:d vox:na
+*0.824721 diac:lils~aEuwdiy~api lex:saEuwdiy~_1 bw:li/PREP+Al/DET+saEuwdiy~/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:Saudi pregloss:to;for_+_the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:saEuwdiy~ stemcat:Nall
+--------------
+;;WORD Aw
+;;LENGTH 2
+;;OFFSET 126
+;;SVM_PREDICTIONS: Aw diac:>uw lex:>uw asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.798269 diac:>aw lex:>aw_1 bw:>aw/CONJ gloss:or pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:spvar stem:>aw stemcat:FW-Wa
+--------------
+;;WORD AlAmArAt
+;;LENGTH 8
+;;OFFSET 129
+;;SVM_PREDICTIONS: AlAmArAt diac:Al<imArAti lex:<imArap asp:na cas:g enc0:0 gen:f mod:na num:p per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.798548 diac:Al>amArAti lex:>amArap_1 bw:Al/DET+>amAr/NOUN+At/NSUFF_FEM_PL+i/CASE_DEF_GEN gloss:sign;indication pregloss:the sufgloss:[fem.pl.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:p stt:d cas:g enc0:0 rat:y source:spvar stem:>amAr stemcat:NapAt
+--------------
+;;WORD (
+;;LENGTH 1
+;;OFFSET 138
+;;SVM_PREDICTIONS: ( diac:( lex:( asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:( lex:(_0 bw:(/PUNC gloss:( pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD lAnh
+;;LENGTH 4
+;;OFFSET 138
+;;SVM_PREDICTIONS: lAnh diac:li>an~ahu lex:|n asp:na cas:na enc0:3ms_pron gen:na mod:na num:na per:na pos:conj_sub prc0:na prc1:li_prep prc2:0 prc3:0 stt:na vox:na
+*0.702403 diac:li>an~ahu lex:>an~a_1 bw:li>an~a/SUB_CONJ+hu/PRON_3MS gloss:because sufgloss:it;he pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:3ms_pron rat:na source:spvar stem:li>an~a stemcat:FW-Wa-n~a
+--------------
+;;WORD $>n
+;;LENGTH 3
+;;OFFSET 144
+;;SVM_PREDICTIONS: $An diac:$a>onN lex:$a>on asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894306 diac:$a>onN lex:$a>on_1 bw:$a>on/NOUN+N/CASE_INDEF_NOM gloss:matter;affair sufgloss:[indef.nom.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:n enc0:0 rat:y source:lex stem:$a>on stemcat:N
+--------------
+;;WORD mSry
+;;LENGTH 4
+;;OFFSET 148
+;;SVM_PREDICTIONS: mSry diac:miSoriy~N lex:miSoriy~ asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894161 diac:miSoriy~N lex:miSoriy~_1 bw:miSoriy~/ADJ+N/CASE_INDEF_NOM gloss:Egyptian sufgloss:[indef.nom.] pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:n enc0:0 rat:y source:lex stem:miSoriy~ stemcat:Nall
+--------------
+;;WORD bHt
+;;LENGTH 3
+;;OFFSET 153
+;;SVM_PREDICTIONS: bHt diac:baHotN lex:bAH asp:na cas:na enc0:0 gen:m mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.760249 diac:baHotN lex:baHot_1 bw:baHot/NOUN+N/CASE_INDEF_NOM gloss:pure;exclusive sufgloss:[indef.nom.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:n enc0:0 rat:y source:lex stem:baHot stemcat:N
+--------------
+;;WORD )
+;;LENGTH 1
+;;OFFSET 153
+;;SVM_PREDICTIONS: ) diac:) lex:) asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:) lex:)_0 bw:)/PUNC gloss:) pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD Tlb
+;;LENGTH 3
+;;OFFSET 158
+;;SVM_PREDICTIONS: Tlb diac:Talaba lex:Talab asp:na cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:a
+*0.801013 diac:Talaba lex:Talab-u_1 bw:Talab/PV+a/PVSUFF_SUBJ:3MS gloss:request sufgloss:he;it_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:Talab stemcat:PV
+--------------
+;;WORD Edm
+;;LENGTH 3
+;;OFFSET 162
+;;SVM_PREDICTIONS: Edm diac:Eadama lex:Eadam asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.896974 diac:Eadama lex:Eadam_1 bw:Eadam/NOUN+a/CASE_DEF_ACC gloss:absence_of;lack_of;non- sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y source:lex stem:Eadam stemcat:N
+--------------
+;;WORD mHAkmp
+;;LENGTH 6
+;;OFFSET 166
+;;SVM_PREDICTIONS: mHAkmp diac:muHAkamapi lex:maHokamap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.879114 diac:muHAkamapi lex:muHAkamap_1 bw:muHAkam/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:judicial_proceeding;legal_prosecution sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y source:lex stem:muHAkam stemcat:NapAt
+--------------
+;;WORD mbArk
+;;LENGTH 5
+;;OFFSET 173
+;;SVM_PREDICTIONS: mbArk diac:mubArak lex:mubArak asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.899822 diac:mubArak lex:mubArak_1 bw:mubArak/NOUN_PROP gloss:Mubarak pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:mubArak stemcat:N0
+--------------
+;;WORD (
+;;LENGTH 1
+;;OFFSET 179
+;;SVM_PREDICTIONS: ( diac:( lex:( asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:( lex:(_0 bw:(/PUNC gloss:( pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD whw
+;;LENGTH 3
+;;OFFSET 179
+;;SVM_PREDICTIONS: whw diac:wahuwa lex:huwa asp:na cas:n enc0:0 gen:m mod:na num:s per:3 pos:pron prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:i vox:na
+*0.893970 diac:wahuwa lex:huwa_1 bw:wa/CONJ+huwa/PRON_3MS gloss:it;he pregloss:and pos:pron prc3:0 prc2:wa_conj prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:s stt:i cas:n enc0:0 rat:y source:lex stem:huwa stemcat:FW-Wa
+--------------
+;;WORD AlAmr
+;;LENGTH 5
+;;OFFSET 184
+;;SVM_PREDICTIONS: AlAmr diac:Al>amoru lex:>amor asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.825283 diac:Al>amoru lex:>amor_1 bw:Al/DET+>amor/NOUN+u/CASE_DEF_NOM gloss:matter;issue pregloss:the sufgloss:[def.nom.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y source:spvar stem:>amor stemcat:Ndu
+--------------
+;;WORD Al*y
+;;LENGTH 4
+;;OFFSET 190
+;;SVM_PREDICTIONS: Al*y diac:Al~a*iy lex:Al~a*iy asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:pron_rel prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894608 diac:Al~a*iy lex:Al~a*iy_1 bw:Al~a*iy/REL_PRON gloss:which;who;whom pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:Al~a*iy stemcat:FW-Wa
+--------------
+;;WORD nfth
+;;LENGTH 4
+;;OFFSET 195
+;;SVM_PREDICTIONS: nfth diac:nafatohu lex:nafA asp:p cas:na enc0:3ms_dobj gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.893957 diac:nafatohu lex:nafA-u_1 bw:naf/PV+at/PVSUFF_SUBJ:3FS+hu/PVSUFF_DO:3MS gloss:deny;refute;reject sufgloss:it;they;she_<verb>_it;him pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:3ms_dobj rat:na source:lex stem:naf stemcat:PV_ttAw
+--------------
+;;WORD AldwltAn
+;;LENGTH 8
+;;OFFSET 200
+;;SVM_PREDICTIONS: AldwltAn diac:Ald~awolatAni lex:dawolap asp:na cas:n enc0:0 gen:f mod:na num:d per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*1.000000 diac:Ald~awolatAni lex:dawolap_1 bw:Al/DET+dawol/NOUN+atAni/NSUFF_FEM_DU_NOM gloss:state;country pregloss:the sufgloss:two pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:d stt:d cas:n enc0:0 rat:y source:lex stem:dawol stemcat:Napdu
+--------------
+;;WORD )
+;;LENGTH 1
+;;OFFSET 200
+;;SVM_PREDICTIONS: ) diac:) lex:) asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:) lex:)_0 bw:)/PUNC gloss:) pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD fy
+;;LENGTH 2
+;;OFFSET 210
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:fiy stemcat:FW-Wa
+--------------
+;;WORD nfs
+;;LENGTH 3
+;;OFFSET 213
+;;SVM_PREDICTIONS: nfs diac:nafosi lex:nafos asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.897695 diac:nafosi lex:nafos_1 bw:nafos/NOUN+i/CASE_DEF_GEN gloss:same;self sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:nafos stemcat:N
+--------------
+;;WORD Alwqt
+;;LENGTH 5
+;;OFFSET 217
+;;SVM_PREDICTIONS: Alwqt diac:Alwaqoti lex:waqot asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:Alwaqoti lex:waqot_1 bw:Al/DET+waqot/NOUN+i/CASE_DEF_GEN gloss:time;moment;period_of_time pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:waqot stemcat:N
+--------------
+;;WORD y>ty
+;;LENGTH 4
+;;OFFSET 223
+;;SVM_PREDICTIONS: yAty diac:ya>otiy lex:>ataY asp:i cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*1.000000 diac:ya>otiy lex:>ataY-i_1 bw:ya/IV3MS+>otiy/IV gloss:arrive;come;reach pregloss:he;it pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:>otiy stemcat:IV_0hAnn_no-Pref-A
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 228
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD ystgrb
+;;LENGTH 6
+;;OFFSET 230
+;;SVM_PREDICTIONS: ystgrb diac:yasotagorib lex:{isotagorab asp:i cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*1.000000 diac:yasotagorib lex:{isotagorab_1 bw:ya/IV3MS+sotagorib/IV gloss:wonder_at;find_strange pregloss:he;it pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:sotagorib stemcat:IV
+--------------
+;;WORD mn
+;;LENGTH 2
+;;OFFSET 237
+;;SVM_PREDICTIONS: mn diac:min lex:min asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:min lex:min_1 bw:min/PREP gloss:from pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:min stemcat:FW-Wa
+--------------
+;;WORD tAjyl
+;;LENGTH 5
+;;OFFSET 240
+;;SVM_PREDICTIONS: tAjyl diac:ta>ojiyli lex:ta>ojiyl asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.827915 diac:ta>ojiyli lex:ta>ojiyl_1 bw:ta>ojiyl/NOUN+i/CASE_DEF_GEN gloss:postponement;delay sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:spvar stem:ta>ojiyl stemcat:NduAt
+--------------
+;;WORD zyArp
+;;LENGTH 5
+;;OFFSET 246
+;;SVM_PREDICTIONS: zyArp diac:ziyArapi lex:ziyArap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.895252 diac:ziyArapi lex:ziyArap_1 bw:ziyAr/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:visit sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y source:lex stem:ziyAr stemcat:NapAt
+--------------
+;;WORD $rf
+;;LENGTH 3
+;;OFFSET 252
+;;SVM_PREDICTIONS: $rf diac:$araf lex:$araf asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.887397 diac:$arafi lex:$araf_1 bw:$araf/NOUN+i/CASE_DEF_GEN gloss:honor;distinction sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:$araf stemcat:N
+--------------
+;;WORD llAmArAt
+;;LENGTH 8
+;;OFFSET 256
+;;SVM_PREDICTIONS: llAmArAt diac:lil>am~ArAti lex:<imArap asp:na cas:g enc0:0 gen:f mod:na num:p per:na pos:noun prc0:Al_det prc1:li_prep prc2:0 prc3:0 stt:d vox:na
+*0.808051 diac:lil>am~ArAti lex:>am~Ar_1 bw:li/PREP+Al/DET+>am~Ar/NOUN+At/NSUFF_FEM_PL+i/CASE_DEF_GEN gloss:instigator;inciting pregloss:to;for_+_the sufgloss:[fem.pl.] pos:noun prc3:0 prc2:0 prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:f num:p stt:d cas:g enc0:0 rat:y source:spvar stem:>am~Ar stemcat:Nall
+--------------
+;;WORD w
+;;LENGTH 1
+;;OFFSET 265
+;;SVM_PREDICTIONS: w diac:wa lex:wa asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.894486 diac:wa lex:wa_1 bw:wa/CONJ gloss:and pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:wa stemcat:FW
+--------------
+;;WORD thkm
+;;LENGTH 4
+;;OFFSET 267
+;;SVM_PREDICTIONS: thkm diac:tahak~uma lex:tahak~am asp:na cas:na enc0:0 gen:m mod:i num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.745702 diac:tahak~ama lex:tahak~am_1 bw:tahak~am/PV+a/PVSUFF_SUBJ:3MS gloss:mock;ridicule;be_dilapidated sufgloss:he;it_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:tahak~am stemcat:PV
+--------------
+;;WORD ElY
+;;LENGTH 3
+;;OFFSET 272
+;;SVM_PREDICTIONS: Ely diac:EalaY lex:EalaY asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:EalaY lex:EalaY_1 bw:EalaY/PREP gloss:on;above pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:EalaY stemcat:FW-Wa
+--------------
+;;WORD (
+;;LENGTH 1
+;;OFFSET 276
+;;SVM_PREDICTIONS: ( diac:( lex:( asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:( lex:(_0 bw:(/PUNC gloss:( pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD An$gAlAthm
+;;LENGTH 10
+;;OFFSET 276
+;;SVM_PREDICTIONS: An$gAlAthm diac:Aino$igAlAtihim lex:{ino$igAl asp:na cas:n enc0:3mp_poss gen:f mod:na num:p per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.883605 diac:Aino$igAlAtuhum lex:{ino$igAl_1 bw:{ino$igAl/NOUN+At/NSUFF_FEM_PL+u/CASE_DEF_NOM+hum/POSS_PRON_3MP gloss:preoccupied;busy;occupation sufgloss:[fem.pl.]_their pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:p stt:c cas:n enc0:3mp_poss rat:y source:lex stem:{ino$igAl stemcat:NduAt
+--------------
+;;WORD )
+;;LENGTH 1
+;;OFFSET 276
+;;SVM_PREDICTIONS: ) diac:) lex:) asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:) lex:)_0 bw:)/PUNC gloss:) pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD Aw
+;;LENGTH 2
+;;OFFSET 289
+;;SVM_PREDICTIONS: Aw diac:>uw lex:>uw asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.798269 diac:>aw lex:>aw_1 bw:>aw/CONJ gloss:or pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:spvar stem:>aw stemcat:FW-Wa
+--------------
+;;WORD lys
+;;LENGTH 3
+;;OFFSET 292
+;;SVM_PREDICTIONS: lys diac:layosa lex:layosa asp:p cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.895518 diac:layosa lex:layosa_1 bw:layos/PV+a/PVSUFF_SUBJ:3MS gloss:not_+_he;it_(he;it_is_not) pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:layosa stemcat:FW-Wa
+--------------
+;;WORD h*A
+;;LENGTH 3
+;;OFFSET 296
+;;SVM_PREDICTIONS: h*A diac:h`*A lex:h`*A asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:pron_dem prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:h`*A lex:h`*A_1 bw:h`*A/DEM_PRON_MS gloss:this pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:h`*A stemcat:FW-WaBi
+--------------
+;;WORD $>n
+;;LENGTH 3
+;;OFFSET 300
+;;SVM_PREDICTIONS: $An diac:$a>oni lex:$a>on asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.886676 diac:$a>ona lex:$a>on_1 bw:$a>on/NOUN+a/CASE_DEF_ACC gloss:matter;affair sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y source:lex stem:$a>on stemcat:N
+--------------
+;;WORD AmArAty
+;;LENGTH 7
+;;OFFSET 304
+;;SVM_PREDICTIONS: AmArAty diac:<imArAtiy~K lex:<imArap asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.808524 diac:<imArAtiy~K lex:<imArAtiy~_1 bw:<imArAtiy~/ADJ+K/CASE_INDEF_GEN gloss:Emirati_(of;from_the_UAE) sufgloss:[indef.gen.] pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y source:spvar stem:<imArAtiy~ stemcat:Nall
+--------------
+;;WORD bHt
+;;LENGTH 3
+;;OFFSET 312
+;;SVM_PREDICTIONS: bHt diac:baHotN lex:bAH asp:na cas:g enc0:0 gen:m mod:i num:s per:na pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:a
+*0.750039 diac:baHotK lex:baHot_1 bw:baHot/NOUN+K/CASE_INDEF_GEN gloss:pure;exclusive sufgloss:[indef.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y source:lex stem:baHot stemcat:N
+--------------
+;;WORD !
+;;LENGTH 1
+;;OFFSET 312
+;;SVM_PREDICTIONS: ! diac:! lex:! asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:! lex:!_0 bw:!/PUNC gloss:! pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+SENTENCE BREAK
+--------------
+;;; SENTENCE_ID (batch_4_142)
+;;; SENTENCE lw An AlHkwmAt Al$mAl Afryqyp drst Almwsyqy wAlrsm wAlfnwn Aljmylp lkAn Al$bAb yjd mjAl ybdE fyh wlAyHs bAlthmy$ wlAAntSr Alfn Ely AltTrf kmA fy AwrwbA wAmrykA fAlfn mE wjwd AldymqrATyp ylhm Alnfws bAlskynp wAlAbdAE flA ystEml AlnAs AlslAH lltEbyr En AlrfD
+;;WORD lw
+;;LENGTH 2
+;;OFFSET 0
+;;SVM_PREDICTIONS: lw diac:luw lex:luw asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj_sub prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.798630 diac:law lex:law_1 bw:law/CONJ gloss:if pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:law stemcat:FW-Wa
+--------------
+;;WORD An
+;;LENGTH 2
+;;OFFSET 3
+;;SVM_PREDICTIONS: An diac:>an~a lex:>an~a asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj_sub prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.825863 diac:>an~a lex:>an~a_1 bw:>an~a/SUB_CONJ gloss:that pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:spvar stem:>an~a stemcat:FW-Wa
+--------------
+;;WORD AlHkwmAt
+;;LENGTH 8
+;;OFFSET 6
+;;SVM_PREDICTIONS: AlHkwmAt diac:AlHukuwmAti lex:Hukuwmap asp:na cas:a enc0:0 gen:f mod:na num:p per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.894075 diac:AlHukuwmAti lex:Hukuwmap_1 bw:Al/DET+Hukuwm/NOUN+At/NSUFF_FEM_PL+i/CASE_DEF_ACC gloss:governments;administrations pregloss:the sufgloss:[fem.pl.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:p stt:d cas:a enc0:0 rat:y source:lex stem:Hukuwm stemcat:NAt
+--------------
+;;WORD Al$mAl
+;;LENGTH 6
+;;OFFSET 15
+;;SVM_PREDICTIONS: Al$mAl diac:Al$~amAli lex:$amAl asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884914 diac:Al$~amAla lex:$amAl_1 bw:Al/DET+$amAl/NOUN+a/CASE_DEF_ACC gloss:north;northern pregloss:the sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y source:lex stem:$amAl stemcat:N
+--------------
+;;WORD Afryqyp
+;;LENGTH 7
+;;OFFSET 22
+;;SVM_PREDICTIONS: Afryqyp diac:<iforiyqiy~apF lex:>aforiyqiy~ asp:na cas:a enc0:0 gen:f mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.813831 diac:>aforiyqiy~apa lex:>aforiyqiy~_1 bw:>aforiyqiy~/ADJ+ap/NSUFF_FEM_SG+a/CASE_DEF_ACC gloss:African sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:a enc0:0 rat:y source:spvar stem:>aforiyqiy~ stemcat:Nall
+--------------
+;;WORD drst
+;;LENGTH 4
+;;OFFSET 30
+;;SVM_PREDICTIONS: drst diac:darasat lex:daras asp:p cas:na enc0:0 gen:f mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.894850 diac:darasat lex:daras-u_1 bw:daras/PV+at/PVSUFF_SUBJ:3FS gloss:study;learn sufgloss:it;they;she_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:daras stemcat:PV
+--------------
+;;WORD Almwsyqy
+;;LENGTH 8
+;;OFFSET 35
+;;SVM_PREDICTIONS: Almwsyqy diac:AlmuwsiyqaY lex:muwsiyqaY asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.894337 diac:AlmuwsiyqaY lex:muwsiyqaY_1 bw:Al/DET+muwsiyqaY/NOUN gloss:music pregloss:the pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:u enc0:0 rat:y source:spvar stem:muwsiyqaY stemcat:N0
+--------------
+;;WORD wAlrsm
+;;LENGTH 6
+;;OFFSET 44
+;;SVM_PREDICTIONS: wAlrsm diac:waAlr~asomu lex:rasom asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:wa_conj prc3:0 stt:d vox:na
+*0.884038 diac:waAlr~asomi lex:rasom_1 bw:wa/CONJ+Al/DET+rasom/NOUN+i/CASE_DEF_GEN gloss:drawing;sketch;illustration pregloss:and_+_the sufgloss:[def.gen.] pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:rasom stemcat:N
+--------------
+;;WORD wAlfnwn
+;;LENGTH 7
+;;OFFSET 51
+;;SVM_PREDICTIONS: wAlfnwn diac:waAlfunuwni lex:fan~ asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:wa_conj prc3:0 stt:d vox:na
+*0.894336 diac:waAlfunuwni lex:fan~_1 bw:wa/CONJ+Al/DET+funuwn/NOUN+i/CASE_DEF_GEN gloss:arts;specialties;varieties pregloss:and_+_the sufgloss:[def.gen.] pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:funuwn stemcat:N
+--------------
+;;WORD Aljmylp
+;;LENGTH 7
+;;OFFSET 59
+;;SVM_PREDICTIONS: Aljmylp diac:Aljamiylapi lex:jamiyl asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.826535 diac:Aljamiylapi lex:jamiyl_1 bw:Al/DET+jamiyl/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:beautiful;nice pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:jamiyl stemcat:Nall
+--------------
+;;WORD lkAn
+;;LENGTH 4
+;;OFFSET 67
+;;SVM_PREDICTIONS: lkAn diac:lakAna lex:kAn asp:na cas:na enc0:0 gen:m mod:na num:s per:na pos:verb prc0:0 prc1:la_rc prc2:0 prc3:0 stt:na vox:na
+*0.774123 diac:lakAna lex:kAn_1 bw:la/RC_PART+kAn/PV+a/PVSUFF_SUBJ:3MS gloss:was;were pregloss:would_have sufgloss:he;it_<verb> pos:verb prc3:0 prc2:0 prc1:la_rc prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:kAn stemcat:PV_V
+--------------
+;;WORD Al$bAb
+;;LENGTH 6
+;;OFFSET 72
+;;SVM_PREDICTIONS: Al$bAb diac:Al$~abAbi lex:$ab~ asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:Al$~abAbi lex:$ab~_1 bw:Al/DET+$abAb/NOUN+i/CASE_DEF_GEN gloss:youth;youths pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:$abAb stemcat:N
+--------------
+;;WORD yjd
+;;LENGTH 3
+;;OFFSET 79
+;;SVM_PREDICTIONS: yjd diac:yajod lex:wajad asp:i cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.845327 diac:yajid lex:wajad-i_1 bw:ya/IV3MS+jid/IV gloss:find pregloss:he;it pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:jid stemcat:IV
+--------------
+;;WORD mjAl
+;;LENGTH 4
+;;OFFSET 83
+;;SVM_PREDICTIONS: mjAl diac:majAli lex:majAl asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.886676 diac:majAla lex:majAl_1 bw:majAl/NOUN+a/CASE_DEF_ACC gloss:area;field;arena;context sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y source:lex stem:majAl stemcat:Ndu
+--------------
+;;WORD ybdE
+;;LENGTH 4
+;;OFFSET 88
+;;SVM_PREDICTIONS: ybdE diac:yubad~aE lex:badaE asp:i cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.845327 diac:yabodaE lex:badaE_1 bw:ya/IV3MS+bodaE/IV gloss:innovate;invent pregloss:he;it pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:bodaE stemcat:IV
+--------------
+;;WORD fyh
+;;LENGTH 3
+;;OFFSET 93
+;;SVM_PREDICTIONS: fyh diac:fiyhi lex:fiy asp:na cas:na enc0:3ms_pron gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*1.000000 diac:fiyhi lex:fiy_1 bw:fiy/PREP+hi/PRON_3MS gloss:in sufgloss:it;him pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:3ms_pron rat:na source:lex stem:fiy stemcat:FW-Wa-y
+--------------
+;;WORD wlAyHs
+;;LENGTH 6
+;;OFFSET 97
+;;NO-ANALYSIS
+;;SVM_PREDICTIONS: wlAyHs diac:wlAyHs lex:wlAyHs asp:na cas:n enc0:3ms_poss gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+NO-ANALYSIS [wlAyHs]
+--------------
+;;WORD bAlthmy$
+;;LENGTH 8
+;;OFFSET 104
+;;SVM_PREDICTIONS: bAlthmy$ diac:biAlt~ahomiy$i lex:tahomiy$ asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:bi_prep prc2:0 prc3:0 stt:d vox:na
+*0.894170 diac:biAlt~ahomiy$i lex:tahomiy$_1 bw:bi/PREP+Al/DET+tahomiy$/NOUN+i/CASE_DEF_GEN gloss:sidelining;marginalizing;excluding pregloss:with;by_+_the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:tahomiy$ stemcat:NduAt
+--------------
+;;WORD wlAAntSr
+;;LENGTH 8
+;;OFFSET 113
+;;NO-ANALYSIS
+;;SVM_PREDICTIONS: wlAAntSr diac:wlAAntSr lex:wlAAntSr asp:na cas:g enc0:3d_poss gen:m mod:na num:p per:3 pos:noun prc0:0 prc1:li_prep prc2:wa_conj prc3:0 stt:c vox:na
+NO-ANALYSIS [wlAAntSr]
+--------------
+;;WORD Alfn
+;;LENGTH 4
+;;OFFSET 122
+;;SVM_PREDICTIONS: Alfn diac:Alfan~i lex:fan~ asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:Alfan~i lex:fan~_1 bw:Al/DET+fan~/NOUN+i/CASE_DEF_GEN gloss:art;specialty;variety pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:fan~ stemcat:N
+--------------
+;;WORD Ely
+;;LENGTH 3
+;;OFFSET 127
+;;SVM_PREDICTIONS: Ely diac:EalaY lex:EalaY asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:EalaY lex:EalaY_1 bw:EalaY/PREP gloss:on;above pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:spvar stem:EalaY stemcat:FW-Wa
+--------------
+;;WORD AltTrf
+;;LENGTH 6
+;;OFFSET 131
+;;SVM_PREDICTIONS: AltTrf diac:Alt~aTar~ufi lex:taTar~uf asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:Alt~aTar~ufi lex:taTar~uf_1 bw:Al/DET+taTar~uf/NOUN+i/CASE_DEF_GEN gloss:extremism;radicalism pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:taTar~uf stemcat:N/At
+--------------
+;;WORD kmA
+;;LENGTH 3
+;;OFFSET 138
+;;SVM_PREDICTIONS: kmA diac:kamA lex:kamA asp:na cas:na enc0:0 gen:m mod:na num:na per:na pos:pron_rel prc0:0 prc1:ka_prep prc2:0 prc3:0 stt:i vox:na
+*0.621354 diac:kamA lex:kamA_1 bw:kamA/CONJ gloss:and;as;also pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:kamA stemcat:FW-Wa
+--------------
+;;WORD fy
+;;LENGTH 2
+;;OFFSET 142
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:fiy stemcat:FW-Wa
+--------------
+;;WORD AwrwbA
+;;LENGTH 6
+;;OFFSET 145
+;;SVM_PREDICTIONS: AwrwbA diac:>uwruwb~A lex:>uwrub~A asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:>uwruwb~A lex:>uwrub~A_1 bw:>uwruwb~A/NOUN_PROP gloss:Europe pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:spvar stem:>uwruwb~A stemcat:N0
+--------------
+;;WORD wAmrykA
+;;LENGTH 7
+;;OFFSET 152
+;;SVM_PREDICTIONS: wAmrykA diac:wa>amoriykA lex:>amoriykA asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:i vox:na
+*0.824502 diac:wa>amoriykA lex:>amoriykA_1 bw:wa/CONJ+>amoriykA/NOUN_PROP gloss:America pregloss:and pos:noun_prop prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:spvar stem:>amoriykA stemcat:N0
+--------------
+;;WORD fAlfn
+;;LENGTH 5
+;;OFFSET 160
+;;SVM_PREDICTIONS: fAlfn diac:faAlfan~ lex:fan~ asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:verb prc0:lA_neg prc1:0 prc2:fa_conj prc3:0 stt:d vox:na
+*0.794006 diac:faAlfan~a lex:fan~_1 bw:fa/CONJ+Al/DET+fan~/NOUN+a/CASE_DEF_ACC gloss:art;specialty;variety pregloss:and;so_+_the sufgloss:[def.acc.] pos:noun prc3:0 prc2:fa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y source:lex stem:fan~ stemcat:N
+--------------
+;;WORD mE
+;;LENGTH 2
+;;OFFSET 166
+;;SVM_PREDICTIONS: mE diac:maEa lex:maE asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*1.000000 diac:maEa lex:maE_1 bw:maEa/PREP gloss:with pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:maEa stemcat:FW-Wa
+--------------
+;;WORD wjwd
+;;LENGTH 4
+;;OFFSET 169
+;;SVM_PREDICTIONS: wjwd diac:wujuwdi lex:wujuwd asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.897695 diac:wujuwdi lex:wujuwd_1 bw:wujuwd/NOUN+i/CASE_DEF_GEN gloss:presence;existence sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:wujuwd stemcat:N
+--------------
+;;WORD AldymqrATyp
+;;LENGTH 11
+;;OFFSET 174
+;;SVM_PREDICTIONS: AldymqrATyp diac:Ald~iymuqrATiy~api lex:diymuwqrATiy~ asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.896520 diac:Ald~iymuqrATiy~api lex:diymuwqrATiy~_1 bw:Al/DET+diymuqrATiy~/ADJ+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:democratic pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:diymuqrATiy~ stemcat:Nall
+--------------
+;;WORD ylhm
+;;LENGTH 4
+;;OFFSET 186
+;;SVM_PREDICTIONS: ylhm diac:yulohim lex:waliy asp:i cas:na enc0:3mp_dobj gen:m mod:u num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.884129 diac:yalhm lex:waliy-i_1 bw:ya/IV3MS+l/IV+hum/IVSUFF_DO:3MP gloss:follow;come_after pregloss:he;it sufgloss:them pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:3mp_dobj rat:na source:lex stem:l stemcat:IV_0hwnyn
+--------------
+;;WORD Alnfws
+;;LENGTH 6
+;;OFFSET 191
+;;SVM_PREDICTIONS: Alnfws diac:Aln~ufuwsu lex:nafos asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884914 diac:Aln~ufuwsa lex:nafos_2 bw:Al/DET+nufuws/NOUN+a/CASE_DEF_ACC gloss:souls pregloss:the sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y source:lex stem:nufuws stemcat:N
+--------------
+;;WORD bAlskynp
+;;LENGTH 8
+;;OFFSET 198
+;;SVM_PREDICTIONS: bAlskynp diac:biAls~akiynap lex:sakiynap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:bi_prep prc2:0 prc3:0 stt:d vox:na
+*0.883724 diac:biAls~akiynapi lex:sakiynap_1 bw:bi/PREP+Al/DET+sakiyn/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:tranquillity pregloss:with;by_+_the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:sakiyn stemcat:Nap
+--------------
+;;WORD wAlAbdAE
+;;LENGTH 8
+;;OFFSET 207
+;;SVM_PREDICTIONS: wAlAbdAE diac:waAl<ibodAEi lex:<ibodAE asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:wa_conj prc3:0 stt:d vox:na
+*0.824557 diac:waAl<ibodAEi lex:<ibodAE_1 bw:wa/CONJ+Al/DET+<ibodAE/NOUN+i/CASE_DEF_GEN gloss:originality;creativity pregloss:and_+_the sufgloss:[def.gen.] pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:spvar stem:<ibodAE stemcat:NduAt
+--------------
+;;WORD flA
+;;LENGTH 3
+;;OFFSET 216
+;;SVM_PREDICTIONS: flA diac:falA lex:lA asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:part_neg prc0:na prc1:0 prc2:fa_conj prc3:0 stt:na vox:na
+*0.893910 diac:falA lex:lA_1 bw:fa/CONJ+lA/NEG_PART gloss:no;not pregloss:and;so pos:part_neg prc3:0 prc2:fa_conj prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:lA stemcat:FW-Wa
+--------------
+;;WORD ystEml
+;;LENGTH 6
+;;OFFSET 220
+;;SVM_PREDICTIONS: ystEml diac:yasotaEomil lex:{isotaEomal asp:i cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*1.000000 diac:yasotaEomil lex:{isotaEomal_1 bw:ya/IV3MS+sotaEomil/IV gloss:employ;use pregloss:he;it pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:sotaEomil stemcat:IV
+--------------
+;;WORD AlnAs
+;;LENGTH 5
+;;OFFSET 227
+;;SVM_PREDICTIONS: AlnAs diac:Aln~Asi lex:nAs asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884765 diac:Aln~Asu lex:nAs_1 bw:Al/DET+nAs/NOUN+u/CASE_DEF_NOM gloss:people pregloss:the sufgloss:[def.nom.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y source:lex stem:nAs stemcat:N
+--------------
+;;WORD AlslAH
+;;LENGTH 6
+;;OFFSET 233
+;;SVM_PREDICTIONS: AlslAH diac:Als~ilAHi lex:silAH asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884914 diac:Als~ilAHa lex:silAH_1 bw:Al/DET+silAH/NOUN+a/CASE_DEF_ACC gloss:weapon pregloss:the sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y source:lex stem:silAH stemcat:Ndu
+--------------
+;;WORD lltEbyr
+;;LENGTH 7
+;;OFFSET 240
+;;SVM_PREDICTIONS: lltEbyr diac:lilt~aEobiyri lex:taEobiyr asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:li_prep prc2:0 prc3:0 stt:d vox:na
+*0.894437 diac:lilt~aEobiyri lex:taEobiyr_1 bw:li/PREP+Al/DET+taEobiyr/NOUN+i/CASE_DEF_GEN gloss:expression pregloss:to;for_+_the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:taEobiyr stemcat:N/At
+--------------
+;;WORD En
+;;LENGTH 2
+;;OFFSET 248
+;;SVM_PREDICTIONS: En diac:Ean lex:Ean asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:Ean lex:Ean_1 bw:Ean/PREP gloss:from;about pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:Ean stemcat:FW-Wa
+--------------
+;;WORD AlrfD
+;;LENGTH 5
+;;OFFSET 251
+;;SVM_PREDICTIONS: AlrfD diac:Alr~afoDi lex:rafoD asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:Alr~afoDi lex:rafoD_1 bw:Al/DET+rafoD/NOUN+i/CASE_DEF_GEN gloss:rejection;refusal pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:rafoD stemcat:N
+--------------
+SENTENCE BREAK
+--------------
+;;; SENTENCE_ID (batch_4_134)
+;;; SENTENCE lt$jyE AlktAb *wY Alhmm wAlvqAfp , ktAb AlmHtwY wAlmfyd wltwfyr <ntAjythm Alfkryp >qtr mn >SHlb dwr Aln$r AlrfyEp AlsEy l$rA' Hqwq AlTbE wAlnsx <lktrwnyA <*A kAn hnAk SEwbp fy AltwASl Al$xSy wTbAEthA wbyEhA mTbwEp w<lktrwnyA , >tmnY >n tkwn $bkp Aljzyrp AlrA}dp fAtHp lh*A AlbAb . . . w$krA . llkbyr Alsyd \ wly AlEmAyrp wlljzyrp Alkbyrp wAlsbAqp
+;;WORD lt$jyE
+;;LENGTH 6
+;;OFFSET 0
+;;SVM_PREDICTIONS: lt$jyE diac:lita$ojiyEi lex:ta$ojiyE asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:li_prep prc2:0 prc3:0 stt:c vox:na
+*0.894418 diac:lita$ojiyEi lex:ta$ojiyE_1 bw:li/PREP+ta$ojiyE/NOUN+i/CASE_DEF_GEN gloss:encouragement;promotion;support pregloss:for;to sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:ta$ojiyE stemcat:NduAt
+--------------
+;;WORD AlktAb
+;;LENGTH 6
+;;OFFSET 7
+;;SVM_PREDICTIONS: AlktAb diac:AlkitAbi lex:kitAb asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:AlkitAbi lex:kitAb_1 bw:Al/DET+kitAb/NOUN+i/CASE_DEF_GEN gloss:book pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:kitAb stemcat:Ndu
+--------------
+;;WORD *wY
+;;LENGTH 3
+;;OFFSET 14
+;;SVM_PREDICTIONS: *wy diac:*awiy lex:*uw asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894432 diac:*awiy lex:*uw_1 bw:*awiy/NOUN gloss:(relatives)_of;family pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:spvar stem:*awiy stemcat:FW-WaBi
+--------------
+;;WORD Alhmm
+;;LENGTH 5
+;;OFFSET 18
+;;SVM_PREDICTIONS: Alhmm diac:Alhimami lex:him~ap asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:Alhimami lex:him~ap_1 bw:Al/DET+himam/NOUN+i/CASE_DEF_GEN gloss:ambitions;aspirations pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:himam stemcat:N
+--------------
+;;WORD wAlvqAfp
+;;LENGTH 8
+;;OFFSET 24
+;;SVM_PREDICTIONS: wAlvqAfp diac:waAlv~aqAfapi lex:vaqAfap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:wa_conj prc3:0 stt:d vox:na
+*0.894042 diac:waAlv~aqAfapi lex:vaqAfap_1 bw:wa/CONJ+Al/DET+vaqAf/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:culture;civilization pregloss:and_+_the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:vaqAf stemcat:NapAt
+--------------
+;;WORD ,
+;;LENGTH 1
+;;OFFSET 24
+;;SVM_PREDICTIONS: , diac:, lex:, asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:, lex:,_0 bw:,/PUNC gloss:, pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD ktAb
+;;LENGTH 4
+;;OFFSET 34
+;;SVM_PREDICTIONS: ktAb diac:kitAbK lex:kitAb asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.884561 diac:kitAbu lex:kitAb_1 bw:kitAb/NOUN+u/CASE_DEF_NOM gloss:book sufgloss:[def.nom.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:n enc0:0 rat:y source:lex stem:kitAb stemcat:Ndu
+--------------
+;;WORD AlmHtwY
+;;LENGTH 7
+;;OFFSET 39
+;;SVM_PREDICTIONS: AlmHtwy diac:AlmuHotawiy lex:muHotawaY asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884038 diac:AlmuHotawaY lex:muHotawaY_1 bw:Al/DET+muHotawaY/NOUN gloss:content pregloss:the pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:u enc0:0 rat:y source:lex stem:muHotawaY stemcat:N0
+--------------
+;;WORD wAlmfyd
+;;LENGTH 7
+;;OFFSET 47
+;;SVM_PREDICTIONS: wAlmfyd diac:waAlmufiydi lex:mufiyd asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:wa_conj prc3:0 stt:d vox:na
+*0.893964 diac:waAlmufiydi lex:mufiyd_1 bw:wa/CONJ+Al/DET+mufiyd/ADJ+i/CASE_DEF_GEN gloss:useful;beneficial pregloss:and_+_the sufgloss:[def.gen.] pos:adj prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:mufiyd stemcat:N-ap
+--------------
+;;WORD wltwfyr
+;;LENGTH 7
+;;OFFSET 55
+;;SVM_PREDICTIONS: wltwfyr diac:walitawofiyr lex:tawofiyr asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:li_prep prc2:wa_conj prc3:0 stt:c vox:na
+*0.883609 diac:walitawofiyri lex:tawofiyr_1 bw:wa/CONJ+li/PREP+tawofiyr/NOUN+i/CASE_DEF_GEN gloss:provision;furnishing pregloss:and_+_for;to sufgloss:[def.gen.] pos:noun prc3:0 prc2:wa_conj prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:tawofiyr stemcat:N/At
+--------------
+;;WORD <ntAjythm
+;;LENGTH 9
+;;OFFSET 63
+;;SVM_PREDICTIONS: AntAjythm diac:<inotAjiy~athm lex:<inotAjiy~ asp:na cas:g enc0:3mp_poss gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.867489 diac:<inotAjiy~atihim lex:<inotAjiy~ap_1 bw:<inotAjiy~/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN+hum/POSS_PRON_3MP gloss:productivity sufgloss:their pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:3mp_poss rat:y source:lex stem:<inotAjiy~ stemcat:Nap
+--------------
+;;WORD Alfkryp
+;;LENGTH 7
+;;OFFSET 73
+;;SVM_PREDICTIONS: Alfkryp diac:Alfikoriy~api lex:fikoriy~ asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.896520 diac:Alfikoriy~api lex:fikoriy~_1 bw:Al/DET+fikoriy~/ADJ+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:intellectual;mental;spiritual pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:fikoriy~ stemcat:Nall
+--------------
+;;WORD >qtr
+;;LENGTH 4
+;;OFFSET 81
+;;SVM_PREDICTIONS: Aqtr diac:>aqotar lex:qat~ar asp:p cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.869080 diac:>aqotara lex:>aqotar_1 bw:>aqotar/PV+a/PVSUFF_SUBJ:3MS gloss:live_in_poverty sufgloss:he;it_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:>aqotar stemcat:PV
+--------------
+;;WORD mn
+;;LENGTH 2
+;;OFFSET 86
+;;SVM_PREDICTIONS: mn diac:min lex:min asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:min lex:min_1 bw:min/PREP gloss:from pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:min stemcat:FW-Wa
+--------------
+;;WORD >SHlb
+;;LENGTH 5
+;;OFFSET 89
+;;NO-ANALYSIS
+;;SVM_PREDICTIONS: ASHlb diac:ASHlb lex:ASHlb asp:na cas:g enc0:3d_poss gen:m mod:i num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+NO-ANALYSIS [>SHlb]
+--------------
+;;WORD dwr
+;;LENGTH 3
+;;OFFSET 95
+;;SVM_PREDICTIONS: dwr diac:dawori lex:dawor asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.897695 diac:dawori lex:dawor_1 bw:dawor/NOUN+i/CASE_DEF_GEN gloss:role;part sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:dawor stemcat:Ndu
+--------------
+;;WORD Aln$r
+;;LENGTH 5
+;;OFFSET 99
+;;SVM_PREDICTIONS: Aln$r diac:Aln~a$ori lex:na$or asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:Aln~a$ori lex:na$or_1 bw:Al/DET+na$or/NOUN+i/CASE_DEF_GEN gloss:spreading;propagation pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:na$or stemcat:N
+--------------
+;;WORD AlrfyEp
+;;LENGTH 7
+;;OFFSET 105
+;;SVM_PREDICTIONS: AlrfyEp diac:Alr~afiyEapi lex:rafiyE asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.896520 diac:Alr~afiyEapi lex:rafiyE_1 bw:Al/DET+rafiyE/ADJ+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:high-ranking;top-level pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:rafiyE stemcat:Nall
+--------------
+;;WORD AlsEy
+;;LENGTH 5
+;;OFFSET 113
+;;SVM_PREDICTIONS: AlsEy diac:Als~aEoyi lex:saEoy asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:Als~aEoyi lex:saEoy_1 bw:Al/DET+saEoy/NOUN+i/CASE_DEF_GEN gloss:endeavor;pursuit pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:saEoy stemcat:N
+--------------
+;;WORD l$rA'
+;;LENGTH 5
+;;OFFSET 119
+;;SVM_PREDICTIONS: l$rA' diac:li$irA'i lex:$irA' asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:li_prep prc2:0 prc3:0 stt:c vox:na
+*0.894418 diac:li$irA'i lex:$irA'_1 bw:li/PREP+$irA'/NOUN+i/CASE_DEF_GEN gloss:purchase;purchasing pregloss:for;to sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:$irA' stemcat:N0_Nh
+--------------
+;;WORD Hqwq
+;;LENGTH 4
+;;OFFSET 125
+;;SVM_PREDICTIONS: Hqwq diac:Huquwqi lex:Haq~ asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.897695 diac:Huquwqi lex:Haq~_2 bw:Huquwq/NOUN+i/CASE_DEF_GEN gloss:rights;law sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y source:lex stem:Huquwq stemcat:N
+--------------
+;;WORD AlTbE
+;;LENGTH 5
+;;OFFSET 130
+;;SVM_PREDICTIONS: AlTbE diac:AlT~aboEa lex:TaboE asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895212 diac:AlT~aboEa lex:TaboE_1 bw:Al/DET+TaboE/NOUN+a/CASE_DEF_ACC gloss:temperament pregloss:the sufgloss:[def.acc.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y source:lex stem:TaboE stemcat:N
+--------------
+;;WORD wAlnsx
+;;LENGTH 6
+;;OFFSET 136
+;;SVM_PREDICTIONS: wAlnsx diac:waAln~usax lex:nusoxap asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:wa_conj prc3:0 stt:d vox:na
+*0.883667 diac:waAln~usaxa lex:nusoxap_1 bw:wa/CONJ+Al/DET+nusax/NOUN+a/CASE_DEF_ACC gloss:copies pregloss:and_+_the sufgloss:[def.acc.] pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y source:lex stem:nusax stemcat:N
+--------------
+;;WORD <lktrwnyA
+;;LENGTH 9
+;;OFFSET 143
+;;SVM_PREDICTIONS: AlktrwnyA diac:<ilikotruwniy~AF lex:<ilikotruwniy~ asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894635 diac:<ilikotruwniy~AF lex:<ilikotruwniy~_1 bw:<ilikotruwniy~/ADJ+AF/CASE_INDEF_ACC gloss:electronic sufgloss:[acc.indef.] pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:a enc0:0 rat:y source:lex stem:<ilikotruwniy~ stemcat:Nall
+--------------
+;;WORD <*A
+;;LENGTH 3
+;;OFFSET 153
+;;SVM_PREDICTIONS: A*A diac:<i*A lex:<i*A asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj_sub prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.825067 diac:<i*A lex:<i*A_1 bw:<i*A/CONJ gloss:if;whether pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:<i*A stemcat:FW-Wa
+--------------
+;;WORD kAn
+;;LENGTH 3
+;;OFFSET 157
+;;SVM_PREDICTIONS: kAn diac:kAna lex:kAn asp:p cas:na enc0:0 gen:m mod:i num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.895518 diac:kAna lex:kAn_1 bw:kAn/PV+a/PVSUFF_SUBJ:3MS gloss:was;were sufgloss:he;it_<verb> pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:kAn stemcat:PV_V
+--------------
+;;WORD hnAk
+;;LENGTH 4
+;;OFFSET 161
+;;SVM_PREDICTIONS: hnAk diac:hunAka lex:hunAka asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:adv prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894160 diac:hunAka lex:hunAka_1 bw:hunAka/ADV gloss:there;there_(is;are) pos:adv prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:hunAka stemcat:FW-Wa
+--------------
+;;WORD SEwbp
+;;LENGTH 5
+;;OFFSET 166
+;;SVM_PREDICTIONS: SEwbp diac:SuEuwbapF lex:SuEuwbap asp:na cas:a enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.894327 diac:SuEuwbapF lex:SuEuwbap_1 bw:SuEuwb/NOUN+ap/NSUFF_FEM_SG+F/CASE_INDEF_ACC gloss:difficulty sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:a enc0:0 rat:y source:lex stem:SuEuwb stemcat:NapAt
+--------------
+;;WORD fy
+;;LENGTH 2
+;;OFFSET 172
+;;SVM_PREDICTIONS: fy diac:fiy lex:fiy asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:prep prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.902889 diac:fiy lex:fiy_1 bw:fiy/PREP gloss:in pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:fiy stemcat:FW-Wa
+--------------
+;;WORD AltwASl
+;;LENGTH 7
+;;OFFSET 175
+;;SVM_PREDICTIONS: AltwASl diac:Alt~awASuli lex:tawASul asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.899217 diac:Alt~awASuli lex:tawASul_1 bw:Al/DET+tawASul/NOUN+i/CASE_DEF_GEN gloss:continuity;continuation pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:tawASul stemcat:N/At
+--------------
+;;WORD Al$xSy
+;;LENGTH 6
+;;OFFSET 183
+;;SVM_PREDICTIONS: Al$xSy diac:Al$~axoSiy~i lex:$axoSiy~ asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895776 diac:Al$~axoSiy~i lex:$axoSiy~_1 bw:Al/DET+$axoSiy~/ADJ+i/CASE_DEF_GEN gloss:private;personal pregloss:the sufgloss:[def.gen.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:$axoSiy~ stemcat:N-ap
+--------------
+;;WORD wTbAEthA
+;;LENGTH 8
+;;OFFSET 190
+;;SVM_PREDICTIONS: wTbAEthA diac:waTibAEatihA lex:TibAEap asp:na cas:g enc0:3fs_poss gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:c vox:na
+*0.893914 diac:waTibAEatihA lex:TibAEap_1 bw:wa/CONJ+TibAE/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN+hA/POSS_PRON_3FS gloss:printing pregloss:and sufgloss:its;their;her pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:3fs_poss rat:y source:lex stem:TibAE stemcat:Nap
+--------------
+;;WORD wbyEhA
+;;LENGTH 6
+;;OFFSET 199
+;;SVM_PREDICTIONS: wbyEhA diac:wabayoEihA lex:bayoE asp:na cas:g enc0:3fs_poss gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:c vox:na
+*0.893951 diac:wabayoEihA lex:bayoE_1 bw:wa/CONJ+bayoE/NOUN+i/CASE_DEF_GEN+hA/POSS_PRON_3FS gloss:sale pregloss:and sufgloss:its;their;her pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:3fs_poss rat:y source:lex stem:bayoE stemcat:N
+--------------
+;;WORD mTbwEp
+;;LENGTH 6
+;;OFFSET 206
+;;SVM_PREDICTIONS: mTbwEp diac:maTobuwEapa lex:maTobuwE asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.883621 diac:maTobuwEapi lex:maTobuwE_1 bw:maTobuwE/ADJ+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:printed sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y source:lex stem:maTobuwE stemcat:N-ap
+--------------
+;;WORD w<lktrwnyA
+;;LENGTH 10
+;;OFFSET 213
+;;SVM_PREDICTIONS: wAlktrwnyA diac:wa<ilikotruwniy~AF lex:<ilikotruwniy~ asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:adj prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:i vox:na
+*0.893939 diac:wa<ilikotruwniy~AF lex:<ilikotruwniy~_1 bw:wa/CONJ+<ilikotruwniy~/ADJ+AF/CASE_INDEF_ACC gloss:electronic pregloss:and sufgloss:[acc.indef.] pos:adj prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:a enc0:0 rat:y source:lex stem:<ilikotruwniy~ stemcat:Nall
+--------------
+;;WORD ,
+;;LENGTH 1
+;;OFFSET 224
+;;SVM_PREDICTIONS: , diac:, lex:, asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:, lex:,_0 bw:,/PUNC gloss:, pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD >tmnY
+;;LENGTH 5
+;;OFFSET 224
+;;SVM_PREDICTIONS: Atmny diac:>ataman~aY lex:taman~aY asp:i cas:na enc0:0 gen:m mod:i num:s per:1 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.855626 diac:>ataman~aY lex:taman~aY_1 bw:>a/IV1S+taman~aY/IV gloss:desire;wish_for;hope pregloss:I pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:1 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na source:lex stem:taman~aY stemcat:IV_0
+--------------
+;;WORD >n
+;;LENGTH 2
+;;OFFSET 231
+;;SVM_PREDICTIONS: An diac:>an~a lex:>ano asp:na cas:na enc0:0 gen:na mod:na num:na per:na pos:conj_sub prc0:na prc1:0 prc2:0 prc3:0 stt:na vox:na
+*0.885344 diac:>an lex:>ano_1 bw:>an/SUB_CONJ gloss:to pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na source:lex stem:>an stemcat:FW-Wa
+--------------
+;;WORD tkwn
+;;LENGTH 4
+;;OFFSET 234
+;;SVM_PREDICTIONS: tkwn diac:takuwn lex:kAn asp:i cas:na enc0:0 gen:f mod:s num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:a
+*0.855626 diac:takuwn lex:kAn_1 bw:ta/IV3FS+kuwn/IV gloss:is;are pregloss:it;they;she pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na source:lex stem:kuwn stemcat:IV_V
+--------------
+;;WORD $bkp
+;;LENGTH 4
+;;OFFSET 239
+;;SVM_PREDICTIONS: $bkp diac:$abakapi lex:$abakap asp:na cas:n enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:c vox:na
+*0.883957 diac:$abakapu lex:$abakap_1 bw:$abak/NOUN+ap/NSUFF_FEM_SG+u/CASE_DEF_NOM gloss:network;system sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:n enc0:0 rat:y source:lex stem:$abak stemcat:Napdu
+--------------
+;;WORD Aljzyrp
+;;LENGTH 7
+;;OFFSET 244
+;;SVM_PREDICTIONS: Aljzyrp diac:Aljaziyrapi lex:jaziyrap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.895953 diac:Aljaziyrapi lex:jaziyrap_1 bw:Al/DET+jaziyr/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:island;peninsula pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:jaziyr stemcat:Napdu
+--------------
+;;WORD AlrA}dp
+;;LENGTH 7
+;;OFFSET 252
+;;SVM_PREDICTIONS: AlrA}dp diac:Alr~A}idapi lex:rA}id asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.826535 diac:Alr~A}idapi lex:rA}id_1 bw:Al/DET+rA}id/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:leader;explorer;pioneer pregloss:the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:rA}id stemcat:N/ap
+--------------
+;;WORD fAtHp
+;;LENGTH 5
+;;OFFSET 260
+;;SVM_PREDICTIONS: fAtHp diac:fAtiHapa lex:fAtiHap asp:na cas:a enc0:0 gen:f mod:na num:s per:3 pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na
+*0.857337 diac:fAtiHapF lex:fAtiHap_1 bw:fAtiH/NOUN+ap/NSUFF_FEM_SG+F/CASE_INDEF_ACC gloss:opening;preface sufgloss:[fem.sg.] pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:a enc0:0 rat:y source:lex stem:fAtiH stemcat:Nap
+--------------
+;;WORD lh*A
+;;LENGTH 4
+;;OFFSET 266
+;;SVM_PREDICTIONS: lh*A diac:lih`*A lex:h`*A asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:pron_dem prc0:0 prc1:li_prep prc2:0 prc3:0 stt:i vox:na
+*1.000000 diac:lih`*A lex:h`*A_1 bw:li/PREP+h`*A/DEM_PRON_MS gloss:this pregloss:for;to pos:pron_dem prc3:0 prc2:0 prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:h`*A stemcat:FW-WaBi
+--------------
+;;WORD AlbAb
+;;LENGTH 5
+;;OFFSET 271
+;;SVM_PREDICTIONS: AlbAb diac:AlbAba lex:bAb asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.888918 diac:AlbAbi lex:bAb_1 bw:Al/DET+bAb/NOUN+i/CASE_DEF_GEN gloss:door;gate pregloss:the sufgloss:[def.gen.] pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:bAb stemcat:Ndu
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 271
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 271
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 271
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD w$krA
+;;LENGTH 5
+;;OFFSET 280
+;;SVM_PREDICTIONS: w$krA diac:wa$ukorAF lex:$ukor asp:na cas:a enc0:0 gen:m mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:i vox:na
+*0.894014 diac:wa$ukorAF lex:$ukor_1 bw:wa/CONJ+$ukor/NOUN+AF/CASE_INDEF_ACC gloss:thankfulness;thanks pregloss:and sufgloss:[acc.indef.] pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:a enc0:0 rat:y source:lex stem:$ukor stemcat:N
+--------------
+;;WORD .
+;;LENGTH 1
+;;OFFSET 280
+;;SVM_PREDICTIONS: . diac:. lex:. asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:. lex:._0 bw:./PUNC gloss:. pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD llkbyr
+;;LENGTH 6
+;;OFFSET 287
+;;SVM_PREDICTIONS: llkbyr diac:lilkabiyr lex:kabiyr asp:na cas:g enc0:0 gen:m mod:na num:s per:na pos:adj prc0:Al_det prc1:li_prep prc2:0 prc3:0 stt:d vox:na
+*0.883606 diac:lilkabiyri lex:kabiyr_1 bw:li/PREP+Al/DET+kabiyr/ADJ+i/CASE_DEF_GEN gloss:large;great;important pregloss:to;for_+_the sufgloss:[def.gen.] pos:adj prc3:0 prc2:0 prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y source:lex stem:kabiyr stemcat:N-ap
+--------------
+;;WORD Alsyd
+;;LENGTH 5
+;;OFFSET 294
+;;SVM_PREDICTIONS: Alsyd diac:Als~ay~idu lex:say~id asp:na cas:n enc0:0 gen:m mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.824558 diac:Als~ay~idu lex:say~id_1 bw:Al/DET+say~id/NOUN_PROP+u/CASE_DEF_NOM gloss:Sir;Mr.;Mister pregloss:the sufgloss:[def.nom.] pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y source:lex stem:say~id stemcat:Ndu
+--------------
+;;WORD \
+;;LENGTH 1
+;;OFFSET 294
+;;SVM_PREDICTIONS: \ diac:\ lex:\ asp:na cas:na enc0:na gen:na mod:na num:na per:na pos:punc prc0:na prc1:na prc2:na prc3:na stt:na vox:na
+*1.000000 diac:\ lex:\_0 bw:\/PUNC gloss:\ pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na source:punc
+--------------
+;;WORD wly
+;;LENGTH 3
+;;OFFSET 301
+;;SVM_PREDICTIONS: wly diac:waliy lex:li asp:na cas:u enc0:1s_pron gen:m mod:na num:s per:na pos:noun_prop prc0:0 prc1:0 prc2:wa_conj prc3:0 stt:c vox:na
+*0.770804 diac:waliy lex:liy_1 bw:wa/CONJ+liy/NOUN_PROP gloss:Lee;Li pregloss:and pos:noun_prop prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y source:lex stem:liy stemcat:Nprop
+--------------
+;;WORD AlEmAyrp
+;;LENGTH 8
+;;OFFSET 305
+;;SVM_PREDICTIONS: AlEmAyrp diac:AlEamAyirah lex:EamAyirap asp:na cas:u enc0:0 gen:m mod:na num:s per:na pos:noun_prop prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.884434 diac:AlEamAyirap lex:EamAyirap_1 bw:Al/DET+EamAyirap/NOUN_PROP gloss:Amayreh pregloss:the pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:u enc0:0 rat:y source:lex stem:EamAyirap stemcat:N0
+--------------
+;;WORD wlljzyrp
+;;LENGTH 8
+;;OFFSET 314
+;;SVM_PREDICTIONS: wlljzyrp diac:waliljaziyrapi lex:jaziyrap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:li_prep prc2:wa_conj prc3:0 stt:d vox:na
+*0.893905 diac:waliljaziyrapi lex:jaziyrap_1 bw:wa/CONJ+li/PREP+Al/DET+jaziyr/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:island;peninsula pregloss:and_+_to;for_+_the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:wa_conj prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:jaziyr stemcat:Napdu
+--------------
+;;WORD Alkbyrp
+;;LENGTH 7
+;;OFFSET 323
+;;SVM_PREDICTIONS: Alkbyrp diac:Alkabiyrapi lex:kabiyr asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:adj prc0:Al_det prc1:0 prc2:0 prc3:0 stt:d vox:na
+*0.896520 diac:Alkabiyrapi lex:kabiyr_1 bw:Al/DET+kabiyr/ADJ+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:large;great;important pregloss:the sufgloss:[fem.sg.] pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:kabiyr stemcat:N-ap
+--------------
+;;WORD wAlsbAqp
+;;LENGTH 8
+;;OFFSET 331
+;;SVM_PREDICTIONS: wAlsbAqp diac:waAls~ab~Aqap lex:sab~Aq asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:Al_det prc1:0 prc2:wa_conj prc3:0 stt:d vox:na
+*0.883744 diac:waAls~ab~Aqapi lex:sab~Aq_1 bw:wa/CONJ+Al/DET+sab~Aq/NOUN+ap/NSUFF_FEM_SG+i/CASE_DEF_GEN gloss:anticipatory;express pregloss:and_+_the sufgloss:[fem.sg.] pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y source:lex stem:sab~Aq stemcat:N-ap
+--------------
+SENTENCE BREAK
+--------------
+;;; SENTENCE_ID (batch_4_88)
+;;; SENTENCE nwfArtys $rkp kbyrp w n$yTp w ldyhA mHrk bHv Elmy qwy jdA , w lA >stgrb >n ttwSl lElAj lh*A AlwbA' AlmHyr w lkn *lk qd yHtAj l>kvr mn >sbwEyn ElY AEtbAr >n AlslAlp Alfyrwsyp l<nflwnzA AlxnAzyr jdydp klyA .
+;;WORD nwfArtys
+;;LENGTH 8
+;;OFFSET 0
+;;NO-ANALYSIS
+;;SVM_PREDICTIONS: nwfArtys diac:nwfArtys lex:nwfArtys asp:na cas:n enc0:3d_poss gen:m mod:na num:s per:3 pos:verb prc0:0 prc1:0 prc2:0 prc3:0 stt:na vox:na
+NO-ANALYSIS [nwfArtys]
+--------------
+;;WORD $rkp
+;;LENGTH 4
+;;OFFSET 9
+;;SVM_PREDICTIONS: $rkp diac:$arikapi lex:$arikap asp:na cas:g enc0:0 gen:f mod:na num:s per:na pos:noun prc0:0 prc1:0 prc2:0 prc3:0 stt:i vox:na

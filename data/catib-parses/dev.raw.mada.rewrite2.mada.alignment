@@ -1,0 +1,525 @@
+1	AlbrAdEy	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y	?
+2	k$f	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+3	Hqyqp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:a enc0:3ms_poss rat:y	?
+4	h	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:na
+5	End	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:mA_sub rat:y	?
+6	mA	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+7	xsr	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+8	Hzb	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:3ms_poss rat:y	?
+9	h	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:na
+10	AlAntxAbAt	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:p stt:d cas:a enc0:0 rat:y	?
+11	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+12	>Eln	VRB	pos:verb prc3:0 prc2:wa_conj prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+13	>n	PRT	pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+14	AlAntxAbAt	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:p stt:d cas:a enc0:0 rat:y	?
+15	lyst	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:0 rat:na	?
+16	a	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:3ms_poss rat:y	?
+17	h	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:na
+18	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+19	ryd	VRB	pos:verb prc3:0 prc2:wa_conj prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+20	<dxAl	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y	?
+21	mSr	PROP	pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+22	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+23	dwAmp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y	?
+24	Enf	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y	?
+25	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+26	fwDY	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+27	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+28	jr	VRB	pos:verb prc3:0 prc2:0 prc1:li_prep prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:3fs_dobj rat:na	?
+29	hA	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:f num:s stt:d cas:a enc0:0 rat:na
+30	<lY	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+31	HAlp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:g enc0:0 rat:y	?
+32	mn	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+33	Alrkwd	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+34	AlAqtSAdy	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+35	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+36	tnH	VRB	pos:verb prc3:0 prc2:0 prc1:li_prep prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:1s_dobj rat:na	?
+37	ny	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:1 asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:na
+38	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+39	Algrb	NOM	pos:noun prc3:0 prc2:0 prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+40	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+41	yEAwn	VRB	pos:verb prc3:0 prc2:wa_conj prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:p stt:na cas:na enc0:3ms_dobj rat:na	?
+42	h	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:na
+43	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+44	*lk	NOM	pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+45	6	NOM	pos:digit prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+46	>bryl	PROP	pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+47	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+48	nHn	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:1 asp:na vox:na mod:na gen:m num:p stt:i cas:n enc0:0 rat:y	?
+49	jmyEA	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:a enc0:0 rat:y	?
+50	hwyp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:a enc0:3fs_poss rat:y	?
+51	hA	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:na
+52	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+53	mmwly	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:p stt:c cas:a enc0:3fs_poss rat:y	?
+54	hA	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:na
+55	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+56	ms}wlyp	NOM	pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:3fs_poss rat:y	?
+57	hA	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:na
+58	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+59	>HdAv	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+60	fwDY	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+61	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+62	txryb	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y	?
+63	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+
+1	<lY	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+2	mtY	NOM	pos:adv_interrog prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+3	s	PRT	pos:part_fut prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+4	yntZr	VRB	pos:verb prc3:0 prc2:0 prc1:sa_fut prc0:0 per:3 asp:i vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+5	AlEAlm	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y	?
+6	qbl	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y	?
+7	>n	PRT	pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+8	ytdxl	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+9	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+10	<yqAf	NOM	pos:noun prc3:0 prc2:0 prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+11	h*h	NOM	pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y	?
+12	AlmjAzr	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+13	Dd	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y	?
+14	Al<nsAnyp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+15	Alty	NOM	pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y	?
+16	yqwm	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+17	b	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:3fs_pron rat:na	?
+18	hA	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:f num:s stt:d cas:u enc0:0 rat:na
+19	h*A	NOM	pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+20	AlnZAm	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y	?
+21	Aldmwy	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y	?
+22	Almjrm	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+23	Al*y	NOM	pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+24	ln	PRT	pos:part_neg prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+25	ytwqf	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+26	En	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+27	*lk	NOM	pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+28	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+29	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+30	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+31	l>n	PRT	pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+32	bqA'	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:3ms_poss rat:y	?
+33	h	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:na
+34	dA}mA	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:a enc0:0 rat:y	?
+35	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+36	w>bdA	NOM	pos:adv prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:a enc0:0 rat:y	?
+37	ArtbT	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+38	b	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+39	AlqmE	NOM	pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+40	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+41	Alqtl	NOM	pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+42	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+43	Al<jrAm	NOM	pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+44	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+45	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+46	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+47	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+48	wlkn	PRT	pos:conj prc3:0 prc2:wa_conj prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+49	>n	PRT	pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+50	Al>wAn	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y	?
+51	l>n	PRT	pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+52	yzwl	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+53	wyndHr	NOM	Nil	?
+54	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+55	mzAbl	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+56	AltAryx	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+
+1	Zlt	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:0 rat:na	?
+2	AlmEArDp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:n enc0:0 rat:y	?
+3	AlswdAnyp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+4	Tylp	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+5	Alftrp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+6	AlmADyp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+7	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+8	mn*	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+9	mj}	NOM	Nil	?
+10	h*h	NOM	pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y	?
+11	AlHkwmp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+12	Alty	NOM	pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y	?
+13	>wrdt	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:0 rat:na	?
+14	blAd	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:1p_poss rat:y	?
+15	nA	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:1 asp:na vox:na mod:na gen:m num:p stt:d cas:g enc0:0 rat:na
+16	mwArd	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y	?
+17	AlhlAk	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:u enc0:0 rat:y	?
+18	tqwl	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na	?
+19	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+20	lA	PRT	pos:part_neg prc3:0 prc2:wa_conj prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+21	tfEl	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na	?
+22	$y}Aw	NOM	Nil	?
+23	rbmA	NOM	pos:adv prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+24	EA}d	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:n enc0:0 rat:y	?
+25	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+26	ElAqp	NOM	pos:noun prc3:0 prc2:0 prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y	?
+27	h*h	NOM	pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y	?
+28	AlmEArDp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+29	b	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+30	h*A	NOM	pos:pron_dem prc3:0 prc2:0 prc1:bi_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+31	AlnZAm	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+32	Al*y	NOM	pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+33	Zl	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+34	rDE	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:3fs_dobj rat:na	?
+35	hA	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:f num:s stt:d cas:a enc0:0 rat:na
+36	mn	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+37	AlmAl	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+38	AlEAm	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+39	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+40	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+41	mA	NOM	pos:pron_rel prc3:0 prc2:0 prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+42	yqTE	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+43	AlrDAEp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:n enc0:0 rat:y	?
+44	twlwl	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:2 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+45	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+46	tHtj	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na	?
+47	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+48	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+49	lkn	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+50	hmA	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:d stt:i cas:n enc0:0 rat:y	?
+51	syAn	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:n enc0:0 rat:y	?
+52	f	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+53	lA	PRT	pos:part_neg prc3:0 prc2:fa_conj prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+54	xyr	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y	?
+55	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+56	mEArDp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y	?
+57	tqlydy	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:d stt:c cas:g enc0:3ms_poss rat:y	?
+58	h	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:na
+59	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+60	lA	PRT	pos:part_neg prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+61	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+62	Hkwmp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y	?
+63	dktAtwry	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:3ms_poss rat:y	?
+64	h	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:na
+65	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+66	<n	PRT	pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+67	kAnt	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:0 rat:na	?
+68	b	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+69	vwb	NOM	pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y	?
+70	mdny	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y	?
+
+1	>ElY	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+2	drjp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y	?
+3	HrArp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:n enc0:0 rat:y	?
+4	msjlp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:g enc0:0 rat:y	?
+5	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+6	mnTqp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y	?
+7	AlEzyzyp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+8	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+9	lybyA	PROP	pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+10	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+11	hy	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:f num:s stt:i cas:n enc0:0 rat:y	?
+12	b	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+13	AlDbT	NOM	pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+14	57.7	NOM	pos:digit prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+15	drjp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:n enc0:0 rat:y	?
+16	m}wyp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y	?
+17	ywm	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y	?
+18	13	NOM	pos:digit prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+19	sbtmbr	PROP	pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+20	snp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:a enc0:0 rat:y	?
+21	1913	NOM	pos:digit prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+22	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+23	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+24	AlElm	NOM	pos:noun prc3:0 prc2:0 prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+25	drjAt	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:p stt:c cas:g enc0:0 rat:y	?
+26	AlHrArp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+27	Alty	NOM	pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y	?
+28	trSd	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+29	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+30	t*kr	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na	?
+31	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+32	n$rAt	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:p stt:i cas:g enc0:0 rat:y	?
+33	Al>HwAl	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+34	Aljwyp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+35	tsjl	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na	?
+36	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+37	AlZl	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+38	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+39	lys	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+40	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+41	Al$ms	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+42	!	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+43	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+44	AlmSdr	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y	?
+45	mwswEp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:n enc0:0 rat:y	?
+46	AlwykybydyA	NOM	Nil	?
+
+1	tEtmd	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na	?
+2	SnAEp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:a enc0:0 rat:y	?
+3	h*h	NOM	pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y	?
+4	AlSwAryx	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y	?
+5	AlTA}fyp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:a enc0:0 rat:y	?
+6	ElY	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+7	tHfyz	NOM	Nil	?
+8	EnASr	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+9	Altxlf	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+10	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+11	txSyb	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:n enc0:0 rat:y	?
+12	ywrAnywm	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+13	Aljhl	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+14	Almrkb	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+15	,	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+16	bHyv	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+17	tnxfD	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na	?
+18	nsbp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:n enc0:0 rat:y	?
+19	AlmErfp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+20	<lY	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+21	>ql	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+22	mn	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+23	10	NOM	pos:digit prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+24	%	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+25	,	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+26	h*h	NOM	pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y	?
+27	AlmAdp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:a enc0:0 rat:y	?
+28	AlxAm	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+29	Alty	NOM	pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y	?
+30	mA	PRT	pos:part_neg prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+31	zAlt	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:0 rat:na	?
+32	mtwfrp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:a enc0:0 rat:y	?
+33	b	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+34	gzArp	NOM	pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:g enc0:0 rat:y	?
+35	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+36	Alkvyr	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+37	mn	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+38	mnAjm	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y	?
+39	AlEqwl	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+40	AlErbyp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+41	Albkr	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+42	Alty	NOM	pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y	?
+43	lm	PRT	pos:part_neg prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+44	tstxdm	VRB-PASS	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:p mod:u gen:f num:s stt:na cas:na enc0:0 rat:na	?
+45	HtY	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+46	Al|n	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y	?
+47	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+48	tHAfZ	VRB	pos:verb prc3:0 prc2:0 prc1:li_prep prc0:0 per:2 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+49	h*h	NOM	pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y	?
+50	AlEqwl	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+51	ElY	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+52	E*ryp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:3fs_poss rat:y	?
+53	hA	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:na
+54	,	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+55	b	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+56	Alrgm	NOM	pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+57	mn	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+58	tqdm	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+59	AlHDArp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+60	b	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+61	TlbAt	NOM	pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:0 per:na asp:na vox:na mod:na gen:f num:p stt:i cas:g enc0:0 rat:y	?
+62	kvyrp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:g enc0:0 rat:y	?
+63	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+64	AlzwAj	NOM	pos:noun prc3:0 prc2:0 prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+65	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+66	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+67	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+68	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+69	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+70	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+71	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+72	wlkn	PRT	pos:conj prc3:0 prc2:wa_conj prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+73	EbvA	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:a enc0:0 rat:y	?
+74	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+
+1	AEtqd	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+2	>n	PRT	pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+3	hnAk	NOM	pos:adv prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+4	|rA'	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+5	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+6	tHlylAt	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:p stt:i cas:g enc0:0 rat:y	?
+7	<ElAmyp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:g enc0:0 rat:y	?
+8	b	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+9	Htp	NOM	pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:g enc0:0 rat:y	?
+10	hy	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:f num:s stt:i cas:n enc0:0 rat:y	?
+11	Alty	NOM	pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:u enc0:0 rat:y	?
+12	tETy	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na	?
+13	tfsyr	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y	?
+14	gyr	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+15	nADj	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y	?
+16	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+17	wqA}E	NOM	pos:noun prc3:0 prc2:0 prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+18	rwtynyp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:g enc0:0 rat:y	?
+19	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+20	<*A	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+21	kAn	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+22	AlkAtb	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y	?
+23	yqwl	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+24	>n	PRT	pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:3ms_pron rat:na	?
+25	h	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:s stt:d cas:u enc0:0 rat:na
+26	lA	PRT	pos:part_neg prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+27	yHq	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+28	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+29	AlsEwdyp	NOM	pos:noun prc3:0 prc2:0 prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+30	>w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+31	Al>mArAt	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:p stt:d cas:g enc0:0 rat:y	?
+32	-LRB-	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+33	>n	PRT	pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:3ms_pron rat:na	?
+34	h	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:s stt:d cas:u enc0:0 rat:na
+35	$>n	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:n enc0:0 rat:y	?
+36	mSry	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:n enc0:0 rat:y	?
+37	bHt	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:n enc0:0 rat:y	?
+38	-RRB-	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+39	Tlb	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+40	Edm	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y	?
+41	mHAkmp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y	?
+42	mbArk	PROP	pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+43	-LRB-	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+44	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+45	hw	NOM	pos:pron prc3:0 prc2:wa_conj prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:s stt:i cas:n enc0:0 rat:y	?
+46	Al>mr	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y	?
+47	Al*y	NOM	pos:pron_rel prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+48	nft	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:3ms_dobj rat:na	?
+49	h	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:na
+50	AldwltAn	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:d stt:d cas:n enc0:0 rat:y	?
+51	-RRB-	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+52	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+53	nfs	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+54	Alwqt	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+55	y>ty	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+56	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+57	ystgrb	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+58	mn	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+59	t>jyl	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+60	zyArp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y	?
+61	$rf	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+62	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+63	Al>mArAt	NOM	pos:noun prc3:0 prc2:0 prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:f num:p stt:d cas:g enc0:0 rat:y	?
+64	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+65	thkm	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+66	ElY	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+67	-LRB-	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+68	An$gAlAt	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:p stt:c cas:n enc0:3mp_poss rat:y	?
+69	hm	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:p stt:d cas:g enc0:0 rat:na
+70	-RRB-	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+71	>w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+72	lys	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+73	h*A	NOM	pos:pron_dem prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+74	$>n	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y	?
+75	<mArAty	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y	?
+76	bHt	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:g enc0:0 rat:y	?
+77	!	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+
+1	lw	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+2	>n	PRT	pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+3	AlHkwmAt	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:p stt:d cas:a enc0:0 rat:y	?
+4	Al$mAl	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y	?
+5	>fryqyp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:a enc0:0 rat:y	?
+6	drst	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:f num:s stt:na cas:na enc0:0 rat:na	?
+7	AlmwsyqY	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:u enc0:0 rat:y	?
+8	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+9	Alrsm	NOM	pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+10	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+11	Alfnwn	NOM	pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+12	Aljmylp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+13	l	PRT	pos:part prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+14	a	VRB	pos:verb prc3:0 prc2:0 prc1:la_rc prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+15	Al$bAb	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+16	yjd	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+17	mjAl	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:a enc0:0 rat:y	?
+18	ybdE	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+19	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:3ms_pron rat:na	?
+20	h	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:s stt:d cas:u enc0:0 rat:na
+21	wlAyHs	NOM	Nil	?
+22	b	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+23	Althmy$	NOM	pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+24	wlAAntSr	NOM	Nil	?
+25	Alfn	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+26	ElY	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+27	AltTrf	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+28	kmA	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+29	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+30	>wrwbA	PROP	pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+31	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+32	>mrykA	PROP	pos:noun_prop prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+33	f	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+34	Alfn	NOM	pos:noun prc3:0 prc2:fa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y	?
+35	mE	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+36	wjwd	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+37	AldymqrATyp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+38	l	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:3mp_dobj rat:na	?
+39	hm	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:p stt:d cas:a enc0:0 rat:na
+40	Alnfws	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y	?
+41	b	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+42	Alskynp	NOM	pos:noun prc3:0 prc2:0 prc1:bi_prep prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+43	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+44	Al<bdAE	NOM	pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+45	f	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+46	lA	PRT	pos:part_neg prc3:0 prc2:fa_conj prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+47	ystEml	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+48	AlnAs	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y	?
+49	AlslAH	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y	?
+50	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+51	AltEbyr	NOM	pos:noun prc3:0 prc2:0 prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+52	En	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+53	AlrfD	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+
+1	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+2	t$jyE	NOM	pos:noun prc3:0 prc2:0 prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+3	AlktAb	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+4	*wy	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+5	Alhmm	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+6	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+7	AlvqAfp	NOM	pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+8	,	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+9	ktAb	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:n enc0:0 rat:y	?
+10	AlmHtwY	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:u enc0:0 rat:y	?
+11	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+12	Almfyd	NOM	pos:adj prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+13	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+14	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+15	twfyr	NOM	pos:noun prc3:0 prc2:wa_conj prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+16	<ntAjyp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:3mp_poss rat:y	?
+17	hm	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:m num:p stt:d cas:g enc0:0 rat:na
+18	Alfkryp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+19	>qtr	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+20	mn	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+21	>SHlb	NOM	Nil	?
+22	dwr	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+23	Aln$r	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+24	AlrfyEp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+25	AlsEy	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+26	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+27	$rA'	NOM	pos:noun prc3:0 prc2:0 prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+28	Hqwq	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:0 rat:y	?
+29	AlTbE	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y	?
+30	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+31	Alnsx	NOM	pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:a enc0:0 rat:y	?
+32	<lktrwnyA	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:a enc0:0 rat:y	?
+33	<*A	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+34	kAn	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:p vox:a mod:i gen:m num:s stt:na cas:na enc0:0 rat:na	?
+35	hnAk	NOM	pos:adv prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+36	SEwbp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:a enc0:0 rat:y	?
+37	fy	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+38	AltwASl	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+39	Al$xSy	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+40	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+41	TbAEp	NOM	pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:3fs_poss rat:y	?
+42	hA	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:na
+43	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+44	byE	NOM	pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:c cas:g enc0:3fs_poss rat:y	?
+45	hA	NOM	pos:pron prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:na
+46	mTbwEp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:g enc0:0 rat:y	?
+47	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+48	<lktrwnyA	NOM	pos:adj prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:a enc0:0 rat:y	?
+49	,	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+50	>tmnY	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:1 asp:i vox:a mod:u gen:m num:s stt:na cas:na enc0:0 rat:na	?
+51	>n	PRT	pos:conj_sub prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na	?
+52	tkwn	VRB	pos:verb prc3:0 prc2:0 prc1:0 prc0:0 per:3 asp:i vox:a mod:u gen:f num:s stt:na cas:na enc0:0 rat:na	?
+53	$bkp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:c cas:n enc0:0 rat:y	?
+54	Aljzyrp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+55	AlrA}dp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+56	fAtHp	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:f num:s stt:i cas:a enc0:0 rat:y	?
+57	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+58	h*A	NOM	pos:pron_dem prc3:0 prc2:0 prc1:li_prep prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+59	AlbAb	NOM	pos:noun prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+60	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+61	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+62	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+63	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+64	$krA	NOM	pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:a enc0:0 rat:y	?
+65	.	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+66	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+67	Alkbyr	NOM	pos:adj prc3:0 prc2:0 prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:g enc0:0 rat:y	?
+68	Alsyd	PROP	pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:n enc0:0 rat:y	?
+69	\	PNX	pos:punc prc3:na prc2:na prc1:na prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:na rat:na	?
+70	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+71	ly	PROP	pos:noun_prop prc3:0 prc2:wa_conj prc1:0 prc0:0 per:na asp:na vox:na mod:na gen:m num:s stt:i cas:u enc0:0 rat:y	?
+72	AlEmAyrp	PROP	pos:noun_prop prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:m num:s stt:d cas:u enc0:0 rat:y	?
+73	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+74	l	PRT	pos:prep prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+75	Aljzyrp	NOM	pos:noun prc3:0 prc2:wa_conj prc1:li_prep prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+76	Alkbyrp	NOM	pos:adj prc3:0 prc2:0 prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+77	w	PRT	pos:conj prc3:0 prc2:0 prc1:0 prc0:na per:na asp:na vox:na mod:na gen:na num:na stt:na cas:na enc0:0 rat:na
+78	AlsbAqp	NOM	pos:noun prc3:0 prc2:wa_conj prc1:0 prc0:Al_det per:na asp:na vox:na mod:na gen:f num:s stt:d cas:g enc0:0 rat:y	?
+

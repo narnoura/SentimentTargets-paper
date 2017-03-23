@@ -1,0 +1,147 @@
+# Unigram
+# Word features
+U00:%x[-2,0]
+U01:%x[-1,0]
+U02:%x[0,0]
+U03:%x[1,0]
+U04:%x[2,0]
+U05:%x[-1,0]/%x[0,0]
+U06:%x[0,0]/%x[1,0]
+
+# POS features (unigram & bigram POS- window of 2)
+U07:%x[-2,1]
+U08:%x[-1,1]
+U09:%x[0,1]
+U10:%x[1,1]
+U11:%x[2,1]
+U12:%x[-2,1]/%x[-1,1]
+U13:%x[-1,1]/%x[0,1]
+U14:%x[0,1]/%x[1,1]
+U15:%x[1,1]/%x[2,1]
+
+# Cluster ID
+# For low resource models, uncomment and use clusters as column #3
+#U76:%x[-2,3]
+#U77:%x[-1,3]
+#U78:%x[0,3]
+#U79:%x[1,3]
+#U80:%x[2,3]
+
+
+# For high resource models (best-linguistic)
+U76:%x[-2,10]
+U77:%x[-1,10]
+U78:%x[0,10]
+U79:%x[1,10]
+U80:%x[2,10]
+
+# For low-resource and unsegmented models, comment out what follows
+
+
+# NER
+
+#U29:%x[-4,2] 
+#U30:%x[-3,2]
+U34:%x[-2,2]
+U35:%x[-1,2]
+U36:%x[0,2]
+U37:%x[1,2]
+U38:%x[2,2]
+#U36:%x[3,2]
+#U37:%x[4,2]
+
+
+# BPC
+
+
+U39:%x[-2,3]
+U40:%x[-1,3]
+U41:%x[0,3]
+U42:%x[1,3]
+U43:%x[2,3]
+#U37:%x[-2,3]/%x[-1,3]
+#U38:%x[-1,3]/%x[0,3]
+#U39:%x[0,3]/%x[1,3]
+#U40:%x[1,3]/%x[2,3]
+
+# NER sequences before and after current word
+U44:%x[-2,2]/%x[-1,2]/%x[0,2]
+#U42:%x[-2,3]/%x[-1,3]/%x[0,3]
+U45:%x[0,2]/%x[1,2]/%x[2,2]
+#U44:%x[0,3]/%x[1,3]/%x[2,3]
+
+# BPC sequences before and after current word
+U46:%x[-2,3]/%x[-1,3]/%x[0,3]
+U47:%x[0,3]/%x[1,3]/%x[2,3]
+
+
+# Dependency features RELATION
+
+U16:%x[-2,4]
+U17:%x[-1,4]
+U18:%x[0,4]
+U19:%x[1,4]
+U20:%x[2,4]
+U21:%x[-4,4]
+U22:%x[-3,4]
+U23:%x[3,4]
+U24:%x[4,4]
+
+# Dependency features CHILD PARENT TREE
+
+
+U25:%x[-4,5] 
+U26:%x[-3,5]
+U27:%x[-2,5]
+U28:%x[-1,5]
+U29:%x[0,5]
+U30:%x[1,5]
+U31:%x[2,5]
+U32:%x[3,5]
+U33:%x[4,5]
+
+
+# Dependency features PARENT SENTIMENT
+
+U48:%x[-4,6] 
+U49:%x[-3,6]
+U50:%x[-2,6]
+U51:%x[-1,6]
+U52:%x[0,6]
+U53:%x[1,6]
+U54:%x[2,6]
+U55:%x[3,6]
+U56:%x[4,6]
+
+# Sentiment tree
+
+U61:%x[-2,7]
+U62:%x[-1,7]
+U63:%x[0,7]
+U64:%x[1,7]
+U65:%x[2,7]
+
+# MPQA subjectivity
+
+U66:%x[-2,8]
+U67:%x[-1,8]
+U68:%x[0,8]
+U69:%x[1,8]
+U70:%x[2,8]
+
+# MPQA polarity
+
+U71:%x[-2,9]
+U72:%x[-1,9]
+U73:%x[0,9]
+U74:%x[1,9]
+U75:%x[2,9]
+
+
+# ISTARGET feature 
+
+U81:%x[0,11]
+
+
+# Bigram. Use this to avoid splitting sentiment across the same target
+B

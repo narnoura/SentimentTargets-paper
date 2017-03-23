@@ -1,0 +1,43 @@
+#Run this for only target prediction
+
+outputdir=$1
+features=$2
+clusterfile=$3
+
+
+echo Output directory: $1
+echo Features: $2 
+echo Cluster file: $3
+
+echo Building feature files 
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:. main/Run in=../../../../data/arabic-finegrained/train.xml modelopt=CRF-target+sentiment  runopt=train outputdir=../experiments/$outputdir binfeat=$features  clusterfile=$clusterfile tokopt=D3
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:. main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-target+sentiment  runopt=train outputdir=../experiments/$outputdir binfeat=$features  clusterfile=$clusterfile tokopt=D3
+
+echo Running crf++
+
+cd ../../../CRF++-0.58
+
+./crf_learn  ../Sentiment\ Analysis/SentimentTargets/experiments/$outputdir/template ../Sentiment\ Analysis/SentimentTargets/experiments/$outputdir/train.raw.features $outputdir.model
+
+./crf_test  -m $outputdir.model ../Sentiment\ Analysis/SentimentTargets/experiments/$outputdir/dev.raw.features > $outputdir.out
+
+mv $outputdir.model ../Sentiment\ Analysis/SentimentTargets/experiments/$outputdir
+mv $outputdir.out ../Sentiment\ Analysis/SentimentTargets/experiments/$outputdir
+
+echo Returning to home directory 
+
+cd ../Sentiment\ Analysis/SentimentTargets/src
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:. main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-target+sentiment  runopt=test outputdir=../experiments/$outputdir binfeat=$features testfile=$outputdir.out eval=subset-overlap -allsig  clusterfile=$clusterfile  tokopt=D3 > ../experiments/$outputdir/$outputdir.subset-overlap.log
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:. main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-target+sentiment  runopt=test outputdir=../experiments/$outputdir binfeat=$features testfile=$outputdir.out eval=mention-overlap clusterfile=$clusterfile tokopt=D3 > ../experiments/$outputdir/$outputdir.mention-overlap.log
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:. main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-target+sentiment  runopt=test outputdir=../experiments/$outputdir binfeat=$features testfile=$outputdir.out eval=subset  clusterfile=$clusterfile tokopt=D3 > ../experiments/$outputdir/$outputdir.subset.log
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:. main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-target+sentiment  runopt=test outputdir=../experiments/$outputdir binfeat=$features testfile=$outputdir.out eval=overlap  clusterfile=$clusterfile tokopt=D3 > $outputdir.overlap.log
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:. main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-target+sentiment  runopt=test outputdir=../experiments/$outputdir binfeat=$features testfile=$outputdir.out eval=prop-overlap  clusterfile=$clusterfile tokopt=D3 > ../experiments/$outputdir/$outputdir.prop-match.log
+
+java  -cp ../stanford-parser-full-2015-04-20/*:../lingpipe-4.1.0/*:. main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-target+sentiment  runopt=test outputdir=../experiments/$outputdir binfeat=$features testfile=$outputdir.out eval=exact  clusterfile=$clusterfile tokopt=D3 > ../experiments/$outputdir/$outputdir.exact.log

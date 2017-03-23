@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<comments>
+  <comment comment_id="batch_5_261">
+    <text>البرادعى كشف حقيقته عندما خسر حزبه الانتخابات واعلن ان الانتخابات ليست ديموقراطيه ويريد ادخال مصر فى دوامة عنف و فوضى ليجرها الى حالة من الركود الاقتصادى لتنحنى للغرب ويعاونه فى ذلك 6 ابريل و نحن جميعا هويتها و مموليها ومسئوليتها فى احداث فوضى و تخريب .</text>
+    <targets>
+      <target indices="27" polarity="negative" term="للغرب"/>
+      <target indices="16" polarity="negative" term="دوامة عنف و فوضى"/>
+      <target indices="5" polarity="negative" term="حزبه"/>
+      <target indices="0" polarity="negative" term="البرادعى"/>
+      <target indices="31" polarity="negative" term="6 ابريل"/>
+      <target indices="22" polarity="negative" term="حالة من الركود الاقتصادى"/>
+      <target indices="41" polarity="negative" term="احداث فوضى و تخريب"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_16">
+    <text>إلى متى سينتظر العالم قبل أن يتدخل لإيقاف هذه المجازر ضد الإنسانية التي يقوم بها هذا النظام الدموي المجرم الذي لن يتوقف عن ذلك . . . لأن بقاءه دائما وابدا ارتبط بالقمع والقتل والإجرام . . . ولكن أن الأوان لأن يزول ويندحر في مزابل التاريخ</text>
+    <targets>
+      <target indices="45" polarity="negative" term="مزابل التاريخ"/>
+      <target indices="16" polarity="negative" term="النظام الدموي المجرم"/>
+      <target indices="9" polarity="negative" term="المجازر ضد الإنسانية"/>
+      <target indices="3" polarity="negative" term="العالم"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_203">
+    <text>ظلت المعارضه السودانيه طيلة الفترة الماضيه و منذ مجئ هذه الحكومه التى أوردت بلادنا موارد الهلاك تقول ولا تفعل شيئاو ربما عائد لعلاقة هذه المعارضة بهذا النظام الذى ظل يرضعها من المال العام و لما يقطع الرضاعة تولول و تحتج. و لكن هما سيان فلا خير فى معارضة تقليديه و لا فى حكومه دكتاتوريه و إن كانت بثوب مدنى</text>
+    <targets>
+      <target indices="52" polarity="negative" term="حكومه دكتاتوريه"/>
+      <target indices="9" polarity="negative" term="هذه الحكومه"/>
+      <target indices="14" polarity="negative" term="موارد الهلاك"/>
+      <target indices="36" polarity="negative" term="الرضاعة"/>
+      <target indices="57" polarity="negative" term="بثوب مدنى"/>
+      <target indices="31" polarity="negative" term="المال العام"/>
+      <target indices="23" polarity="negative" term="هذه المعارضة"/>
+      <target indices="1" polarity="negative" term="المعارضه السودانيه"/>
+      <target indices="25" polarity="negative" term="بهذا النظام"/>
+      <target indices="47" polarity="negative" term="معارضة تقليديه"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_74">
+    <text>أعلي درجة حرارة مسجلة في منطقة العزيزية في ليبيا و هي بالضبط 57.7 درجة مئوية يوم 13 سبتمبر سنة 1913 و للعلم درجات الحرارة التي ترصد و تذكر في نشرات الاحوال الجوية تسجل في الظل و ليس في الشمس !. المصدر موسوعة الويكيبيديا</text>
+    <targets/>
+  </comment>
+  <comment comment_id="batch_3_67">
+    <text>تعتمد صناعة هذه الصواريخ الطائفية على تحفيز عناصر التخلّف و تخصيب يورانيوم الجهل المركب ، بحيث تنخفض نسبة المعرفة إلى أقل من 10% ،هذه المادة الخام التي ما زالت متوفرة بغزارة في الكثير من مناجم العقول العربية البكر التي لم تُستخدم حتى الآن لتحافظ هذه العقول على عذريتها ،بالرغم من تقدم الحضارة بطلبات كثيرة للزواج ...... ولكن عبثاً .</text>
+    <targets>
+      <target indices="3" polarity="negative" term="الصواريخ الطائفية"/>
+      <target indices="7" polarity="negative" term="عناصر التخلّف"/>
+      <target indices="17" polarity="negative" term="نسبة المعرفة"/>
+      <target indices="50" polarity="undetermined" term="تقدم الحضارة"/>
+      <target indices="34" polarity="negative" term="مناجم العقول العربية البكر"/>
+      <target indices="11" polarity="negative" term="يورانيوم الجهل المركب"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_137">
+    <text>اعتقد ان هناك آراء و تحليلات اعلامية بحتة هي التي تعطي تفسير غير ناضج لوقائع روتينية. اذا كان الكاتب يقول انه لا يحق للسعودية او الامارات (لانه شأن مصري بحت) طلب عدم محاكمة مبارك (وهو الامر الذي نفته الدولتان) في نفس الوقت يأتي و يستغرب من تاجيل زيارة شرف للامارات و تهكم على (انشغالاتهم) او ليس هذا شأن اماراتي بحت!</text>
+    <targets>
+      <target indices="3" polarity="negative" term="آراء و تحليلات اعلامية"/>
+      <target indices="18" polarity="negative" term="الكاتب"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_142">
+    <text>لو ان الحكومات الشمال افريقية درست الموسيقي والرسم والفنون الجميلة لكان الشباب يجد مجال يبدع فيه ولايحس بالتهميش ولاانتصر الفن علي التطرف كما في اوروبا وامريكا فالفن مع وجود الديمقراطية يلهم النفوس بالسكينة والابداع فلا يستعمل الناس السلاح للتعبير عن الرفض</text>
+    <targets>
+      <target indices="6" polarity="positive" term="الموسيقي والرسم والفنون الجميلة"/>
+      <target indices="24" polarity="positive" term="اوروبا وامريكا"/>
+      <target indices="2" polarity="negative" term="الحكومات الشمال افريقية"/>
+      <target indices="29" polarity="positive" term="الديمقراطية"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_134">
+    <text>لتشجيع الكتاب ذوى الهمم والثقافة، كتاب المحتوى والمفيد ولتوفير إنتاجيتهم الفكرية أقتر من أصحلب دور النشر الرفيعة السعي لشراء حقوق الطبع والنسخ إلكترونيا إذا كان هناك صعوبة في التواصل الشخصي وطباعتها وبيعها مطبوعة وإلكترونيا ،أتمنى أن تكون شبكة الجزيرة الرائدة فاتحة لهذا الباب... وشكرا. للكبير السيد\ ولي العمايرة وللجزيرة الكبيرة والسباقة</text>
+    <targets>
+      <target indices="37" polarity="positive" term="شبكة الجزيرة الرائدة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_88">
+    <text>نوفارتيس شركة كبيرة و نشيطة و لديها محرك بحث علمي قوي جداً ، و لا أستغرب أن تتوصل لعلاج لهذا الوباء المحير و لكن ذلك قد يحتاج لأكثر من أسبوعين على اعتبار أن السلالة الفيروسية لإنفلونزا الخنازير جديدة كلياً .</text>
+    <targets>
+      <target indices="7" polarity="positive" term="محرك بحث علمي قوي جداً"/>
+      <target indices="0" polarity="positive" term="نوفارتيس شركة كبيرة و نشيطة"/>
+      <target indices="18" polarity="undetermined" term="لعلاج لهذا الوباء المحير"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_352">
+    <text>ياسيد منير حل الدولتين ليس لحل الصراع الفلسطيني الاسرائيلي بل لحل الصراع الفلسطيني الفلسطيني وهذا مايعرفة القادة الصهاينة من يهود وعرب وامريكيين ، أما الحل الوحيد والمنطقي والواقعي واكرر الوحيد فهو في حل الدولة الواحدة الديمقراطية من خلال الحل السياسي بحقيق العودة سلميا او عسكريا</text>
+    <targets>
+      <target indices="38" polarity="positive" term="الحل السياسي"/>
+      <target indices="2" polarity="negative" term="حل الدولتين"/>
+      <target indices="19" polarity="negative" term="يهود وعرب وامريكيين"/>
+      <target indices="11" polarity="negative" term="الصراع الفلسطيني الفلسطيني"/>
+      <target indices="32" polarity="positive" term="حل الدولة الواحدة الديمقراطية"/>
+      <target indices="24" polarity="positive" term="الحل الوحيد والمنطقي والواقعي"/>
+      <target indices="16" polarity="negative" term="القادة الصهاينة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_112">
+    <text>على الجيش الحر البطال الغيارا بتصفيت هاولاء المجرمين اليرانيين الذينة جاؤي لقتل الشعب السوري البريء عليهم بقتلهم واحد واحد وارسالهم ليران هديه للملالي في ايران حتا يصير عبره للفرس المجوس الطامعين الذينة يبعون انفسهم من اجل يقلون الابرياء من الشعب السوري</text>
+    <targets>
+      <target indices="12,39" polarity="undetermined" term="الشعب السوري"/>
+      <target indices="1" polarity="positive" term="الجيش الحر"/>
+      <target indices="37" polarity="positive" term="الابرياء"/>
+      <target indices="7" polarity="negative" term="المجرمين اليرانيين"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_120">
+    <text>نتفهم موقف اسرائيل انة نابع من موقف القوه ، ولكن ايت قوه ، هذه القوة معتمده على موقف مصر التى تصر على اغلاق المعبر وكان الجندى مصرى وليس اسرائيلى ووتحالف مع اسرائيل وبوضح النهار ضد المسلمون ، كفى يا مصر كفى ، وين الشعب المصرى الشريف من هذه المهزله</text>
+    <targets>
+      <target indices="25" polarity="negative" term="الجندى مصرى"/>
+      <target indices="43" polarity="positive" term="الشعب المصرى الشريف"/>
+      <target indices="1" polarity="undetermined" term="موقف اسرائيل"/>
+      <target indices="25" polarity="negative" term="الجندى مصرى وليس اسرائيلى"/>
+      <target indices="14" polarity="negative" term="القوة معتمده على موقف مصر"/>
+      <target indices="38" polarity="negative" term="يا مصر"/>
+      <target indices="22" polarity="negative" term="اغلاق المعبر"/>
+      <target indices="17" polarity="negative" term="موقف مصر"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_32">
+    <text>تعتبر ماليزيا الدولة الأكثر نجاحا في جنوب شرق آسيا ، و نجاحها الاقتصادي امتدّ الى المناحي الأخرى للحياة في ماليزيا ، فتحسنت الخدمات المقدمة للمواطنين ، و ارتفعت جودة الخدمات الصحية و التعليمية و الاجتماعية و المالية و السياحية و غيرها ، مما جعلها وجهة ممتازة للمستثمرين الأجانب ، و أرضا خصبة للإستثمارات الناجحة ، و الله أعلم</text>
+    <targets>
+      <target indices="1" polarity="positive" term="ماليزيا الدولة الأكثر نجاحا"/>
+      <target indices="1,19" polarity="positive" term="ماليزيا"/>
+      <target indices="22" polarity="positive" term="الخدمات المقدمة للمواطنين"/>
+      <target indices="50" polarity="positive" term="أرضا خصبة"/>
+      <target indices="15" polarity="positive" term="المناحي الأخرى للحياة في ماليزيا"/>
+      <target indices="28" polarity="positive" term="جودة الخدمات الصحية و التعليمية و الاجتماعية و المالية و السياحية"/>
+      <target indices="52" polarity="positive" term="للإستثمارات الناجحة"/>
+      <target indices="17" polarity="positive" term="للحياة في ماليزيا"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_146">
+    <text>قبل المطالبة بالتدريس باللغة العربية من يستطيع ان يقول لي كم من الكتب التي تمت ترجمتها من اللغة الانجليزية او لغات اجنبية اخرى الى اللغة العربية!!! الاتجاه الصحيح هو ملئ المكتبة العربية بترجمة الكتب العلمية والمراجع المختلفة لمختلف التخصصات اولا ومن ثم التفكير في تدريس كافة العلوم باللغة العربية، فعلى الدول العربية مواكبة التطور وتسارع في اعداد الترجمات اولا وشكرا</text>
+    <targets>
+      <target indices="12" polarity="negative" term="الكتب التي تمت ترجمتها من اللغة الانجليزية او لغات اجنبية اخرى"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_35">
+    <text>الى التعليق رقم 2 اكيد ان لحكام العرب والمسلمين مسؤولية يتمثل ادناها في استدعاء السفراء في الصين للتشاور . فليتهم يفعلونها ولو مرة . ولنا نحن كشعوب مسؤولية كذالك تتمثل في مساندة اخواننا في الصين بمقاطعة البضائع الصينينة وليتنا نفعلها ولو ثلاتة اشهر .</text>
+    <targets>
+      <target indices="36" polarity="negative" term="البضائع الصينينة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_156">
+    <text>اني عمري سنتين ونص واعشق الريال مدريد والفاف الف مبروووووك لاسود الملكي الدوري والكاس  والكاس اوربا للريال انشاء الله وخلى يجيبون بدل فكتور فالدز علي الحبسي احسنلهم برشلونه وبدل ريكاردو عدنان حمد مدرب منتخب العراق السابق وبعد انتهى رونالدينو وايتو يا برشا اتعلمو من استاذكم وتاج راسكم الريال والف تحيه للمدرب الماني القدير سوشتر</text>
+    <targets>
+      <target indices="10" polarity="positive" term="لاسود الملكي"/>
+      <target indices="24" polarity="positive" term="علي الحبسي"/>
+      <target indices="38" polarity="undetermined" term="رونالدينو وايتو"/>
+      <target indices="5" polarity="positive" term="الريال مدريد"/>
+      <target indices="50" polarity="positive" term="للمدرب الماني القدير سوشتر"/>
+      <target indices="27" polarity="negative" term="برشلونه"/>
+      <target indices="30" polarity="positive" term="عدنان حمد مدرب منتخب العراق السابق"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_38">
+    <text>إلى المدعو عبده،،، كندا .كذبت فيما قلت وما السطحي غيرك،إنك تحرض ضد إيران ،كن يقضاً ودع عنك الإشاعات ،فوا لله ما غاية إيران إلا تحرير الشعوب العربية،من حكامهم المستبدون وأسيادهم الصهاينة الذين لايترددون في خلق الفتن بين المسلمين.ياعبده كن حراً في تفكيرك،ولأتقلد وتدعي المعرفة في التاريخ،والجغرافيا،قبل أن تسبر غور الحقيقة.</text>
+    <targets>
+      <target indices="21" polarity="positive" term="غاية إيران"/>
+      <target indices="12,22" polarity="positive" term="إيران"/>
+      <target indices="1" polarity="negative" term="المدعو عبده،،، كندا"/>
+      <target indices="27" polarity="negative" term="حكامهم المستبدون وأسيادهم الصهاينة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_58">
+    <text>اللهم أنت حرمت الظلم على نفسك وأقررت وجعلته بين عبادك محرما . فندعوك يا من وعدك حق وقولك حق أن تقف في وجه من خالف قدرتك واخترق نفاذ أمرك وتجرأ عليك يا االله . أرنا اللهم حمايتك لكلماتك وغيرتك على حرماتك وانتقامك لعبادك الآن الآن الآن .</text>
+    <targets>
+      <target indices="3" polarity="undetermined" term="الظلم"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_18">
+    <text>هذه ليست كرة قدم هذه سمفونية موسيقية عالية المستوى من أقدام لا عبين مهرة وموهبين .. هولندا تكشر عن أنيابها القوية التى ستمزق أى فريق فى البطولة .. الآن كنا نشجع هولندا لأننا نحب ونشجع اللعب الجميل.. إذا لم تظهر إنتكاسة فى الفريق سيصبح بلاشك المرشح الأوفر للبطولة وهو يستحقها بهذه العروض القوية .</text>
+    <targets>
+      <target indices="45" polarity="positive" term="المرشح الأوفر للبطولة"/>
+      <target indices="47" polarity="undetermined" term="للبطولة"/>
+      <target indices="2" polarity="positive" term="كرة قدم"/>
+      <target indices="16,31" polarity="positive" term="هولندا"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_104">
+    <text>اتعجب بأنه هناك اقتتال بين الجيش والجيش المنشق في الرستن . احلف بالله وبأعز ما عندي لا توجد اي معركة ولا طلقة ولا رصاصة حدثت لا اليوم ولا امس ولا قبلو ولا قبل قبلو . الجو هنا هادئ وجميل والناس عايشة بهدوء وسلام .</text>
+    <targets/>
+  </comment>
+  <comment comment_id="batch_2_138">
+    <text>ماذا فعل ميسي حتى ياخذها ؟؟؟؟ كاس العالم ولا هدف  فقط بطولة الدوري الاسباني ودعاية كنتاكي ودعاية بيبسي  ؟؟؟ يعني من اصبح يعمل دعايات اكثر هو الذي ياخذها بصراحه   شنايدر يستحقها ميسي لاعب اقل من عادي عندما يقابل فرق كبييييره ماذا فعل امام الانتر السنه الماضيه وماذا فعل مع المنتخب الارجنتيني السنه الماضيه لاشيئ</text>
+    <targets>
+      <target indices="2,31" polarity="negative" term="ميسي"/>
+      <target indices="29" polarity="positive" term="شنايدر"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_53">
+    <text>كما لا يجب أن ننسى أن سبب انتشار اللغة الفرنسية و حتى الإنجليزية هو كون هاتين لغات العلم وهذا مايفسر انتشارهما وإذا لم تصبح اللغة العربية لغة العلم و لم تنمى الروح الوطنية لدى مواطيننا للإعتزاز بلغتهم فسنظل نعاني من هذا الغزو اللغوي الأجنبي. 5)</text>
+    <targets>
+      <target indices="15" polarity="positive" term="هاتين لغات العلم"/>
+      <target indices="7" polarity="undetermined" term="انتشار اللغة الفرنسية"/>
+      <target indices="41" polarity="negative" term="الغزو اللغوي الأجنبي."/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_164">
+    <text>السل مرض الفقراء لانه يصيب بالضرورة دوي المناعة الضعيفة ويعتبر شديد الخطورة بعد فيروس اتش اي في الايدز وفيروسا اتش بي و اتش سي التهاب الكبد التشمعي.وخطورة السل تتمثل في انتقال العدوى عبر الهواء المحيط بالمصاب اضافة الى طول فترة العلاج اليومي التي تصل ل9 اشهر على الاقل فما بالك بالشكل المقاوم سيكون قتل ولا شك...</text>
+    <targets>
+      <target indices="0" polarity="negative" term="السل مرض الفقراء"/>
+      <target indices="38" polarity="negative" term="طول فترة العلاج اليومي"/>
+      <target indices="13" polarity="negative" term="فيروس اتش اي في الايدز"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_149">
+    <text>يبدو ان هذا البرنامج الرائع سيحافظ على خصوصية الكثير من الناس و يسهل العثور على الحواسيب المحمولة المسروقة و سيهل العثور على كثير من العصابات التي تحاول سرقة الحواسيب المحمولة و الكاميرات و الهواتف النقالة .. لذا فنحن ننتظر ان ينزل هذا البنامج الى السوق العربية و الاماراتية خاصة قريبا جدا و ان تنزل مثل هذه البرامج المفيدة للمجتمع بأسره.</text>
+    <targets>
+      <target indices="2" polarity="positive" term="هذا البرنامج الرائع"/>
+      <target indices="24" polarity="negative" term="العصابات التي تحاول سرقة الحواسيب المحمولة و الكاميرات و الهواتف النقالة"/>
+      <target indices="7" polarity="positive" term="خصوصية الكثير من الناس"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_150">
+    <text>السلطه الفلسطينيه فأسده ولا تومن علي  شىء ولد وجب أن لا يصرف أو يعطى لها شىء،وأنا كليبي أطلب من الحكومة الليبيه مقاطعه هده السلطه الفاسده لانها وصمة عار لتورة ١٧ فبراير،وباريت يغلق سفارتها في ليبيا،لان ضررها اكتر من نفعها،لا يستقيم الظل والعود اعوج.</text>
+    <targets>
+      <target indices="0" polarity="negative" term="السلطه الفلسطينيه فأسده"/>
+      <target indices="23" polarity="negative" term="السلطه الفاسده"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_93">
+    <text>مبارك للشبيبة الفوز و حظ أوفر للأهلي في خرجاته المقبلة.كانت مباراة صعبة تميزت بالسيطرة الجزائرية في الشوط الأول و أثمرت الهدف الوحيد أما في الشوط الثاني فقد برزت عودة الأهلي بهجوماته الخطيرة للعودة في اللقاء.ألف تحية للنجم الخلوق أبو تريكة الذي كسب محبة الجماهير الجزائرية و أصبح النجم المصري رقم1.</text>
+    <targets>
+      <target indices="1" polarity="positive" term="للشبيبة"/>
+      <target indices="16" polarity="positive" term="الشوط الأول"/>
+      <target indices="13" polarity="undetermined" term="بالسيطرة الجزائرية"/>
+      <target indices="10" polarity="positive" term="مباراة صعبة"/>
+      <target indices="36" polarity="positive" term="للنجم الخلوق أبو تريكة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_299">
+    <text>السيناريو السوري مستبعد لان السودان لا يوجد فيه علويين والحمد لله ، ولا يوجد "" شبيحة "" في السودان . السيناريو الليبي هو الاقرب ، ومن المتوقع أن تستخدم روسيا والصين الفيتو لحماية "" نظام البشير "" ، ولكن الناتو لن يهتم بأي فيتو ، وسوف يتدخل لان السودان لا يوجد له حدود مع أسرائيل مثل سوريا!!</text>
+    <targets>
+      <target indices="8" polarity="negative" term="علويين"/>
+      <target indices="15" polarity="negative" term="شبيحة"/>
+      <target indices="0" polarity="negative" term="السيناريو السوري"/>
+      <target indices="29" polarity="negative" term="روسيا والصين"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_96">
+    <text>بدأ التصويت للإنفصال بالنسبة للجنوبيين وبدأت رغبتنا كشماليين فى إنتظار هذا اليوم السعيد حتى ننزل من أكتافنا هذا الحمل الثقيل الذى يسمى بالمواظن الجنوبى إن كان هم يعتقدون أننا عآله عليهم فنحسبهم نحن عآلة علينا من زمان والآن سيصبحون عآلة على القارة الأفريقية وربنا يسترنا من مصائبهم اللهم آمين</text>
+    <targets>
+      <target indices="39" polarity="negative" term="عآلة على القارة الأفريقية"/>
+      <target indices="18" polarity="negative" term="الحمل الثقيل"/>
+      <target indices="10" polarity="positive" term="هذا اليوم السعيد"/>
+      <target indices="1" polarity="positive" term="التصويت للإنفصال"/>
+      <target indices="6" polarity="positive" term="رغبتنا كشماليين"/>
+      <target indices="22" polarity="negative" term="بالمواظن الجنوبى"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_145">
+    <text>اعتقد ان الشركات التي تصمم برامج مكافحة الفيروسات هي نفسها التى تصصم الفيروس الذي يصيب الكمبيوتر وبعد انتشار الفيروس تقوم الشركة باصدار تحديث لبرامجها حتى تقضى على الفيروس وطبعا كلنا عارفين ليه لمزيد من الربح والمكاسب وكله ضحك على الدقون وسلم لى على الفيروسات</text>
+    <targets>
+      <target indices="2" polarity="negative" term="الشركات التي تصمم برامج مكافحة الفيروسات"/>
+      <target indices="7,43" polarity="negative" term="الفيروسات"/>
+      <target indices="12" polarity="negative" term="الفيروس الذي يصيب الكمبيوتر"/>
+      <target indices="5" polarity="negative" term="برامج مكافحة الفيروسات"/>
+      <target indices="17" polarity="negative" term="انتشار الفيروس"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_186">
+    <text>السلام عليكم و رحمة الله و بركاته ألف ألف ألف مبروك تأهل المنتخب المصري الأولمبي الشقيق لكرة القدم إلى دورة الألعاب الأولمبية لندن 2012م للمرة الثانية عشرة في تاريخه و عودته إلى هذه البطولة بعد غياب دام 20 عام و شكراً لسعة صدركم و شكراً</text>
+    <targets>
+      <target indices="33" polarity="positive" term="البطولة"/>
+      <target indices="12" polarity="positive" term="المنتخب المصري الأولمبي الشقيق لكرة القدم"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_61">
+    <text>تحذير من إصابة 50% البشر على وجه الارض بإنفلونزا الخنازير .. حذر جهاز صحي تابع للاتحاد الأوروبي من احتمال إصابة نصف البشرية بالفيروس المسبب لإنفلونزا الخنازير التي ما زالت تتفشى في عدة دول، في حين قررت الولايات المتحدة خفض الرحلات الجوية إلى المكسيك، أما الصين فعلقت جميع رحلاتها للمكسيك.</text>
+    <targets>
+      <target indices="4" polarity="negative" term="البشر على وجه الارض"/>
+      <target indices="20" polarity="negative" term="نصف البشرية"/>
+      <target indices="22" polarity="negative" term="بالفيروس المسبب لإنفلونزا الخنازير"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_285">
+    <text>ايها المسلمون انكم ميتون ميتون هادنتموهم ميتون.قاتلتموهم ميتون فليكن موتة الشرفاء ادن احملو السلاح و ههيا للقتال بالاسم الله النصر ات و باذن الله تقوم الساعة فيا من أضلتهم الدنيا استيقظو فقد اقتربت اقتربت اقتربتاقتربت اقتربت اقتربت اقتربت اقتربت الساعة</text>
+    <targets>
+      <target indices="9" polarity="positive" term="موتة الشرفاء"/>
+      <target indices="13" polarity="positive" term="السلاح"/>
+      <target indices="0" polarity="positive" term="ايها المسلمون"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_166">
+    <text>حبيت اولا اقدم تحية للجميع للموضوع الرائع على قضية دامت اكثر من ثمان وخمسين عام سياسة الاحتلال فرق تسد الاخ صلاح البشتاوي الحثد لدى العزاوي زي ما تفضلت هذا على ابن الضفة الي زرعها النظام الاردني الحاكم مش متصله لا عند هذا ولا ذاك</text>
+    <targets>
+      <target indices="15" polarity="negative" term="سياسة الاحتلال"/>
+      <target indices="34" polarity="negative" term="النظام الاردني الحاكم"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_149">
+    <text>انا من مشجعي ريال مدريد بس بحب اقول رايي بصراحة المواسم الماضية كان برشلونة افضل من ريال مدريد بس  الموسم الحالي انا في رايي انو ريال مدريد افضل فريق في العالم ويستحق التتويج بالالقاب  واذا لم يحصل عليها هذا الموسم فلن يحصل عليها ابدا لانه لن يحصل على فريق مماثل لما عنده الان</text>
+    <targets>
+      <target indices="13" polarity="positive" term="برشلونة"/>
+      <target indices="3,16,25" polarity="positive" term="ريال مدريد"/>
+      <target indices="38" polarity="positive" term="هذا الموسم"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_252">
+    <text>الكثير من العراقيين هنا في اوربا اصبحوا رؤساء جامعات مفتوحه على الانترنت وهم يدعوان بانهم اصحاب شهادات عليا ومستواهم العلمي لايزيد على هذا الرجل بشيء...بل ان بعضهم عمل سابقا في الدول العربيه بنفس شهاداتهم التي يحملها الان....اذا كان عند الالمان واحد...فعندنا المئات...وشكرا</text>
+    <targets>
+      <target indices="0" polarity="negative" term="الكثير من العراقيين"/>
+      <target indices="22" polarity="negative" term="هذا الرجل"/>
+      <target indices="15" polarity="negative" term="اصحاب شهادات عليا"/>
+      <target indices="32" polarity="undetermined" term="بنفس شهاداتهم"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_71">
+    <text>على جميع السواح الذاهبين الى مصر ان ياخذوا معهم ماء صحي احسن ما يشربوا ماء الصرف الصحي خوفا من مرض البلهارسيا والاميبا المنتشر اضافه الى اننا نرجوا من الجميع التطيم ضد انفلونزا الجواميس او الخنازير وبجميع الامصال اللازمه خوفا على سلامتكم وصحتكم من كل الامراض المنتشره خاصه الايدز المنتشر في منتجعات شرم الشيخ المملوكه للمستثمرين اليهود وغيرهم</text>
+    <targets>
+      <target indices="19" polarity="negative" term="مرض البلهارسيا والاميبا"/>
+      <target indices="31" polarity="negative" term="انفلونزا الجواميس او الخنازير"/>
+      <target indices="14" polarity="negative" term="ماء الصرف الصحي"/>
+      <target indices="50" polarity="negative" term="منتجعات شرم الشيخ المملوكه للمستثمرين اليهود وغيرهم"/>
+      <target indices="44" polarity="negative" term="الامراض المنتشره"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_68">
+    <text>في البداية ندعو بكل التوفيق للكرة العربية الجزائرية ولكن يجب ان نتعلم من اخطاء الماضي حيث لايوجد حالياَ فريق صغير وكبير بل يوجد فريق مثابر يعطي الكرة والكرة تعطيه وانا في رايي ان المجموعة الثالثة صعبة جدا على الجزائر واتوقع ان تصعد وانجلترا وسلوفينيا من هذه المجموعة لما قدموه من عروض قويه في التصفيات (راي فني لا عاطفي)</text>
+    <targets>
+      <target indices="5" polarity="positive" term="للكرة العربية الجزائرية"/>
+      <target indices="42" polarity="positive" term="وانجلترا وسلوفينيا"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_136">
+    <text>ماشهدته اليمن على مدى العام المنصرم من مماطلات طويله بين الرئيس اليمني ومعارضيه يدل على أن المعارضه عجزت عن معالجه الأزمه من جهتها حيث أنها لم تفهم بأن الرئيس ومماطلته في التنحي إنما هو خوف على مستقبل أولاده وأولاد أخيه فكان الأولى بالمعارضه الكشف عن لعبه الرئيس من أجل خلق الحل المرضي وإنهاء الأزمه التي أنهكت البلاد</text>
+    <targets>
+      <target indices="1" polarity="negative" term="اليمن"/>
+      <target indices="16" polarity="negative" term="المعارضه"/>
+      <target indices="10" polarity="negative" term="الرئيس اليمني"/>
+      <target indices="20,53" polarity="negative" term="الأزمه"/>
+      <target indices="56" polarity="negative" term="البلاد"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_15">
+    <text>السلام عليكم انا من الجزائر من مدينة وهران و سوف اعلق على هدا الامر لخسارة المنتخب الجزائري امام سلوفينيا 0/1 و المتسبب لخسارة المنتخب الوطني هو الاعب رقم 9 هو غزال الدي دخل في مكان المهاجم جبور و ايضا خطا لسعدان من عدم ادخال بودبوز وان شاء الله الفوز على المنتخب انجليزي و انشاء الله تعود مثل كأس افريقيا</text>
+    <targets>
+      <target indices="40" polarity="negative" term="لسعدان"/>
+      <target indices="26" polarity="positive" term="الاعب رقم 9 هو غزال"/>
+      <target indices="34" polarity="positive" term="مكان المهاجم جبور"/>
+      <target indices="50" polarity="undetermined" term="المنتخب انجليزي"/>
+      <target indices="15" polarity="undetermined" term="المنتخب الجزائري"/>
+      <target indices="14" polarity="undetermined" term="لخسارة المنتخب الجزائري"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_28">
+    <text>قال رسول الله صلي الله عليه وسلم ( الذي أنزل الداء أنزل الدواء علمه من علمه وجهله من جهله ) هناك علاج عشبي فعال لجميع أنواع السرطان شرط أن المريض لم يستخدم علاج كيماوي لأنه يتلف الخلايا الحية ويزيد في الخلايا الميتة هاتف 00249122873276 أو 00249915067998 العلاج متوفر بأذن الله وليس فيه أعراض جانبية</text>
+    <targets>
+      <target indices="12" polarity="positive" term="الدواء"/>
+      <target indices="8" polarity="positive" term="الذي أنزل الداء"/>
+      <target indices="32" polarity="negative" term="علاج كيماوي"/>
+      <target indices="40" polarity="negative" term="الخلايا الميتة"/>
+      <target indices="26" polarity="negative" term="السرطان"/>
+      <target indices="21" polarity="positive" term="علاج عشبي"/>
+      <target indices="1" polarity="positive" term="رسول الله صلي الله عليه وسلم"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_180">
+    <text>شكرا على الموصوع ، و نشكر الجزيرة على عرض كا ما هو جديد في عالم تكنولوجيا المعلومات ، و نتمنى من شركة مايكروسوفت الاهتمام اكثر باللغة العربية في منتجاتها ، لتنعم العائلة العربية و تستفيد الاستفادة الكاملة من هذه المنتجات الجميلة و المفيدة</text>
+    <targets>
+      <target indices="2" polarity="positive" term="الموصوع"/>
+      <target indices="39" polarity="positive" term="المنتجات الجميلة و المفيدة"/>
+      <target indices="6" polarity="positive" term="الجزيرة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_212">
+    <text>جماعة الاخوان المسلمين هي الابن البار للحكومات الاردنيه المتعاقبه و لكن الحكومه و الجماعه تعمل هذه المسرحيات لشد الناخب الاردني نحو الاخوان الذين لا يسمنون ولا يغنون في شيء. بل يختفون خلف اللحي والعباءات و يستثمرون الدين في مصالحهم الحزبيه .</text>
+    <targets>
+      <target indices="16" polarity="negative" term="المسرحيات"/>
+      <target indices="32" polarity="negative" term="اللحي والعباءات"/>
+      <target indices="11" polarity="negative" term="الحكومه و الجماعه"/>
+      <target indices="4" polarity="negative" term="الابن البار للحكومات الاردنيه المتعاقبه"/>
+      <target indices="0" polarity="negative" term="جماعة الاخوان المسلمين"/>
+      <target indices="36" polarity="negative" term="الدين"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_166">
+    <text>اللهم انصر الشعب السوري الحر الابي ضد الاقصائين من النظام والكل يعرف بتهديد الموظفين والناس خرجت هذه المظاهره كما هو الحال قبل ليله من سقوط القذافي وكذلك قبل سقوط صدام لان هذه الدول دكتاتوريه متخلفه قديمه الحريه لديهم معناه الخيانه</text>
+    <targets>
+      <target indices="17" polarity="negative" term="المظاهره"/>
+      <target indices="2" polarity="positive" term="الشعب السوري الحر"/>
+      <target indices="28" polarity="negative" term="سقوط صدام"/>
+      <target indices="7" polarity="negative" term="الاقصائين"/>
+      <target indices="9" polarity="negative" term="النظام"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_293">
+    <text>الحمد لله الملك القدوس الواحد القهار كيف تتحدث دولة عن أحقيته بالجزر وهي ليس بالكاد أن تتخذ قرار سديد في إستراتيجياتها الدفاعية العلم يحتفل يالإستغلال عن الإحتلال واخرى تدعو وترحب باللإحتلا والإستعمار من العايدين وكل عام وانتم تتخذون قرار وجيه مثل هذا القرار</text>
+    <targets>
+      <target indices="10" polarity="negative" term="أحقيته بالجزر"/>
+      <target indices="8" polarity="negative" term="دولة"/>
+      <target indices="24" polarity="positive" term="يالإستغلال عن الإحتلال"/>
+      <target indices="0" polarity="positive" term="الحمد لله الملك القدوس الواحد القهار"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_188">
+    <text>..ولكن النظام الغذائي غير الصحي أو مرض قد يؤدي إلى نقص. إذا كان جسمك هو نقص في الفيتامينات، هل يمكن تطوير فقر الدم، وهو مرض في الجسم التي لا تملك ما يكفي صحية خلايا الدم الحمراء. في كثير من الأحيان، يمكن أن تغير في النظام الغذائي</text>
+    <targets>
+      <target indices="1,44" polarity="negative" term="النظام الغذائي"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_68">
+    <text>أو التوضيح للمشاركين الدين يتصرعون بفاعل نفسي في اتهام روسيا أو أمريكا في التضلع في الكارثة أن الطائرة منعت من الهبوط في اسمولنسك بالمطار العسكري نظرا لرداءة الجو رغم دلك حاول الطاقم الهبوط 3 مرات وعند المرة الرابعة تحطم لإنعدام الرؤية. كل التسجيلات مع الطائرة تشهد بذلك فالمرجو الإيتعاد عن الإتهامات العاطفية</text>
+    <targets/>
+  </comment>
+  <comment comment_id="batch_1_22">
+    <text>الله أكبر على كل ظالم متكبر جبار والله إن القلب ليحزن وإن العين لتدمع على ما يجري لأهلنا في سوريا فكان الله في عون أهل حمص خاصة وأهل سوريا عامة والنصر قريب بإذن الله تعالى .</text>
+    <targets>
+      <target indices="4" polarity="negative" term="ظالم متكبر جبار"/>
+      <target indices="24" polarity="positive" term="أهل حمص"/>
+      <target indices="19,28" polarity="undetermined" term="سوريا"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_151">
+    <text>هذه من منجزات (الثورة) و الأتي أعظم،، هنيئاً لكم ثورتكم،،و بعد التجارب الليبية و العراقية و المصرية و ما شاهدناه من دمار و قتل و إستعمار،، نحن في سوريا لا نريد ثورة الفوضة الخلاقة الأميركية. نريد سوريا الأمن و الأمان و العروبة الصادقة.</text>
+    <targets>
+      <target indices="2" polarity="negative" term="مqنجزات (الثورة)"/>
+      <target indices="11" polarity="negative" term="التجارب الليبية و العراقية و المصرية"/>
+      <target indices="36" polarity="positive" term="سوريا الأمن و الأمان"/>
+      <target indices="36" polarity="positive" term="سوريا الأمن"/>
+      <target indices="36" polarity="positive" term="سوريا الأمن و الأمان و العروبة الصادقة."/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_362">
+    <text>ليس من العدل فى شئ ان نبخس حق دول الخليج التى ساعدت ( و مازالت ) تساعد مصر و الدول العربية و الأسلامية ..و المفروض على الحكومة المصرية الحالية ان تؤكد لهم أننا معهم ضد التدخلات الايرانية فى بلادهم .</text>
+    <targets>
+      <target indices="35" polarity="negative" term="التدخلات الايرانية"/>
+      <target indices="7" polarity="positive" term="حق دول الخليج"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_73">
+    <text>تعليقات التي تنشر الكرة و اطائفيه مثل تعليق رقم واحد هؤلاء فاقدين الانسانية و روح الاسلام في قلوبهم . لا يهمة مسألة قصف المنازل بطائرات و ينظر لذبح الاطفال و النساء على انها رجولة . ما انتن رائحة العفن الذي ينبعث من هؤلاء الذين يريدون الفساد في الارض</text>
+    <targets>
+      <target indices="22" polarity="negative" term="قصف المنازل"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_353">
+    <text>الغيرة موجودة بين الأنظمة العربية من زمان ودي مش أول مرة يخيبوا ظننا لكن هذا لا يمس حب المصريين لكل الشعوب العربية التي لا علاقة لها بالسياسة وأيا كان انتماؤه، وإني على يقين من أن مصر سوف تنهض بفضل الله لا بفضل أموال الخليج</text>
+    <targets>
+      <target indices="35" polarity="positive" term="مصر"/>
+      <target indices="0" polarity="negative" term="الغيرة موجودة"/>
+      <target indices="20" polarity="positive" term="الشعوب العربية"/>
+      <target indices="17" polarity="positive" term="حب المصريين"/>
+      <target indices="3" polarity="negative" term="الأنظمة العربية"/>
+      <target indices="41" polarity="negative" term="بفضل أموال الخليج"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_177">
+    <text>ولد ستيفن بول وظائف 24 فبراير 1955، في سان فرانسيسكو لجوان سمبسون،طالبة دراسات عليا غير متزوجة ، وعبد الفتاح جندلي، وهو طالب دراسات عليا من حمص الحبيبة. سيمبسون أعطت جوبز للتبني، على الرغم من زواجها من عبد الفتاح جندلي وبعد سنوات قليلة كان الطفل الثاني معه ، منى سيمبسون ، الذي أصبحت الروائية المشهورة</text>
+    <targets>
+      <target indices="25" polarity="positive" term="حمص"/>
+      <target indices="25" polarity="positive" term="حمص الحبيبة."/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_174">
+    <text>لكل الذين يفقون مع هذا النظام البائد اسال الله العلي العظيم ان ينتقم من كل من قتل شعبه وقتل اطفال شعبه و كل من سانده قي الفعل او بالراي ، الثوره السوريه مستمره باذن الله حتى احقاق الحق اسقاط البغاه المجرمين</text>
+    <targets>
+      <target indices="5" polarity="negative" term="النظام البائد"/>
+      <target indices="30" polarity="positive" term="الثوره السوريه"/>
+      <target indices="15" polarity="negative" term="من قتل شعبه"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_23">
+    <text>طلب حسني مبارك أن يتم تصميم  طابع بريدي يحمل صورته لتسجيل انتصاراته أثناء الإجتياح الإسرائيلي لقطاع غزة..وأكدّ على مجلس الشعب ،ضرورة أن يواكب الطابع البريدي المواصفات العالمية في  الجودة، وطبعاً الطباعة على كلفة السعودية ...تمّ تصميم وطباعة الطابع وتوزيعه على مكاتب الخدمات البريدية في مصر، فعادت الأخبار بعد أيام أن الطابع لا يلتصأ</text>
+    <targets>
+      <target indices="1" polarity="negative" term="حسني مبارك"/>
+      <target indices="32" polarity="negative" term="كلفة السعودية"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_94">
+    <text>يا ريت من الناس اللي عم يعملوا دعاية للمسيرة المؤيدة يتقوا الله وضميرهم عقوبات جماعية للمدن المحتجة قطع كهربا وماء وتعذيب وقصف بيوت وتنكيل ولكن يؤسفني اني ابشركم بفشل وخيبة أمل بالدنيا وعذاب جهنم بالأخرة لانكم تحمون ظهور القتلة . . . سيلعنكم التاريخ والناس مع قادتكم المرعبين المقاومين الممانعين . . .</text>
+    <targets>
+      <target indices="8" polarity="negative" term="للمسيرة المؤيدة"/>
+      <target indices="46" polarity="negative" term="قادتكم المرعبين المقاومين الممانعين"/>
+      <target indices="37" polarity="negative" term="ظهور القتلة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_19">
+    <text>ان الانتخابات الرئاسية حاسمة ومصيرية بالنسبة لنا كجزائريين يبحثون على امن واستقرار وازدهار بلادهم فلنلاحظ كم من المنشات انجزت وتقلصت البطالة كما ان المديونية الخارجية سددت قبل اجالهاوكل هذا بتاطير الحكومة الحالية حفظها الله وأدامها وأدامها ومن يريد ان يرجع البلاد الى التسعينيات بمقاطعته للانتخابات فلن يستطيع</text>
+    <targets>
+      <target indices="1" polarity="undetermined" term="الانتخابات الرئاسية حاسمة ومصيرية"/>
+      <target indices="30" polarity="positive" term="الحكومة الحالية"/>
+      <target indices="42" polarity="negative" term="التسعينيات"/>
+      <target indices="23" polarity="negative" term="المديونية الخارجية"/>
+      <target indices="10" polarity="positive" term="امن واستقرار وازدهار بلادهم"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_35">
+    <text>الفيزياء هي علم وصف الطبيعة ويحتاج المرء لذلك لمستوى رفيع من اللغة الأدبية التي تعبر عن الأفكار العميقة التي تليق بوصف ما خلقه الله في ملكوت السماوات و الأرض كما يحتاج إلى معرفة بلغة الرياضيات لتلخيص أفكاره ونثره وشعره برموز تسمح له بالاستنتاج و الاستقراءوالتوقع وربط أحداث الطبيعةبخيوط التعقل والتحليل و التركيب و الشعور.</text>
+    <targets>
+      <target indices="16" polarity="positive" term="الأفكار العميقة"/>
+      <target indices="21" polarity="positive" term="ما خلقه الله في ملكوت السماوات و الأرض"/>
+      <target indices="2" polarity="positive" term="علم وصف الطبيعة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_5">
+    <text>انا كردي سوري ومثلكم احلم بالحرية وان اكون مثل باقي الادمين انسانا له قيمة . في بلد لا قيمة للانسان فيه . لقد حول النظام الاسدي سورية الى غابة والقوي فيها هو الذي سيعيش . انتهكوا اعراضنا وسرقوا عمر شبابنا ونهبوا البلد حتى اخر فلس . واليوم نزلوا فينا قتلا واغتصابا لحرماتنا . واعتقال شبابنا وبناتنا وتعذيبهم حتى الموت . فهل جرى لكم ما جرى لنا</text>
+    <targets>
+      <target indices="24" polarity="negative" term="النظام الاسدي"/>
+      <target indices="26" polarity="negative" term="سورية"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_336">
+    <text>بعد العلاقات الطيبة بين تركيا واربيل منذ5 السنوات اصبحت مدينة اربيل مدينة من المدن التركية تطورا والازدهارا قبل ذلك لم تكن اربيل الا حالها حال اي المدينة العراقية عادية لهذا الكثير لا يستطعون التحمل من حسدهم لهذا الازدهار التي تقدمت حقا من قبل تركيا صاحبت الادارة والخبرة والحضارات...ولهذا كل هذا الحقد من قبل النفوس الضعيفة والمريضة،حياالله تركيا والاخوة الاسلامية</text>
+    <targets>
+      <target indices="56" polarity="positive" term="تركيا والاخوة الاسلامية"/>
+      <target indices="10,21" polarity="positive" term="اربيل"/>
+      <target indices="37" polarity="positive" term="الازدهار"/>
+      <target indices="26" polarity="negative" term="المدينة العراقية عادية"/>
+      <target indices="26" polarity="negative" term="المدينة العراقية"/>
+      <target indices="4,43,56" polarity="positive" term="تركيا"/>
+      <target indices="9" polarity="positive" term="مدينة اربيل"/>
+      <target indices="4" polarity="positive" term="تركيا واربيل"/>
+      <target indices="13" polarity="positive" term="المدن التركية"/>
+      <target indices="1" polarity="positive" term="العلاقات الطيبة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_23">
+    <text>حسب بعض المعلقين و خاصة المغاربة و الليبية..كل من يدافع عن وطنه فهو من المخابرات..نحن لا نعيش في سويسرا..لكننا لسنا مثل ليبيا.و جبهة الانقاذ هي من حللت دماء الجزائريين...لذا نحن نكرهها و نكره كل من يساندها..تحية لمخابراتنا و جنرالاتنا و رئيسنا الشهم.انتم خربتم اوطانكم و نحن لن نحدو حدوكم ..لانكم انتم من يجب ان يقلدنا</text>
+    <targets>
+      <target indices="22" polarity="negative" term="جبهة الانقاذ"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_133">
+    <text>ان خيرة الشعب السوري مهجر خارج البلد بسبب هذا النظام القمعي وحسب احصائيات وزارة المغتربين اكثر من خمسين الف طبيب من ذوي الاختصاصات والخبرات العالية خارج الوطن عدا المهندسين والادباء والمفكرين وغيرهم تستفيد منهم الدول الغربية والاجنبية اي نظام هذا فليسقط غير مأسوف عليه</text>
+    <targets>
+      <target indices="17" polarity="negative" term="خمسين الف طبيب من ذوي الاختصاصات والخبرات العالية خارج الوطن"/>
+      <target indices="9" polarity="negative" term="النظام القمعي"/>
+      <target indices="28" polarity="undetermined" term="المهندسين والادباء والمفكرين وغيرهم"/>
+      <target indices="1" polarity="positive" term="خيرة الشعب السوري"/>
+      <target indices="12" polarity="negative" term="احصائيات وزارة المغتربين"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_59">
+    <text>التي تون فوق رؤوس الأطباء وهم فيعملية جراحية للمريض هي روح المريض ، وعلم الأرواح ليس علما ماديا ولا تنطبق عليه المقاييس المادية فالروح تستطيع أن تصل إلى ملايين السنوات الضوئية في لحظة وهي المتحكمة في الجسم وتتذكر كل ما يقع له في خلاصة الإنسان هو الروح وما الجسم إلا أداة ، ولا يستطيع العلماء صنع أرواح</text>
+    <targets>
+      <target indices="46" polarity="positive" term="الروح"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_110">
+    <text>ألف ألف ألف ألف ألف مبروك لقناتى المفضله لدى والله لا أقدر أن أعبر عن تهنئتى الحارة لكم فأقول لكم أمضوا قدما  والله يبارك لكم، وأقدم سلامى لجميع أهل الجزيرة ومراسليها، وبالخاص خذيجة بن قنه لأنى بحبها أوي إليك منى سلاما خاصا خذيجه...</text>
+    <targets>
+      <target indices="28" polarity="positive" term="أهل الجزيرة ومراسليها،"/>
+      <target indices="32" polarity="positive" term="خذيجة بن قنه"/>
+      <target indices="6" polarity="positive" term="لقناتى المفضله"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_198">
+    <text>الإرغواي انشأ الله قاهرت البرازيل في عام 1950 تمكنت الأرغواي من هزيمة البرازيل في المبارة النهائية في رودي جانيرو ومن ذلك الوقت اصبحت عقدة للبرازيل واتوقع فوزها بكأس العالم 2010 ويكون الكأس الثالث لها عام 1930و1950وانشأالله 2010 بالنسبة لغانا يكفيها الوصول إلى هذه المرحلة .</text>
+    <targets>
+      <target indices="11" polarity="undetermined" term="هزيمة البرازيل"/>
+      <target indices="31" polarity="positive" term="الكأس الثالث"/>
+      <target indices="38" polarity="positive" term="لغانا"/>
+      <target indices="0" polarity="positive" term="الإرغواي"/>
+      <target indices="23" polarity="undetermined" term="عقدة للبرازيل"/>
+      <target indices="3" polarity="positive" term="قاهرت البرازيل"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_45">
+    <text>الله ينصر أخواننا في غزة الأخوة في حركة حماس الإسلامية ويكف شر اليهود عن أخواننا في غزة . . اللهم انصرهم وثبت أقدامهم فقد دكوا مواطن العدو الصهيوني بوابل من الصواريخ والراجمات وأطلقت صافرات الإنذار في مدن إسرائيلية وهذا بفضل الله وبرحمته حتى أن ضابط صهيوني تحدث بالقناة العاشرة أنهم يواجهون أشباح وصواريخ بلا رامي ! وسبحان الله والحمدلله .</text>
+    <targets>
+      <target indices="36" polarity="negative" term="مدن إسرائيلية"/>
+      <target indices="4,16" polarity="positive" term="غزة"/>
+      <target indices="7" polarity="positive" term="حركة حماس الإسلامية"/>
+      <target indices="44" polarity="negative" term="ضابط صهيوني"/>
+      <target indices="25" polarity="negative" term="مواطن العدو الصهيوني"/>
+      <target indices="11" polarity="negative" term="شر اليهود"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_153">
+    <text>ويتوقع أن يكون حرم جامعة الملك عبد الله للعلوم والتقنية التي لا تخضع لسيطرة وزارة التعليم، ساحة حرية تامة إذ لا تمنع القوانين اختلاط الطالبات مع الطلاب في إطار الدراسة، كما لا تجبرهن على ارتداء العباءة السوداء أو تمنعهن من قيادة السيارات داخل الحرم الجامعي.</text>
+    <targets/>
+  </comment>
+  <comment comment_id="batch_4_32">
+    <text>الحمد لله رب العالمين.دفع الله ما كان اعظم ولا حول ولا قوة الا بالله.والحمد لله على سلامة الركاب.الخطوط الجوية القطرية من افضل الخطوط الموجودة في العالم.فقد سافرت عدة مرات على متنها.تقدم خدمات عالية وهي مفخرة لكل عربي ومسلم.شهادة لا يمكن نكرانها.</text>
+    <targets/>
+  </comment>
+  <comment comment_id="batch_5_106">
+    <text>الأخ عبد يطالب ان يحتكم الطرفان لكتاب الله،،يبدو ان الاخ عبد الله لايعلم أن جميع فصائل منظمة التحرير هي أما علمانيه أو شيوعيه تعتنق الشيوعيه،ماركسيه ولينينيه،وماويه،،أي انها تعلن الحرب على الله والأسلام والمسلمين قبل الصهاينه،،اما الصهاينه العلمانيين فهم حلفائهم في العقيد،،أفيقوا</text>
+    <targets>
+      <target indices="14" polarity="negative" term="جميع فصائل منظمة التحرير"/>
+      <target indices="35" polarity="negative" term="الصهاينه العلمانيين"/>
+      <target indices="28" polarity="negative" term="الحرب على الله والأسلام والمسلمين"/>
+      <target indices="9" polarity="negative" term="الاخ عبد الله"/>
+      <target indices="0" polarity="negative" term="الأخ عبد"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_46">
+    <text>الأخوة الذين يطالبون الكاتب بدليل على أن السعودية تضغط للحؤول بين مبارك والمحاكمة انتقائيون عجيبو التفكير، إذ كيف يتغافلون عن ذلك الفيض من المعالم التي طرحها الكاتب، والتي تدلل على الموقف السلبي والعدائي للثورة المصرية من قبل هذه الأنظمة الخليجية.</text>
+    <targets>
+      <target indices="7" polarity="negative" term="السعودية"/>
+      <target indices="0" polarity="negative" term="الأخوة"/>
+      <target indices="38" polarity="negative" term="الأنظمة الخليجية."/>
+      <target indices="30" polarity="negative" term="الموقف السلبي والعدائي للثورة المصرية"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_97">
+    <text>المقاومة الخيار الناجع للوحدة والسلام وليس المفاوضات التي لا زمن لها فقظ الكيان الصهيوني هو من يحدد موعدها مع اعوانه امريكا وبريطانيا واختلاف الفلسطنين طبيعي الا ان الذين يبعون المربع العربي الذي ما يسمي بدول الاعتدال التي تدعو وتدعم الحوار مع الكيان هم من يقومون بزعزة الامور ويعملون علي توسيع الشرخ بين الفلسطنين والكيان هو الكاسب .</text>
+    <targets>
+      <target indices="1" polarity="positive" term="الخيار الناجع"/>
+      <target indices="12,41" polarity="negative" term="الكيان"/>
+      <target indices="6" polarity="negative" term="المفاوضات"/>
+      <target indices="12" polarity="negative" term="الكيان الصهيوني"/>
+      <target indices="34" polarity="negative" term="بدول الاعتدال"/>
+      <target indices="0" polarity="positive" term="المقاومة"/>
+      <target indices="19" polarity="negative" term="اعوانه امريكا وبريطانيا"/>
+      <target indices="3" polarity="positive" term="للوحدة والسلام"/>
+      <target indices="39" polarity="negative" term="الحوار مع الكيان"/>
+      <target indices="28" polarity="negative" term="يبعون المربع العربي"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_111">
+    <text>السكري النوع الثاني يبدأ بتطوير الخلايا مقاومه للانسولين ثم يتضرر البنكرياس فتضرر قدرة افراز الانسولين، لذلك في مرحلة معينه من المرض هناك حاجة لاستعمال حقن الانسولين، اما النوع الاول فسببه عدم القدره على افراز الانسولين لسبب غير معلوم دون اي مشكله لخلايا الجسم على التفاعل مع الانسولين وبالتالي ادخال الجلوكوز</text>
+    <targets/>
+  </comment>
+  <comment comment_id="batch_4_30">
+    <text>في تقييم الرياضيات وفي موضوع جانبي حول المصادر المساعدة في البيت كان هناك سؤال عن اعلى مستوى لاحد الابوين في البيت الصاعقة كانت قطر 65% احد الابوين جامعي او اعلى وهي اعلى نسبة في الدول المشاركة في الدراسة واعلى من النرويج ... اي مصداقية لمشاركة هكذا دول في هكذا تقييم؟؟؟؟؟؟؟؟؟؟؟؟؟</text>
+    <targets/>
+  </comment>
+  <comment comment_id="batch_5_45">
+    <text>رئيس حكومة لبنان يجب أن يتمتع بالحكمة وبعد النظر من أمثال عمر كرامي أو ميقاتي أو الحص الله يعطيه الصحة وطول العمر وليس مثل سعد مع كل الاحترام ... فكما هو معروف للجميع المال لايصنع الرجال .وإنما الرجال هم من يصنعون المجد للبنان . بوركت المقاومة ومن يدعمها ..</text>
+    <targets>
+      <target indices="24" polarity="negative" term="سعد"/>
+      <target indices="41" polarity="positive" term="المجد للبنان"/>
+      <target indices="11" polarity="positive" term="عمر كرامي أو ميقاتي أو الحص"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_190">
+    <text>شكرا على الموصوع ، و نشكر الجزيرة على عرض كل ما هو جديد في عالم تكنولوجيا المعلومات ، و نتمنى من شركة مايكروسوفت الاهتمام اكثر باللغة العربية في منتجاتها ، لتنعم العائلة العربية و تستفيد الاستفادة الكاملة من هذه المنتجات الجميلة و المفيدة</text>
+    <targets>
+      <target indices="21" polarity="positive" term="شركة مايكروسوفت"/>
+      <target indices="6" polarity="positive" term="الجزيرة"/>
+      <target indices="39" polarity="positive" term="المنتجات الجميلة و المفيدة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_232">
+    <text>من المؤكد أن وراء أطلاق سراح البغدادي هو شلقم فقد عملوا معاً في اللا نظام ويعرفون اسرار بعض. وإن كان هناك رشاوى دفعت وأنا أشك كثيراً في ذلك، فإن كليهما قد فر بملايين الدولارات. فترةت شلقم تقدر بـ 30 مليون دولار أما البغدادي فتفوق المائة مليون.</text>
+    <targets>
+      <target indices="4" polarity="negative" term="أطلاق سراح البغدادي"/>
+      <target indices="34" polarity="negative" term="فترةت شلقم تقدر بـ 30 مليون"/>
+      <target indices="8,35" polarity="negative" term="شلقم"/>
+      <target indices="34" polarity="negative" term="فترةت شلقم"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_141">
+    <text>لقد لعب المنتخب المغربي مبارته ضد غينيا مبارة قوية كان ينقصه بعض الفعالية في الهجوم مع الحكم السيئ للحكم ومع تصريح المدرب و اللاعبين أكدوا على الفوز في المبارة القادمة أمام غانا ان شاء الله ومع حضور اللاعب العلودي ونتمنى كل التوفيق للمغاربة</text>
+    <targets>
+      <target indices="20" polarity="positive" term="تصريح المدرب و اللاعبين"/>
+      <target indices="42" polarity="positive" term="للمغاربة"/>
+      <target indices="16" polarity="negative" term="الحكم السيئ للحكم"/>
+      <target indices="2" polarity="positive" term="المنتخب المغربي"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_79">
+    <text>الظاهر ان اللعبه اشتغلت اليوم إسرائيل تضرب غزة وبكره تقول غزه تأتى بإسلاح من لبنان وبعدين من إيران ويحصل بين إسرائيل وإيران حرب مصتنعة ومن ثم الجعجة والمتاجرة بإسم القضية الفلسطنية ولا غرابه إحنا من اعطاهم الفرصه تركنا ميدان المعركة فأخذو مكاننا للمتاجره به ولا حول ولا قوة إلا بالله</text>
+    <targets>
+      <target indices="17" polarity="negative" term="إيران"/>
+      <target indices="22" polarity="negative" term="حرب مصتنعة"/>
+      <target indices="29" polarity="undetermined" term="القضية الفلسطنية"/>
+      <target indices="5,20" polarity="negative" term="إسرائيل"/>
+      <target indices="38" polarity="undetermined" term="ميدان المعركة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_46">
+    <text>بسم الله بدأت هذه الانتفاضة وعلى بركة الله تتواصل من أجل اجتثاث هذا النظام الظالم والمتسلط والذي يعرف كل شيء الا الانسانية . . لماذا يبقى بشار المتغطرس في منصبه ويقتل كل هؤلاء الابرياء من أبناء شعبه وجلدته . . والله اليهود لم يفعلو ما يفعله بشار بشعبه . . حسبنا الله ونعم الوكيل . . . وسيعلم الذين ظلمو اي منقلب ينقلبون . . والنصر قريب ان شاء الله</text>
+    <targets>
+      <target indices="13" polarity="negative" term="النظام"/>
+      <target indices="41" polarity="positive" term="اليهود"/>
+      <target indices="26" polarity="negative" term="بشار المتغطرس"/>
+      <target indices="4" polarity="positive" term="الانتفاضة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_32">
+    <text>الف مبروك لأبي حمزة يبدو ان الرجل عمره طويل  وعلاقتة برب العالمين علي ما يرام لانه سوف يسلم الي امريكا وليس الي مكان اخر.  أمك داعيا لك يا أبي حمزة.. ألف مبروك الله نجاك من الشلاليت والمشي علي الجمر  . في امريكا تفطر  كورنفلكس  وفروت يوقت وتتغدي استيك بالبطاطس ، لبراون صوص</text>
+    <targets>
+      <target indices="19,41" polarity="positive" term="امريكا"/>
+      <target indices="2" polarity="positive" term="لأبي حمزة"/>
+      <target indices="47" polarity="positive" term="استيك بالبطاطس ، لبراون صوص"/>
+      <target indices="35" polarity="negative" term="الشلاليت والمشي علي الجمر"/>
+      <target indices="6" polarity="positive" term="الرجل عمره طويل"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_25">
+    <text>شوستر مدرب لا يستحق الريال الفريق يتراجع شيء فشيء وهو يفكر في لاعبي منالمقدمة الريال لا يحتاج الى مهاجمين هو بحاجة الى لاعبي خط وسط دفاعي الى متى والريال يهزم من اضعف فرق اوربا ياجماعة الريال تغير 180 درجة ، نحن بحاجة الى مدرب ينمي مهارات الفريق ويبعث روح الحماس في الفريق .</text>
+    <targets>
+      <target indices="4,14,35" polarity="negative" term="الريال"/>
+      <target indices="31" polarity="negative" term="اضعف فرق اوربا"/>
+      <target indices="0" polarity="negative" term="شوستر"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_19">
+    <text>صحيح انا زملكاوى ولم اكن اتوقع فوز الاهلى لكن الاهلى فاجانى بالمستوى واللياقة العالية كما فوجئت بمستوى الصفاقص المتدنى والفكر العقيم لمدربه وعموما الاهلى يستحق لانه يمتلك ادارة جيدة و لاعبيين عندهم روح للنادى اللذين يلعبون له اما الاخ المغربى فاقول له بصوت العقل انتو حظكوا عالى علينا فى المنتخب اما الاندية فالمصريين افضل منكم بمراحل والدليل النتائج يا عزيزى</text>
+    <targets>
+      <target indices="16" polarity="negative" term="بمستوى الصفاقص المتدنى والفكر العقيم لمدربه"/>
+      <target indices="7,9,23" polarity="positive" term="الاهلى"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_33">
+    <text>مصر لعبت بقوة ولياقة بدنية عالية وهذا ادي الي هزيمتها في الشوط الثاني من وجهة نظري منتخب مصر الأول علي العالم في اللعب الجماعي والإصرار علي الفوز بالبطولات المجمعة انشاء الله بنعوضها بإسبانيا ومبروك لمصر علي الأداء الرائع والجميل مصر كانت احسن من انجلترا بس للعلم وتحياتي للموقع المميز ...سالسلام عليكم من فلسطين ..غــزة</text>
+    <targets>
+      <target indices="43" polarity="undetermined" term="انجلترا"/>
+      <target indices="16" polarity="positive" term="منتخب مصر"/>
+      <target indices="34" polarity="positive" term="لمصر"/>
+      <target indices="0,17,39" polarity="positive" term="مصر"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_159">
+    <text>ألف مبروك للمنتخب المصري الشقيق على الفوز الصعب على المنتخب الرواندي لكن بكل صراحة أداء ضعيف جدا أمام منتخب ضعيف يثبت مرة اخرى تراجع المنتخب المصري عن اداءه المعهود وبهذا المستوى لن تذهب مصر بعيدا في هذه التصفيات اللهم اذا تمكنوا من تصحيح أخطائهم في أسرع وقت وبالتوفيق للمنتخب الجزائري في الوصول الى جنوب أفريقيا</text>
+    <targets>
+      <target indices="48" polarity="positive" term="للمنتخب الجزائري"/>
+      <target indices="9" polarity="undetermined" term="المنتخب الرواندي"/>
+      <target indices="33" polarity="undetermined" term="مصر"/>
+      <target indices="2" polarity="undetermined" term="للمنتخب المصري الشقيق"/>
+      <target indices="24" polarity="negative" term="المنتخب المصري"/>
+      <target indices="2" polarity="positive" term="للمنتخب المصري"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_135">
+    <text>شكرا على المعلومات المفيدة ، أقترح على الخطوط الجوية القطرية ان تقدم مثل هذا الطعام الصحي في رحلاتها ، خاصة الرحلات طويلة المدى الى امريكا و اوروبا و شرق آسيا و أستراليا ، لتعطي ميزة اضافية للمسافرين لاختيارها ، خاصة انها تعتبر من احسن الخطوط الجوية في العالم .</text>
+    <targets>
+      <target indices="14" polarity="positive" term="الطعام الصحي"/>
+      <target indices="7" polarity="positive" term="الخطوط الجوية القطرية"/>
+      <target indices="7,44" polarity="positive" term="الخطوط الجوية"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_10">
+    <text>اعداد القتلى في صفوف الارهابيين بالمئات و من الصعب حصر اعداد القتلى بشكل دقيق بسبب الحرب الشاملة التي يشنها الجيش العربي السوري في اماكن تواجدهم . 118 قتيل هو استخفاف بعقول القراء اذ كيف يتم احصاء قتلى الارهابيين في الاحراش و البساتين ! . لقد جلبتم الدمار للشعب السوري بسبب اعلامكم التحريضي و الفتنوي و الدور سوف يصلكم .</text>
+    <targets>
+      <target indices="15" polarity="undetermined" term="الحرب الشاملة"/>
+      <target indices="50" polarity="negative" term="اعلامكم التحريضي"/>
+      <target indices="3" polarity="negative" term="صفوف الارهابيين"/>
+      <target indices="47" polarity="undetermined" term="للشعب السوري"/>
+      <target indices="46" polarity="negative" term="الدمار"/>
+      <target indices="36" polarity="negative" term="قتلى الارهابيين"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_138">
+    <text>يا ريت العرب يعملوا بمقابل البرامج الفنية مثل سوبر ستار وأكس فاكتر وغيرها من البرامج إلى برامج للبحث عن النوابغ والعقول والمخترعين ودعمها لكي تتطور البلاد العربية وتصبح بلاد صناعية وليس إستهلاكية وحسب. ويتوقفوا عن التآمر على العقول المخترعة لمحاصرتها وتهجيرها إلى دول أجنبية. لخدمة أهداف إستعمارية بمساعدة عملائها من الأنظمة العربية</text>
+    <targets>
+      <target indices="2" polarity="negative" term="العرب"/>
+      <target indices="5" polarity="negative" term="البرامج الفنية"/>
+      <target indices="19" polarity="positive" term="النوابغ والعقول والمخترعين"/>
+      <target indices="50" polarity="negative" term="الأنظمة العربية"/>
+      <target indices="45" polarity="negative" term="أهداف إستعمارية"/>
+      <target indices="28" polarity="positive" term="بلاد صناعية"/>
+      <target indices="5,14" polarity="negative" term="البرامج"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_391">
+    <text>كلام خالد رقم 34 مضحك عندما يقول ان السعودية قادرة على ارجاع ايران الى العصر الحجري بكيسة زر والله يا اخي هذا لا يفكر بعقل سليم لان السعودية لا تملك جيشاً اصلا بستطسع ان يقاتل  والحوثيون كانوا اوضح مثال عندما كبدوا الجيش السعودي الهزائم والويلات فاين اذن انتم من ايران وجيشها تكلم بمايقبله عقل يا سيد خالد؟؟؟؟؟!!!!!!</text>
+    <targets>
+      <target indices="8,27" polarity="negative" term="السعودية"/>
+      <target indices="49" polarity="positive" term="ايران وجيشها"/>
+      <target indices="14" polarity="negative" term="العصر الحجري"/>
+      <target indices="12,49" polarity="positive" term="ايران"/>
+      <target indices="41" polarity="negative" term="الجيش السعودي"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_368">
+    <text>الساده الافاضل المعارضين: اين كنتم عندما سلم السيد عبد الرحمن سوار الدهب الحكم للمدنين؟ اين كنتم عندما امسكتم زمام الامور فى السودان؟ان انتم نسيتم سوء ادارتكم للبلاد .. نحن لم ننسى .. قولوا خيرا او اصمتواافضل لكم ، بدلا من المهاترات التى تضر بالبلاد.</text>
+    <targets>
+      <target indices="40" polarity="negative" term="المهاترات التى تضر بالبلاد."/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_89">
+    <text>ليس من مصلحة دول الخليج الملكية ان ترى قوة عربية غير ملكية ... اقرأوا تاريخ العرب في الستينات والسبعينات من القرن الماضي ..وفرحة الكويت في تدمير العراق ... وفرحة السعودية في النكسة ... والدعوة الآن للأردن والمغرب الى دول التعاون الخليجي ... انه نفس الصراع بين ما كنا نسميه تقدمية ورجعية... تعددت الأسماء .. والشيء واحد.</text>
+    <targets>
+      <target indices="31" polarity="negative" term="النكسة"/>
+      <target indices="38" polarity="negative" term="دول التعاون الخليجي"/>
+      <target indices="43" polarity="negative" term="نفس الصراع"/>
+      <target indices="35" polarity="negative" term="للأردن والمغرب"/>
+      <target indices="14" polarity="negative" term="تاريخ العرب"/>
+      <target indices="3" polarity="negative" term="دول الخليج الملكية"/>
+      <target indices="25" polarity="negative" term="تدمير العراق"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_142">
+    <text>نعم اننى وبحكم مهنتى اؤكد ان المانيا وخصوصآ بعد ان اصبح ما يسمى بالبابا منها ،هي مصدر كل الحملات المغرضة ظد الاسلام بتحريظ مباشر من جوزف راتسينقر او الباابا ، حيث انشات عدة اذاعات تنصيرية و/ليست تبشيرية/بالغة العربية ومحطات تستهزئ وتستخف بالسلام وتنفر منه مثل فيونيكس والدوكوكانال. وهناك 3 مراكز تصدر كتب مخصصة لفتنه المسلمين فى دينهم .//ان استطاعوااااا//</text>
+    <targets>
+      <target indices="6" polarity="negative" term="المانيا"/>
+      <target indices="25" polarity="negative" term="جوزف راتسينقر"/>
+      <target indices="33" polarity="negative" term="اذاعات تنصيرية"/>
+      <target indices="13" polarity="negative" term="بالبابا"/>
+      <target indices="25" polarity="negative" term="جوزف راتسينقر او الباابا"/>
+      <target indices="21" polarity="positive" term="الاسلام"/>
+      <target indices="22" polarity="negative" term="بتحريظ مباشر"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_80">
+    <text>نعم توحدت جميع الفصائل بعدم الإعتراف بالكيان الصهيوني الأمر الذي يبرز جليا أن الشعب الفلسطيني متماسك في هذا الامر ولكن لماذا لا يتحدون وتنهي حماس وفتح الجدال القائم بينهم منذ فترة ..ويهنأ كل العرب بوحدتهم فلربما نستطيع أن نقول لأعدائنا لا ففلسطين أتحدت وأن العرب لقادمون ...</text>
+    <targets>
+      <target indices="44" polarity="positive" term="العرب لقادمون"/>
+      <target indices="5" polarity="negative" term="الإعتراف بالكيان الصهيوني"/>
+      <target indices="32" polarity="positive" term="كل العرب"/>
+      <target indices="26" polarity="negative" term="الجدال القائم"/>
+      <target indices="13" polarity="positive" term="الشعب الفلسطيني"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_174">
+    <text>البرازيل لاتستحق الفوز بالبطولة لأنها كانت متذبذبة طوال البطولة،ثم إن البرازيل فازت على أوروجواي بضربات الحظ في دور الأربعة ،ولقد لعبت أوروجواي مباراة العمر وأبدعت وكافحت ولكن الحظ عاندها..لقد شجعت أوروجواي بحرارة في تلك المباراة..البرازيل لاتستحق الكأس مطلقا..الكأس كان المفروض للأرجنتين أو أوروجواي</text>
+    <targets>
+      <target indices="40" polarity="positive" term="للأرجنتين أو أوروجواي"/>
+      <target indices="13,21,30,42" polarity="positive" term="أوروجواي"/>
+      <target indices="2" polarity="undetermined" term="الفوز بالبطولة"/>
+      <target indices="0,10" polarity="negative" term="البرازيل"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_165">
+    <text>المنتخب الوحيد الذي يستحق الكاس هو هولندا لم يخسرو اي مباراة ليس فقط في البطولة ولكن حتى في التصفيات المؤهلة لكاس العالم هكذا هو الفريق المثالي لا مانع من فوز اسبانيا لكن المانيا لا تستحق لان فوزهم على انجلترا كان مبنى على تحكيم سيء</text>
+    <targets>
+      <target indices="32" polarity="negative" term="المانيا"/>
+      <target indices="38" polarity="positive" term="انجلترا"/>
+      <target indices="6" polarity="positive" term="هولندا"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_4">
+    <text>لا اعتقد انها تتقدم على نظريتها الامريكية أف 22 رابتور لانه الامريكيين يتفوقون على الروس بأشواط كثيرة في مجال الالكترونيات وهناك برامج مساعدات امريكي للروس في هذا المجال!! ولوفرضنا ان محرك هذا الطائرة اقوى من محرك الرابتور فإن هذا غير كاف في مجال الطيران</text>
+    <targets>
+      <target indices="5" polarity="positive" term="نظريتها الامريكية أف 22 رابتور"/>
+      <target indices="11" polarity="positive" term="الامريكيين"/>
+      <target indices="30" polarity="undetermined" term="محرك هذا الطائرة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_170">
+    <text>الله اكبر ولله الحمد الفريق العربى الوحيد فى المونديال شرف العرب فبعد مباره رائعه اما سلوفاكيا وكان هو الاقرب للفوز يعود الفريق العربى الوحبد ويحقق التعادل مع بطل العالم بعد ان تقدم عليه بهدف ولكن الحظ جعل بطل العالم يتعادل يعنى من حق نيوزيلاندا تفتخر لانها احرزت هدفين ولا عزاء لمنتخب الصابغين</text>
+    <targets>
+      <target indices="15" polarity="positive" term="سلوفاكيا"/>
+      <target indices="43" polarity="positive" term="نيوزيلاندا"/>
+      <target indices="4" polarity="positive" term="الفريق العربى الوحيد"/>
+      <target indices="27,37" polarity="positive" term="بطل العالم"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_143">
+    <text>تعطي حقنة لجميع المواليد في السعودية عند الولاده طبعا سبب نقص فيتامين ك عند المواليد هو ان امعاء المواليد معقمة جدا ولا تحتوي على البكتيريا المفيده المنتجه لفيتامين ك وبعد عده اشهر تبداء البكتيريات المفيده التكاثر في الامعاء و انتاج فيتمامين ك</text>
+    <targets>
+      <target indices="24" polarity="positive" term="البكتيريا المفيده المنتجه لفيتامين ك"/>
+      <target indices="33" polarity="positive" term="البكتيريات المفيده"/>
+      <target indices="10" polarity="negative" term="نقص فيتامين ك عند المواليد"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_116">
+    <text>غذائكم دوائكم، صدق رسول الله، أما العلاج بالأشعة والمواد الكيميائية فتضعف خلايا الجسم السليمة مع الخلايا السرطانية وبالتالي يضعف الجسم كله، النهاية موت الخلايا السرطانية بموت الخلايا السليمة، فلماذا لا نبحث عن الأدوية التي في الغذاء والخضار والفواكه وباقي النباتات، وعلى الأقل تبقى صحية أكثر والفستق من بينها.</text>
+    <targets>
+      <target indices="3" polarity="positive" term="رسول الله،"/>
+      <target indices="22" polarity="undetermined" term="موت الخلايا السرطانية"/>
+      <target indices="6" polarity="negative" term="العلاج بالأشعة والمواد الكيميائية"/>
+      <target indices="15,23" polarity="negative" term="الخلايا السرطانية"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_167">
+    <text>أحسن مدرب في الوقت الراهن السيد رابح سعدان. أحسن لاعب في الوقت الراهن اللاعب مراد مغني الفنان والذكي. أحسن فريق في مجموع الفرق المشاركة هو الفريق الجزائري والذي يعتبر الفريق الوحيد الذي تأهل من مباراة واجه من خلالهانظام بكامله ونتمنى أن يكون النهائي بين الجزائر وفرنسا</text>
+    <targets>
+      <target indices="8" polarity="positive" term="أحسن لاعب"/>
+      <target indices="25" polarity="positive" term="الفريق الجزائري"/>
+      <target indices="44" polarity="positive" term="الجزائر وفرنسا"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_76">
+    <text>الله ينجينا من سياسات آميركا و خباثاتها . آميركا حامية الصهاينة و تدّعي بالعدل و العدالة ـ فبآية مقاييس إنسانية تنتسب إليها الولايات المتحدة الأميريكية فهي مفلسة من القِيَم و الشيَم الإنسانية و الحضارية بتبنيها لإسرائيل . إيران في ذروة الحق و التقدم العلمي و هذا ما يزعج آميركا و إسرائيل معاً.</text>
+    <targets>
+      <target indices="28" polarity="undetermined" term="القِيَم و الشيَم الإنسانية و الحضارية"/>
+      <target indices="4,8,48" polarity="negative" term="آميركا"/>
+      <target indices="22" polarity="negative" term="الولايات المتحدة الأميريكية"/>
+      <target indices="48" polarity="negative" term="آميركا و إسرائيل"/>
+      <target indices="42" polarity="positive" term="التقدم العلمي"/>
+      <target indices="3" polarity="negative" term="سياسات آميركا و خباثاتها"/>
+      <target indices="35" polarity="negative" term="لإسرائيل"/>
+      <target indices="13" polarity="undetermined" term="بالعدل و العدالة"/>
+      <target indices="10" polarity="negative" term="الصهاينة"/>
+      <target indices="3" polarity="negative" term="سياسات آميركا"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_344">
+    <text>أنا صيدلى أعمل فى أمريكا أندهش من أين أتيتم بهذه الارقام عن أمريكا ؟ ... الاصابات فى امريكا لا تتعدى 200 ألف فى كل أمريكا و بعض الحالات غير مؤكدة ... و الوفيات حوالى 15حالة فقط  فى كل أمريكا ... و معظم الحالات فى المستشفيات تم شفاءها</text>
+    <targets>
+      <target indices="41" polarity="positive" term="معظم الحالات"/>
+      <target indices="23,37" polarity="positive" term="كل أمريكا"/>
+      <target indices="10" polarity="negative" term="الارقام عن أمريكا"/>
+      <target indices="44" polarity="positive" term="المستشفيات"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_149">
+    <text>مخترع الانترنت هو السير تيموثي بيرنرز-لي الانجليزي الجنسية أثناء عمله في المعهد الاوروبي لأبحاث الطاقة النووية -سيرن- حيث انطلقت الانترنت عام 1991.. لينوارد كلينروك عالم رياضيات من جامعة كاليفورنيا وله اسهامات عظيمة في مجال شبكات الحاسوب لكنه ليس من اخترع الانترنت</text>
+    <targets>
+      <target indices="22" polarity="positive" term="لينوارد كلينروك"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_48">
+    <text>لا يوجد شخص شاهد المستوى الباهر الذي ظهر عليه المنتخب الارجنتيني إلا انحنى اعجابا وتقديرا لنجوم التانجو الذين سحروا الملايين من المشاهدين بالعروض القوية واللمسات السحرية واللعب الجماعي والاصرار والانتماء لبلدهم  والحلول السريعة والجذرية لكل العقبات الناتجة عن تكدس الفريق المقابل امام المرمى مما يجعل منه منتخب الاحلام الذي يستحق البطولة عن جدارة واستحقاق .</text>
+    <targets>
+      <target indices="15" polarity="positive" term="لنجوم التانجو"/>
+      <target indices="46" polarity="positive" term="منتخب الاحلام"/>
+      <target indices="9" polarity="positive" term="المنتخب الارجنتيني"/>
+      <target indices="38" polarity="negative" term="تكدس الفريق المقابل امام المرمى"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_35">
+    <text>تريد أن تجعل اللغة العامية لغة موحدة بين العرب ولدى العرب اصلا لغة موحدة وهي اللغة الفصحة وبدلا من الاهتمام بها والتركيز لها والتخلص من الاشياء التي تعيق اللغة العربية الفصحة مثل اللغة العامية كانت ردة الفعل معاكسة تماما ولسان حال المقال دعكم من الفصحة...</text>
+    <targets>
+      <target indices="25" polarity="negative" term="الاشياء التي تعيق اللغة العربية الفصحة"/>
+      <target indices="28" polarity="positive" term="اللغة العربية الفصحة"/>
+      <target indices="3,32" polarity="negative" term="اللغة العامية"/>
+      <target indices="12" polarity="positive" term="لغة موحدة وهي اللغة الفصحة"/>
+      <target indices="5" polarity="undetermined" term="لغة موحدة بين العرب"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_65">
+    <text>ينبغى على الاطباء عدم الافراط فى استخدام الكورتيزون للعلاج كما ان الكورتيزون الذى يؤخذ عن طريق الاستنشاق اقل فى الاعراض الجانبيه من الطرق الاخرى كاحقن او الشراب كما ظهرت نتائج ايجابيه لاستخدام العلاج بالوخز بالابر الصينيه لكثير من الحالات لكن عند الطبيب المتخصص بالابر الصينيه</text>
+    <targets>
+      <target indices="7,11" polarity="negative" term="الكورتيزون"/>
+      <target indices="11" polarity="negative" term="الكورتيزون الذى يؤخذ عن طريق الاستنشاق"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_169">
+    <text>شكرا على المواضبع العلمية و الهندسية القيّمة ، و نتمنى منكم الكتابة عن البرامج التعليمية في الحاسوب ، و عرض شرح كل برنامج تعليمي يستخدم الحاسوب لتسهيل فهم الطلاب للمادة الدراسية ، و ارشاد المعلمين العرب الى كيفية الحصول على هذه البرامج التعليمية و استخدامها ، بارك الله فيكم و الله يعطيكم العافية</text>
+    <targets>
+      <target indices="13,41" polarity="positive" term="البرامج التعليمية"/>
+      <target indices="2" polarity="positive" term="المواضبع العلمية و الهندسية القيّمة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_60">
+    <text>لا أتفق مع كاتب المقال من حيث الأمثلة التي ساقها... فكما حكى قبلي أحد المشاركين يتعلق الأمر بتحريف في كتابة اللغة الانجليزية و ليس العربية... كل لغات العالم هي مهددة بلغة الانترنت و العولمة، لهذا يلزم المهتمين و الغيورين على لغة الضاد أن يبذلوا قصارى جهودهم للتأقلم مع معطيات هذا العالم الرقمي و عالم التكنولوجيا...</text>
+    <targets>
+      <target indices="19" polarity="negative" term="كتابة اللغة الانجليزية"/>
+      <target indices="36" polarity="positive" term="المهتمين و الغيورين"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_97">
+    <text>إلى جميع المعلقين المعركة في سوريا العروبة انتهت لصالح الجيش العربي السوري البطل . انتهت المعركة ومابقي إلى الإرهابيين التكفيريين المجرمين اللذين يفجرون الأبرياء لأنهم جبناء من ان يواجهوا الأبطال . هذا ديدنهم يختبئون بين الأبرياء ويفجرون الأبرياء . فلتحيا سوريا ويحيا الجيش السوري .</text>
+    <targets>
+      <target indices="9" polarity="positive" term="الجيش العربي السوري"/>
+      <target indices="18" polarity="negative" term="الإرهابيين التكفيريين"/>
+      <target indices="5,40" polarity="positive" term="سوريا"/>
+      <target indices="23,35,37" polarity="undetermined" term="الأبرياء"/>
+      <target indices="5" polarity="positive" term="سوريا العروبة"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_4_92">
+    <text>دكرتنى بحادثة لجدتى التى لا تجيد القراءة ولا الكتابة، سئلتها كم عمرك؟ فقالت ا عتقد ا نه مئة او مئتين، فلما لمحتنى مبتسما، قالت او ربما الفا او الفي سنة! / لما بالغت الجدة في عمرها الحقيقي هل هي سياسة الحيلة للتهرب من عمرها الحقيقي فإذا كانت الجدة الطيبة تجيد الكتابة و القراءة فكيف عندئذ ستتصرف أكيد ستكون خارقة الذكاء.</text>
+    <targets>
+      <target indices="2" polarity="positive" term="لجدتى"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_169">
+    <text>شباب شوفو المقارنة بين ميسي افضل لاعب في العالم وبين رونالدو الغبي في السرعة ميسي اسرع في الاختراق ميسي افضل في صناعة الاهداف ميسي افضل في بناء الهجمات ميسي افضل في اللعب الجماعي اكيد ميسي اكيد ميسي اكتر جماعية في الروح الرياضية اكيد ميسي افضل مادا بقى لرونالدو ادا رونالدو يتفوق على ميسي فقط بالضربات الراسية والتسديدفقط لاغير</text>
+    <targets>
+      <target indices="47" polarity="negative" term="لرونالدو"/>
+      <target indices="4" polarity="positive" term="ميسي افضل لاعب في العالم"/>
+      <target indices="4,14,18,23,28,34,36,43,52" polarity="positive" term="ميسي"/>
+      <target indices="10" polarity="negative" term="رونالدو الغبي"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_1_49">
+    <text>قال الأسد لأوغلو : إننا لا نحتاج لأكثر من ست ساعات حتى نشعل الشرق الأوسط إذا ما أطلق أحد أي صاروخ على سوريا وأن حزب الله سيهاجم إسرائيل وإيران ستهاجم السفن والبوارج الغربية في الخليج . وكشف عن الوجه الطائفي للحكم السوري بكل صراحة .</text>
+    <targets>
+      <target indices="1" polarity="undetermined" term="الأسد"/>
+      <target indices="24" polarity="undetermined" term="حزب الله"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_42">
+    <text>الحمد لله على سلامة الرهائن مش مهم مين انقذ الرهائن المهم أنهم عادو بسلامة الله كى يفرح بهم أهليم ولكن لى الحقائق لايفيد بشئ نرجو نشر الحقائق حتى لانضطر الى اللجوء الى وسائل الاعلام الاخرى . شكرا لكل من شارك سواء من السودان أو مصر أو حتى الدول الاخرى .</text>
+    <targets>
+      <target indices="3" polarity="positive" term="سلامة الرهائن"/>
+      <target indices="21,26" polarity="undetermined" term="الحقائق"/>
+      <target indices="25" polarity="positive" term="نشر الحقائق"/>
+      <target indices="42" polarity="positive" term="السودان أو مصر أو حتى الدول الاخرى"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_3_26">
+    <text>عدم بلوغ الوعي الثقافي عند الكثير وللاسف المسؤلين وبعض النقاد جعلهم مستنفرين ضد الابداع، ولمجرد قراءه مشوهه صدرت احكامهم. اي عمل ابداعي يجب ان يلم بكل النواحي الاجتماعيه وخاصه الشائعه و الغير علنيه للاغناء.الغربي من الكتاب الرائعين وصاحب وحي ابداعي جميل متنوع نسعد بابداعاته</text>
+    <targets>
+      <target indices="35" polarity="positive" term="الكتاب الرائعين"/>
+      <target indices="2" polarity="undetermined" term="الوعي الثقافي"/>
+      <target indices="7" polarity="negative" term="المسؤلين"/>
+      <target indices="13" polarity="undetermined" term="الابداع،"/>
+      <target indices="15" polarity="negative" term="قراءه مشوهه"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_57">
+    <text>اثبت ان ميسي هو لاعب فاشل مع المنتخب  في كاس العالم عملو منه الالمان انسه   وهسه في كوبا امريكا  نفس الشي  هاي لاعب فاشل  مع الاسف اختاره افضل لاعب  لان لازم يكون افضل لاعب مستوئ مع المنتخب  وليس مع النادي   تحياتي الج انسه ميسي</text>
+    <targets>
+      <target indices="2,43" polarity="negative" term="ميسي"/>
+      <target indices="13" polarity="negative" term="الالمان"/>
+      <target indices="42" polarity="negative" term="انسه ميسي"/>
+      <target indices="4,22" polarity="negative" term="لاعب فاشل"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_43">
+    <text>اتمنى من كل قلبي ان يكون في كل دولة عربية قواعد من كل الدول الاجنبية لكي نضيع ونهدر اموالنا ... التي يحتاجها الاخوة في فلسطين والصومال .. الامارات منذ فترة طويلة اصبحت دولة مشركة والفساد الي فيها اكثر من اوربا ...انشاء الله يخلص النفط في دولنا لكي نرجع ونرى الروساء والحكام على الابل والحمير ...</text>
+    <targets>
+      <target indices="49" polarity="negative" term="الروساء والحكام"/>
+      <target indices="43" polarity="negative" term="النفط"/>
+      <target indices="52" polarity="negative" term="الابل والحمير ..."/>
+      <target indices="10" polarity="negative" term="قواعد من كل الدول الاجنبية"/>
+      <target indices="32" polarity="negative" term="دولة مشركة"/>
+      <target indices="39" polarity="negative" term="اوربا"/>
+      <target indices="7" polarity="negative" term="كل دولة عربية"/>
+      <target indices="22" polarity="positive" term="الاخوة في فلسطين والصومال"/>
+      <target indices="52" polarity="negative" term="الابل"/>
+      <target indices="27" polarity="negative" term="الامارات"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_2_146">
+    <text>بصراحة الشعب المصري عاطفي جدا ، ومن السهل اللعب في عواطفه وبالتالي على الإعلام المصري أن يهدئ اللعب ، بصراحة أتمنى تأهل المنتخب المصري لأن هذه هي الفرصة الأخيرة لهذا الجيل الرائع أن يلعب كأس العالم ، والمنتخب المصري عودنا أن يكون أداءه في النهائيات أفضل من التصفيات.</text>
+    <targets>
+      <target indices="1" polarity="undetermined" term="الشعب المصري"/>
+      <target indices="22" polarity="positive" term="المنتخب المصري"/>
+    </targets>
+  </comment>
+  <comment comment_id="batch_5_74">
+    <text>ماهذه السطحية في التفكير ياناس،إن وجود القاعدة يتم بموجب اتفاقية قانونية مثبتة بنودها وصلاحيتها ومدة إقامتها،لاتطلبوا من البلد المهدد في كيانه أن يخلد دائما لحسن نية بمتربصيه،سخرية القدر أن إخواننا في الخليج محتم عليهم التعامل دائما بحذر مع جار يحلم باستعادة عاصمة الرشيد والنيل من سيادة الإمارات والبحرين،لذا كان لزاما قبل هذا التهجم قراءة التاريخ وجغرافية الأوطان.</text>
+    <targets>
+      <target indices="1" polarity="negative" term="السطحية في التفكير"/>
+      <target indices="29" polarity="positive" term="إخواننا في الخليج"/>
+      <target indices="17" polarity="negative" term="البلد المهدد"/>
+    </targets>
+  </comment>
+</comments>

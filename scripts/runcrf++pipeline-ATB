@@ -1,0 +1,76 @@
+# Run target + sentiment pipeline with ATB tokenization
+
+# Example run:
+# ./runcrf++pipeline-ATB best-linguistic-ATB Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment 
+# ./runcrf++pipeline-ATB best-linguistic+clusters-ATB Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment,WordClusters ../data/word-clusters/ar-wiki-classes-250-lemma+ATB.sorted.txt
+# For fewer features, list the features you want and uncomment the unwanted features in the template files
+
+outputdir=$1
+features=$2
+clusterfile=$3
+
+echo Output directory: $1
+echo Features: $2 
+echo Cluster file: $3
+
+echo Building feature files 
+
+mkdir ../experiments/paper-experiments/$outputdir
+mkdir ../experiments/paper-experiments/$outputdir/target
+mkdir ../experiments/paper-experiments/$outputdir/sentiment
+
+cd ../src
+
+java main/Run in=../data/arabic-finegrained/train.xml modelopt=CRF-target  runopt=train outputdir=../experiments/paper-experiments/$outputdir/target binfeat=$features clusterfile=$clusterfile tokopt=ATB
+
+java main/Run in=../data/arabic-finegrained/train.xml modelopt=CRF-sentiment runopt=train outputdir=../experiments/paper-experiments/$outputdir/sentiment binfeat=$features clusterfile=$clusterfile tokopt=ATB
+
+java main/Run in=../data/arabic-finegrained/dev.xml modelopt=CRF-target  runopt=train outputdir=../experiments/paper-experiments/$outputdir/target binfeat=$features clusterfile=$clusterfile tokopt=ATB
+
+echo Training crf++ 
+
+cd ../CRF++-0.58
+
+./crf_learn ../template_targets ../experiments/paper-experiments/$outputdir/target/train.raw.features $outputdir.target.model 
+
+./crf_learn ../template_sentiment ../experiments/paper-experiments/$outputdir/sentiment/train.raw.features $outputdir.sentiment.model 
+
+echo Tagging targets
+
+./crf_test  -m $outputdir.target.model ../experiments/paper-experiments/$outputdir/target/dev.raw.features > $outputdir.target.out
+
+mv $outputdir.target.model ../experiments/paper-experiments/$outputdir/sentiment
+mv $outputdir.target.out ../experiments/paper-experiments/$outputdir/sentiment
+
+echo Building features for tagging sentiment
+
+cd ../src
+
+java  main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-pipeline  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment binfeat=$features testfile=$outputdir.target.out eval=subset-overlap clusterfile=$clusterfile tokopt=ATB > ../experiments/paper-experiments/$outputdir/$outputdir.subset.pipeline.log
+
+echo Tagging sentiment
+
+cd ../CRF++-0.58
+
+./crf_test  -m $outputdir.sentiment.model ../experiments/paper-experiments/$outputdir/sentiment/dev.raw.features > $outputdir.sentiment.out
+
+mv $outputdir.sentiment.model ../experiments/paper-experiments/$outputdir/sentiment
+mv $outputdir.sentiment.out ../experiments/paper-experiments/$outputdir/sentiment
+
+echo Returning to home directory
+
+cd ../src
+
+echo Evaluating
+
+java  main/Run in=../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment binfeat=$features clusterfile=$clusterfile testfile=$outputdir.sentiment.out eval=subset-overlap tokopt=ATB > ../experiments/paper-experiments/$outputdir/$outputdir.subset-overlap.final.log
+
+java main/Run in=../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment binfeat=$features clusterfile=$clusterfile testfile=$outputdir.sentiment.out eval=exact tokopt=ATB > ../experiments/paper-experiments/$outputdir/$outputdir.exact.final.log
+
+java main/Run in=../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment binfeat=$features clusterfile=$clusterfile testfile=$outputdir.sentiment.out eval=overlap tokopt=ATB> ../experiments/paper-experiments/$outputdir/$outputdir.overlap.final.log
+
+java main/Run in=../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment binfeat=$features clusterfile=$clusterfile testfile=$outputdir.sentiment.out eval=prop-overlap tokopt=ATB > ../experiments/paper-experiments/$outputdir/$outputdir.prop-overlap.final.log
+
+java main/Run in=../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment binfeat=$features clusterfile=$clusterfile testfile=$outputdir.sentiment.out eval=mention-overlap tokopt=ATB > ../experiments/paper-experiments/$outputdir/$outputdir.mention-overlap.final.log
+
+echo Done

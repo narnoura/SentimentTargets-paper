@@ -1,0 +1,76 @@
+# Example run:
+
+# ./runcrf++pipelineclusters lemma+pos+clusters Lex,MadamiraPos,WordClusters $clusterfile 1000 notok
+
+outputdir=$1
+features=$2
+clusterfile=$3
+k=$4
+tokopt=$5
+
+echo Output directory: $1
+echo Features: $2 
+echo Cluster file: $3
+echo k: $4
+echo tokopt: $5
+
+echo Building feature files 
+
+mkdir ../experiments/paper-experiments/$outputdir/$k
+mkdir ../experiments/paper-experiments/$outputdir/$k/target
+mkdir ../experiments/paper-experiments/$outputdir/$k/sentiment
+
+cd ../src
+
+java main/Run in=../data/arabic-finegrained/train.xml modelopt=CRF-target  runopt=train outputdir=../experiments/paper-experiments/$outputdir/$k/target binfeat=$features clusterfile=$clusterfile tokopt=$tokopt
+
+java main/Run in=../data/arabic-finegrained/train.xml modelopt=CRF-sentiment runopt=train outputdir=../experiments/paper-experiments/$outputdir/$k/sentiment binfeat=$features clusterfile=$clusterfile tokopt=$tokopt
+
+java main/Run in=../../../../data/arabic-finegrained/dev.xml modelopt=CRF-target  runopt=train outputdir=../experiments/paper-experiments/$outputdir/$k/target binfeat=$features clusterfile=$clusterfile tokopt=$tokopt
+
+echo Training crf++ 
+
+cd ../CRF++-0.58
+
+./crf_learn ../template_targets ../experiments/paper-experiments/$outputdir/$k/target/train.raw.features $outputdir.target.model 
+
+./crf_learn ../template_sentiment ../experiments/paper-experiments/$outputdir/$k/sentiment/train.raw.features $outputdir.sentiment.model 
+
+echo Tagging targets
+
+./crf_test  -m $outputdir.target.model ../experiments/paper-experiments/$outputdir/$k/target/dev.raw.features > $outputdir.target.out
+
+mv $outputdir.target.model ../experiments/paper-experiments/$outputdir/$k/sentiment
+mv $outputdir.target.out ../experiments/paper-experiments/$outputdir/$k/sentiment
+
+echo Building features for tagging sentiment
+
+cd ../src
+
+java main/Run in=../data/arabic-finegrained/dev.xml modelopt=CRF-pipeline  runopt=test outputdir=../experiments/paper-experiments/$outputdir/$k/sentiment binfeat=$features testfile=$outputdir.target.out eval=subset clusterfile=$clusterfile tokopt=$tokopt > ../experiments/paper-experiments/$outputdir/$outputdir.subset-overlap.pipeline.log
+
+echo Tagging sentiment
+
+cd ../CRF++-0.58
+
+./crf_test  -m $outputdir.sentiment.model ../experiments/paper-experiments/$outputdir/$k/sentiment/dev.raw.features > $outputdir.sentiment.out
+
+mv $outputdir.sentiment.model ../experiments/paper-experiments/$outputdir/$k/sentiment
+mv $outputdir.sentiment.out ../experiments/paper-experiments/$outputdir/$k/sentiment
+
+echo Returning to home directory
+
+cd ../src
+
+echo Evaluating
+
+java main/Run in=../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/$k/sentiment binfeat=$features clusterfile=$clusterfile tokopt=$tokopt testfile=$outputdir.sentiment.out eval=subset-overlap > ../experiments/paper-experiments/$outputdir/$k/$outputdir.subset-overlap.final.log
+
+java main/Run in=../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/$k/sentiment binfeat=$features clusterfile=$clusterfile tokopt=$tokopt testfile=$outputdir.sentiment.out eval=exact > ../experiments/paper-experiments/$outputdir/$k/$outputdir.exact.final.log
+
+java main/Run in=../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/$k/sentiment binfeat=$features clusterfile=$clusterfile  tokopt=$tokopt testfile=$outputdir.sentiment.out eval=overlap > ../experiments/paper-experiments/$outputdir/$k/$outputdir.overlap.final.log
+
+java main/Run in=../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/$k/sentiment binfeat=$features clusterfile=$clusterfile tokopt=$tokopt testfile=$outputdir.sentiment.out eval=prop-overlap > ../experiments/paper-experiments/$outputdir/$k/$outputdir.prop-overlap.final.log
+
+
+java  main/Run in=../data/arabic-finegrained/dev.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/$k/sentiment binfeat=$features clusterfile=$clusterfile tokopt=$tokopt testfile=$outputdir.sentiment.out eval=mention-overlap > ../experiments/paper-experiments/$outputdir/$k/$outputdir.mention-overlap.final.log
