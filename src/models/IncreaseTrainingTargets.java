@@ -294,10 +294,6 @@ public class IncreaseTrainingTargets {
 	return comment;
 }
 	
-
-	// TO DO: use centering theory (see if we can relate the entity to the syntactic position
-	// to increase precision) check Regina's paper
-	
 	// Returns true if the token is a potential
 	// content target word for Arabic
 	public boolean ContentTargetWord(Token t) {
@@ -305,34 +301,9 @@ public class IncreaseTrainingTargets {
 			  && !t.morph_features.containsKey("NO_ANALYSIS")
 			  && !t.pos_.isEmpty() 
 			  && TopicSalience.IsNominal(t));
-			//  && (t.pos_.equals("noun") || t.pos_.equals("noun_prop") 
-				//	  || t.pos_.equals("adj")));
 	}
 	
-	/*if (!t.morph_features.isEmpty() 
-					&& !t.morph_features.containsKey("NO_ANALYSIS") 
-					&& !t.pos_.isEmpty()) {
-				pos = t.pos_;
-				lemma = t.morph_features.get("lex");
-			}  else {
-				pos = "NO_ANALYSIS";
-				lemma = t.text_;
-			}*/
-	
-	// Increase By Coreference. All tokens that corefer to a target will be annotated as targets
-	// OPTION 1: Implement Eraldo's paper
-	// OPTION 2: A simple unsupervised clustering system that clusters entities IN the comment, perhaps for pronoun
-	// mentions returns the closest pronoun with gender match or so. (e.g consider all possessive pronouns and such,
-	// make sure we're getting the right BW pos when updating tokenized POS)
-	// then also incorporate the coref in the features (e.g dependency tree of coref entity, 
-	//													or whether parent of coref has sentiment
-	//													what else?, or binary whether it co-refers 
-	//													to a target)
-	
-	// By entity clusters. All tokens which cluster in the same entity as a target will be annotated as
-	// targets.
-	
-	
-	// PMI. all tokens which have a high PMI with the target. (e.g top k or greater than a threshold)
+
+
 	
 }
