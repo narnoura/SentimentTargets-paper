@@ -79,8 +79,6 @@ public class Runner {
 		input = input.replaceAll("xml", "raw");
 		File input_file = new File(input);
 		base_input_file = input_file.getName();
-		// for undet experiments
-		base_input_file = base_input_file.replace("-undet", "");
 	}
 	
 	public void SetTestFile (String test_file) {
@@ -257,7 +255,7 @@ public class Runner {
 			 //feature_comments = CoreferenceFeatures.AnnotateDataWithAllCoreference(feature_comments);
 		 }
 		 
-		 // Update topic salience features (// The order of this matters if we replace morph in coreference)
+		 // Update topic salience features 
 		 if (binary_features.contains("Salience")) {
 			 System.out.println("Updating salience and topic signatures\n");
 			 HashMap<String,Double> corpus_counts = 
@@ -333,8 +331,7 @@ public class Runner {
 				t.SetSentiment(m.sentiment_);
 				// Set morph features to clitics here
 				t.SetMorphFeatures(m.morph_features);
-				// HERE THIS TEXT IS NORMALIZED (from tokenization output) I assume because we get 
-				// t from the tokenized comments not from mada_comments. But it is only in training
+				// HERE THIS TEXT IS NORMALIZED (from tokenization output) But it is only in training
 				// and not in evaluation.
 				// Tokenized Madamira input is in utf8, convert it back
 				t.SetText(BuckwalterConverter.ConvertToBuckwalter(t.text_)); 
@@ -484,16 +481,12 @@ public class Runner {
 			// this function is not doing anything right now. We're just writing the file.
 			TargetCRF.TrainFromFiles(file_path); 
 		}
-		else if (model_type.equals("CRF-sentiment")) { // Can add sentiment features to this 
+		else if (model_type.equals("CRF-sentiment")) {  
 			fe.SetLabelType("sentiment"); 
 			ExternalCRF TargetCRF = new ExternalCRF(fe);
 			TargetCRF.SetOutputDir(output_directory);
 			TargetCRF.WriteFeatureFile("train", file_path);
 			TargetCRF.TrainFromFiles(file_path);
-		}
-		// This option is not available now.
-		else if (model_type.equals("CRF-pipeline")) {
-			
 		}
 		else if (model_type.equals("CRF-target+sentiment")) {
 			System.out.println("Setting up feature extractor for "
@@ -539,11 +532,9 @@ public class Runner {
 			System.out.println("Evaluating sentiment of targets\n");
 			ALL_NP baseline_sentiment_predictor = new ALL_NP();
 			LexiconProcessor SlsaProcessor = new LexiconProcessor();
-			SlsaProcessor.ReadSlsa(SlsaProcessor.lexicon_files.get("Slsa"));
+			SlsaProcessor.ReadSlsa(SlsaProcessor.lexicon_files.get("MPQA"));
 			output_comments = baseline_sentiment_predictor.
 					UpdateSentimentForTargetsSentenceLevel(output_comments, SlsaProcessor);
-			// output_comments = baseline_sentiment_predictor.
-				//	UpdateSentiment(output_comments, SlsaProcessor);
 		}
 		// This model trains only sentiment (positive or negative)
 		// assuming the target is already known
@@ -599,14 +590,13 @@ public class Runner {
 			}
 
 			System.out.println("Running sentiment model\n");
-			fe.SetInput(output_comments); // don't care about the tokenization because we're not evaluating in the second model 
-			fe.SetLabelType("sentiment"); // just writing features
+			fe.SetInput(output_comments);  
+			fe.SetLabelType("sentiment"); 
 			fe.SetPipelineModel(true); // for creating sentiment field when undetermined
-			// NOTE: We don't call IncreaseTraining again, but we can also boost the targets here in the output
+			// We don't call IncreaseTraining again, but we can also boost the targets here in the output
 			ExternalCRF SentimentCRF = new ExternalCRF(model_file);
 			SentimentCRF.SetFeatureExtractor(fe);
 			SentimentCRF.SetOutputDir(output_dir);
-			// actually doesn't matter
 			SentimentCRF.WriteFeatureFile("dev", file_path);
 			//SentimentCRF.WriteFeatureFile("test", file_path);
 		}
