@@ -26,9 +26,6 @@ public class Token {
 	// e.g word, morpheme, whatever tokenization applies
 	// When comparing tokens, enforces them to have the same tokenization scheme
 	// word, ATB, D3 (MyD3)... 
-	//! Note! Mada words keep the original offsets 
-	// even though they separate words from punctuations (yay!)
-	// So we can keep the original index of the targets
 	public String type_;
 	// Part of speech
 	public String pos_;
@@ -40,16 +37,12 @@ public class Token {
 	public String BPC;
 	// optional
 	//public String parse_tree;
-	// Can also have a hashmap for all features
-	// part of an entity
 	public boolean entity;
 	// B,I
 	public String entity_type;
 	// full mention test
 	public String entity_text;
-	// entity id ?
-	
-	
+
 	// Token index in comment
 	public int comment_offset_;
 	// Token index in target. set to -1 if not a target
