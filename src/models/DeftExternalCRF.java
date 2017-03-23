@@ -7,7 +7,6 @@ import java.util.List;
 import data.Comment;
 import util.FileReader;
 
-// I already had it!!! Move files needed here
 public class DeftExternalCRF extends ExternalCRF {
 	
 	public HashMap<String, String> crf_config;
@@ -24,14 +23,9 @@ public class DeftExternalCRF extends ExternalCRF {
 	public DeftExternalCRF(String model_file) {
 		super(model_file);
 	}
-	// Needed because it takes DeftFeatureExtractor rather than 
-	// FeatureExtractor
 	public void SetFeatureExtractor(DeftFeatureExtractor fe) {
 		this.fe = fe;
 	}
-	
-	// WriteFeatureFile won't work because it accesses FeatureExtractor 
-	// rather than DeftFeatureExtractor
 	public void DEFTWriteFeatureFile(String train_or_test,
 			String input_path) {
 			
@@ -53,22 +47,14 @@ public class DeftExternalCRF extends ExternalCRF {
 					all_features += token_features + "\n";
 				}
 				all_features += "\n";
-				//fw.WriteSentence(data);
 			}
 			System.out.println("Writing features");
 			util.FileWriter.WriteFile(feature_file, all_features);
-			//fw.Complete();
 		}
 	
-	// Tests CRF-Target model from file
+		// Tests CRF-Target model from file
 		public List<Comment> TestFromFileDEFT (String file_path,
 				List<Comment> input_comments, boolean tokenized_space) {
-			/*System.out.println("TEST FILE FROM DEFT");
-			for (Comment c: input_comments) {
-				if (c.tokens_.isEmpty()) {
-					System.out.println("Just after runner: comment has no tokens. Fuck this.");
-				}
-			}*/
 			boolean skipempty = false;
 			List<String> predicted_this_comment = new ArrayList<String>();
 			List<Comment> output_comments = new ArrayList<Comment>();
@@ -83,7 +69,7 @@ public class DeftExternalCRF extends ExternalCRF {
 			for (String line : lines) {
 				line = line.trim();
 				if (line.isEmpty() || line.equals(" ") || line.equals("")) {
-					Comment input = input_comments.get(comment); // DEFT
+					Comment input = input_comments.get(comment); 
 					if (input.tokens_.isEmpty()) {
 						System.out.println("Input comment has no tokens!");
 					}
@@ -102,7 +88,6 @@ public class DeftExternalCRF extends ExternalCRF {
 					predicted_this_comment = new ArrayList<String>();
 				}
 				else {
-					//String[] features = line.split(" ");
 					String[] features = line.split("\t"); 	
 					String label = features[features.length-1];
 					predicted_labels.add(label);
