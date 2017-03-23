@@ -32,7 +32,7 @@ With clusters:
 ./runcrf++pipeline-ATB best-linguistic+clusters-ATB Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment,WordClusters ../data/word-clusters/ar-wiki-classes-250-lemma+ATB.sorted.txt
 
 
-### 3)  To run the full best linguistic pipeline (D3+ATB) with  D3 for targets and ATB for sentiment:
+### 3)  To run the full best-linguistic pipeline (D3+ATB) with  D3 for targets and ATB for sentiment:
 
 ./runcrf++pipelineD3+ATB best-linguistic-D3+ATB Lex,MadamiraPOS,NER,BPC,Dependency,Sentiment 
 
