@@ -69,7 +69,7 @@ Note that for low-resource experiments, you need to uncomment the extra features
 
 ### 6) To run the model on blind test data:
 
-./runcrf++pipelinetest <experiment-name> <feature list> <cluster file>
+./runcrf++pipelinetest $experiment-name $feature-list $cluster-file
 This script is currently configured to test in D3+ATB mode. 
 
 ### 7) For a guide to running all paper experiments, use this file:
