@@ -1,6 +1,6 @@
 # SentimentTargets-paper
 
-## Make sure CRF++ is installed (C++ compiler required)
+Make sure CRF++ is installed (C++ compiler required)
 
 https://taku910.github.io/crfpp/#install
 
