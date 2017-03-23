@@ -141,8 +141,6 @@ public class LexiconProcessor {
 	// (POS currently is: n,v,a,r)
 	// Automatically average the scores across
 	// different lemma-POS pairs with different offsets
-	// TODO: weighted average, or max, or sort file by pos
-	// TODO: will probably need to debug.
 	public void ReadArsenl (String file) {
 		System.out.println("Reading Arsenl\n");
 		boolean skipempty = true;
@@ -179,15 +177,8 @@ public class LexiconProcessor {
 					String[] next_fields = next_line.split(";");
 					temp = next_fields[0];
 					count +=1;
-					// NOTE! must compare pos. they ignored it in the paper. so did Ramy I think.
-					// try to re-print the lexicon and sort by pos.
-					// Otherwise just average for all lemmas.
-					// TODO Also: Try weighted average by confidence
-					
-					
-					// *For adj experiment* : pos = fields[1]
-					// if pos not = adj, continue
-					
+					// NOTE! must compare pos. they ignored it in the paper.
+				
 					avg_pos += Double.parseDouble(fields[2]);
 					avg_neg += Double.parseDouble(fields[3]);
 					avg_neut += (1 - Double.parseDouble(fields[2])
@@ -201,11 +192,6 @@ public class LexiconProcessor {
 				String key = lemma;
 				Double values[] = new Double[] {avg_pos,avg_neg,avg_neut};
 				lexicon.put(key, values);
-				// TODO key should only be lemma then. right now it's putting the 
-				// first encountered pos in the key.
-				//System.out.println("ArSenL: key:" + key + " " + 
-					//avg_pos + " " + avg_neg + " " + avg_neut);
-				
 			}
 		}
 		catch (Exception e) {
@@ -215,7 +201,6 @@ public class LexiconProcessor {
 	}
 	
 	public boolean HasArsenlKey (String lemma) {
-		//return(this.Arsenl.get(lemma + ":" + pos) != null);
 		return(this.Arsenl.containsKey(lemma));
 	}
 	
@@ -325,8 +310,6 @@ public class LexiconProcessor {
 				if (polarity.equals("") || lemma.equals("")) {
 					continue;
 				}
-				//System.out.println("Sifaat lemma:" + lemma);
-				//System.out.println("Sifaat sentiment:" + polarity);
 				lexicon.put(lemma, Integer.parseInt(polarity));
 				}
 		}
@@ -424,9 +407,4 @@ public class LexiconProcessor {
 		}
 		return pol;
 	}
-	
-	
 }
-
-
-
