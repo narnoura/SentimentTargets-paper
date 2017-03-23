@@ -6,8 +6,6 @@ echo Output directory: $1
 echo Features: $2 
 echo Cluster file: $3
 
-#mkdir 
-
 echo Building feature files 
 
 mkdir ../experiments/paper-experiments/$outputdir
@@ -64,7 +62,6 @@ java main/Run in=../data/arabic-finegrained/test.xml modelopt=CRF-sentiment  run
 java main/Run in=../data/arabic-finegrained/test.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment/test binfeat=$features testfile=$outputdir.test.sentiment.out eval=overlap clusterfile=$clusterfile tokopt=ATB > ../experiments/paper-experiments/$outputdir/$outputdir.test.overlap.final.log
 
 java main/Run in=../data/arabic-finegrained/test.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment/test binfeat=$features testfile=$outputdir.test.sentiment.out eval=prop-overlap clusterfile=$clusterfile tokopt=ATB > ../experiments/paper-experiments/$outputdir/$outputdir.test.prop-overlap.final.log
-
 
 java main/Run in=../data/arabic-finegrained/test.xml modelopt=CRF-sentiment  runopt=test outputdir=../experiments/paper-experiments/$outputdir/sentiment/test binfeat=$features testfile=$outputdir.test.sentiment.out eval=mention-overlap clusterfile=$clusterfile tokopt=ATB > ../experiments/paper-experiments/$outputdir/$outputdir.test.mention-overlap.final.log
 
