@@ -27,10 +27,7 @@ public class Evaluator {
 	public String metrics;
 	public List<List<Target>> matching_targets;
 	public static boolean exclude_undetermined = false;
-	//public static String encoding = "english"; // Changed for DEFT
 	public static String encoding = "arabic"; 
-	
-	// These are needed to get overall f-measure excluding undetermined targets
 	public Double num_gold_targets_with_sentiment = 0.0;
 	public Double num_predicted_targets_with_sentiment = 0.0;
 	
@@ -41,28 +38,6 @@ public class Evaluator {
 		matching_targets = new ArrayList<List<Target>>();
 		this.output_comments = output_comments;
 		this.gold_comments = gold_comments;
-		/*for (Comment c: gold_comments) {
-			for (Target t: c.targets_) {
-				if (t.sentiment_.contains("pos")) {
-					t.SetSentiment("positive");
-				} 
-				if (t.sentiment_.contains("neg")) {
-					t.SetSentiment("negative");
-				}
-				
-			}
-		}
-		for (Comment c: output_comments) {
-			for (Target t: c.targets_) {
-				if (t.sentiment_.contains("pos")) {
-					t.SetSentiment("positive");
-				} 
-				if (t.sentiment_.contains("neg")) {
-					t.SetSentiment("negative");
-				}
-				
-			}
-		}*/
 	}
 	
 	public void Set(List<Comment> output_comments, List<Comment> gold_comments) {
@@ -73,8 +48,6 @@ public class Evaluator {
 			matching_targets = new ArrayList<List<Target>>();
 	}
 
-	// must check if targets in gold comments are not empty
-	// check the proportional match thing, and the usual exact / partial match I did before
 	// 0: recall
 	// 1: precision
 	// 2: f-measure
@@ -83,9 +56,7 @@ public class Evaluator {
 	// 5: f-sent =  ( f-pos + f-neg ) / 2
 	// 6: accuracy
 	public  List<Double> Evaluate(String match_type) {
-		boolean exclude_undetermined = true; // ONLY FOR SENTIMENT
-		// We are counting them as targets just not in the sentiment evaluation 
-		// since we don't know their sentiment
+		boolean exclude_undetermined = true; 
 		List<Double> scores = GetPrecisionRecallFMeasure(match_type);
 		List<Double> sentiment_scores = EvaluateSentiment(exclude_undetermined);
 		scores.addAll(sentiment_scores);
@@ -146,7 +117,6 @@ public class Evaluator {
 			}
 			num_matched +=1;
 			if (gold_target.sentiment_.equals(predicted_target.sentiment_)) {
-				//System.out.println("Predicted target sentiment:" + predicted_target.sentiment_);
 				accuracy +=1;
 				if (gold_target.sentiment_.equals("positive")) {
 					num_matched_pos +=1; }
@@ -161,7 +131,6 @@ public class Evaluator {
 				num_neg_in_matching_targets +=1;
 			}
 			// Predicted sentiments in matching targets
-			//System.out.println("Predicted target sentiment:" + predicted_target.sentiment_);
 			if (predicted_target.sentiment_ != null) {
 			if (predicted_target.sentiment_.equals("positive")) {
 				num_predicted_pos +=1;
@@ -190,10 +159,8 @@ public class Evaluator {
 		
 		double pos_precision = 1;
 		double pos_recall  = 1;
-		//double pos_recall = 0;
 		double neg_precision = 1;
 		double neg_recall = 1;
-		//double neg_recall = 0;
 		if (num_pos_in_matching_targets!=0) {
 			pos_recall = num_matched_pos/num_pos_in_matching_targets;
 		}
@@ -268,9 +235,6 @@ public class Evaluator {
 			   } // end output targets not null
 			} // end for target g
 			} // end  c targets not null
-			/*for (Target to: output.targets_) {
-				System.out.println("Predicted target:" + to.text_);
-			}*/
 		    i+=1;
 		} // end for gold comments
 		System.out.println ("\nRecall: Number of correct matching targets: " + match_true);
@@ -295,21 +259,11 @@ public class Evaluator {
 			Comment gold = gold_comments.get(i);
 			if (c.targets_ != null) {
 			for (Target o: c.targets_) {
-				//System.out.println("Predicted target:" + BuckwalterConverter.ConvertToUTF8(o.text_) 
-				//+ "Sentiment:" + o.sentiment_);
 				num_predicted_targets +=1;
 				if (gold.targets_ != null) {
-				// If there are two output targets subset 
-				//  matching the same gold target both will be counted
 				for (Target g: gold.targets_) {
-					/*if (!g.sentiment_.equals("undetermined")) {
-						this.num_predicted_targets_with_sentiment +=1;
-					}*/
 					if (exclude_undetermined && g.sentiment_.equals("undetermined")) {
 						continue; }
-					/*if (CompareText(o.text_, g.text_, match_type)) {
-						match_true+=1;
-						break; }*/
 					double score = CompareTargets(g,o,match_type,gold,c);
 					if (score  > 0) {
 						match_true += score;
@@ -336,16 +290,6 @@ public class Evaluator {
 	
 	public List<Double> GetCommentFmeasures(Comment pred, Comment gold) {
 		List<Double> f_measures = new ArrayList<Double>();
-		// 0: overlap
-		//    overlap-sentiment
-		// 1: subset-overlap
-		//	  subset_overlap-sentiment
-		// 2: prop-match
-		//    prop-match-sentiment
-		// 3: subset
-		//    subset-sentiment
-		// 4: exact
-		//    exact-sentiment
 		
 		List<Double> overlap = GetCommentFmeasure(pred,gold,"overlap");
 		f_measures.addAll(overlap);
@@ -664,17 +608,6 @@ public class Evaluator {
 		for (Token tok1: t1_tokens) {
 			for (Token tok2: t2_tokens) {
 				if (tok1.text_.equals(tok2.text_)) {
-					/*System.out.println("t1:"+t1.text_);
-					System.out.println("t2:"+t2.text_);
-					System.out.println("offsets1:");
-					for (int k1=0;k1<indices_1.size();k1++) {
-						System.out.println(indices_1.get(k1) + ",");
-					}
-					System.out.println("offsets2:");
-					for (int k2=0;k2<indices_2.size();k2++) {
-						System.out.println(indices_2.get(k2) + ",");
-					}*/
-					
 					for (Integer begin_1: indices_1) {
 						for (Integer begin_2: indices_2) {
 							int end_1 = begin_1 + t1_tokens.size() - 1;
