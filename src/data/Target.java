@@ -84,30 +84,4 @@ public class Target {
 		tokens = Tokenizer.SimpleTokenize(this.text_, token_type);
 		return tokens;
 	}
-	
-	// Restores original word tokenization from ATB tokenization
-	// Attaches separated clitics
-	// Agnostic to original tokenization, so only use this for 
-	// targets which we know are noun phrases and don't have 
-	// ambiguous tokens such as conjunction 'w'
-	// If input encoding is in utf8, it converts to BW first
-	// and returns the target in utf8
-	/*public void DetokenizeATB(String input_encoding) {
-	try {
-		if (input_encoding.equals("utf8") || input_encoding.equals("utf8ar")) {
-			this.text_ = util.BuckwalterConverter.ConvertToBuckwalter(this.text_);
-			for (Token t: this.tokens_) {
-				t.text_ = util.BuckwalterConverter.ConvertToBuckwalter(t.text_);
-			}
-		}
-		String detokenized = util.Tokenizer.ATBDetokenize(this.text_);
-		
-	}
-	catch (Exception e)
-	{
-		e.printStackTrace();
-	}
-	}*/
-
-	
 }
