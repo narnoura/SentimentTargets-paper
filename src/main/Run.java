@@ -12,11 +12,10 @@ import java.io.File;
 // For raw input file containing only test data: use in=<raw input file>. Format should be one comment per line.
 // outputdir=<output directory>
 // runopt=<train|test|> 
-// modelopt=<ALL_NP, CRF-target>
+// modelopt=<ALL_NP, CRF-target, CRF-sentiment, CRF-target+sentiment>
 // modelfile= <model file> if test option
 // binfeat = <string separated list of binary features> (Word,MadamiraPOS,sentiment...)
-// contfeat = <string separated list of continuous or embedding features>
-// langfiles= <directory with preproduced language files, e.g madamira files> // for MADA files: if not existing, run.
+// langfiles= <directory with preproduced language files, e.g madamira files
 // inputenc= <utf8ar|bw|latin> 
 // lexicon= <path to lexicon file>
 // -useparse for using existing parse
@@ -35,9 +34,7 @@ import models.Runner;
 import eval.ApproximateRandomization;
 import eval.Evaluator;
 public class Run {
-
 	public static void main (String[] args) {
-		
 		String input_file = null;
 		String input_type = "xml";  // has gold labels
 		String output_dir = "../experiments/paper-experiments";
@@ -70,7 +67,7 @@ public class Run {
 		// Increase training data by lemma matching, topic or coreference
 		boolean boost_training = false;
 		// match type for evaluation
-		String eval_match_type = "subset";
+		String eval_match_type = "subset-overlap";
 		// set true to calculate all f-measures for pairwise t-test 
 		boolean all_significance = false;
 		// for D3 and ATB option in pipeline
@@ -238,10 +235,6 @@ public class Run {
 		} 
 		 else if (run_option.equals("significance")) {
 			 System.out.println("\nEvaluating significance using testfile1 and testfile2");	
-				/*if (test_file_1.isEmpty() || test_file_2.isEmpty()) {
-					System.out.println("Empty test file, exiting.\n");
-					System.exit(0);
-				}*/
 			 System.out.println("Test file 1:"+test_file_1 +"\n");
 			 System.out.println("Test file 2:"+test_file_2 +"\n");
 				if (significance_thresholds.isEmpty()) {
@@ -254,8 +247,6 @@ public class Run {
 			// For calculating significance with baseline
 			List<Comment> output_comments_1 = runner.Run(input_comments,
 				"ALL_NP" , use_existing_parse, output_dir, model_file); //make sure to set the lexicon
-			//	List<Comment> output_comments_1 = runner.Run(input_comments,
-			//			 model_option, use_existing_parse, output_dir, model_file);
 					 if (output_comments_1.isEmpty()) {
 						 System.out.println("Main:Output comments for file 1 are empty!! \n");
 						} else {
@@ -264,7 +255,6 @@ public class Run {
 			  // Get second set of comments 
 			  runner.SetTestFile(test_file_2);
 			  runner.SetTokenizeOption(tok_opt_2);
-			  // runner.SetD3andATB(true) // won't need
 			  List<Comment> output_comments_2 = runner.Run(input_comments,
 						 model_option, use_existing_parse, output_dir, model_file);
 					 if (output_comments_2.isEmpty()) {
