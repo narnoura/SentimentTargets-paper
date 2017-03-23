@@ -66,19 +66,6 @@ public class FileWriter {
 			}
 		}
 	
-	/*public static boolean WriteUTF8File (String file_path, String content) {
-		try{
-			PrintWriter pw = new PrintWriter(file_path, "UTF-8");
-			pw.write(content);
-			pw.close();
-			return true;
-		} catch(Exception e){
-			System.out.println(e.getMessage());
-			return false;
-		}
-		
-	}*/
-	
 	public static void WriteUTF8File (String file_path, String content) {
 		try {
 		Writer out = new BufferedWriter(new OutputStreamWriter (
