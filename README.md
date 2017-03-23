@@ -9,7 +9,7 @@ https://taku910.github.io/crfpp/#install
 
 Go to scripts directory
 
-./runcrf++pipeline $experiment-name $list-of-features $cluster-file
+./runcrf++pipeline $experiment-name $list-of-features $clusterfile
 
 All outputs will be saved in the log files under experiments/paper-experiments/$experiment-name-folder
 
