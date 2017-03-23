@@ -1,5 +1,10 @@
 # SentimentTargets-paper
 
+## Make sure CRF++ is installed (C++ compiler required)
+
+https://taku910.github.io/crfpp/#install
+
+
 ## How to run the scripts
 Go to scripts directory
 ./runcrf++pipeline <experiment-name> <List of features> <cluster-file>
