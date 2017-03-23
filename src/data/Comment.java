@@ -41,7 +41,6 @@ public class Comment {
 	
 	
 	// These are optional for DEFT
-	// Later make a Source object
 	public String author;
 	public String author_id;
 	public Integer author_offset;
@@ -170,7 +169,6 @@ public class Comment {
 	// Given a text and its phrase of tokens, find the indicies
 	// where the phrase occurs in the comment 
 	// Returns -1 if the phrase doesn't occur 
-	// TODO: If phrase of tokens is not given, assume it's space tokenized?
 	// NOTE: now comparing the token text rather than the actual token
 	// since offsets may or may not be set
 	public List<Integer> Find (String phrase_text,
@@ -211,17 +209,6 @@ public class Comment {
 							i+= phrase_tokens.size();
 						}
 					}
-					/*else {
-						System.out.println("\nDidn't find matching token!");
-						System.out.println("Phrase tokens:\n");
-						for (int k=0; k<phrase_tokens.size(); k++) {
-							System.out.println("\t" + phrase_tokens.get(k).text_);
-						}
-						System.out.println("Comment tokens:\n");
-						for (int k=0; k< this.tokens_.size(); k++) {
-							System.out.println("\t" + this.tokens_.get(k).text_);
-						}
-					}*/
 				}
 			}		
 		}
@@ -373,61 +360,12 @@ public class Comment {
 	// Split by separator. Return comment with token offsets modified
 	// by excluding separators.
 	public List<Token> Split(Set<String> separators) {
-		//List<List<Token>> split_tokens = new ArrayList<List<Token>>();
-		/*if (this.tokens_.size() == 1 
-				&& separators.contains(this.tokens_.get(0).text_)) {
-			return null;
-		}*/
-		
-		/*for (Token tok: this.tokens_) {
-			if (separators.contains(tok.text_)) {
-				if (tok.comment_offset_ != 0) {
-					tok.SetCommentOffset(this.tokens_.get(i-1).comment_offset_);
-				}
-			}
-			i+=1;
-		}*/
-		/*List<Token> separatorless = this.tokens_;
-		int i=0;
-		for (Token tok: separatorless) {
-			if (separators.contains(tok.text_)) {
-				if (tok.comment_offset_ != 0) {
-					tok.SetCommentOffset(this.tokens_.get(i-1).comment_offset_);
-				}
-				else if (tok.comment_offset_ == 0) {
-					tok.SetCommentOffset(0);
-				}
-			}
-			else {
-				tok.SetCommentOffset(this.tokens_.get(i).comment_offset_);
-			}
-			i+=1;
-		}*/
-		
 		List<Token> separatorless = new ArrayList<Token>();
 		for (Token tok: this.tokens_) {
 			if (!separators.contains(tok.text_)) {
 				separatorless.add(tok);
-				//System.out.println("Separatorless: added " +  
-				//BuckwalterConverter.ConvertToUTF8(tok.text_));
 			}
-			/*else{
-				System.out.println("Didn't add " +  
-						BuckwalterConverter.ConvertToUTF8(tok.text_));
-			}*/
 		}
-		
-		/*System.out.println("Size of this tokens: " + this.tokens_.size());
-		System.out.println("Size of separatorless: " + separatorless.size());*/
-		
-		/*if (separatorless.isEmpty()) {
-			System.out.println("We have a comment existing only of punctuations \n");
-			System.exit(0);
-		}*/
-		
 		return separatorless;
 	}
-
-	
-
 }
