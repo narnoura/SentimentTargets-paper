@@ -9,7 +9,6 @@ public class DeftComment extends Comment {
     /*
      * Deft Comment can specify posts within the comment and tokenize in Deft-specific manner
      */
-	/* may not be needed after all */
 	
 	public List<DeftToken> deft_tokens;
 	
