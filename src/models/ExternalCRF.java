@@ -23,21 +23,16 @@ import util.FileWriter;
 
 /**
  * @author Narnoura
- * Runs a simple linear-chain CRF 
+ * Prepares files for a simple linear-chain CRF 
  * for tagging targets and/or sentiment
- * by calling external tools (B.Yang's SemiCRF 
- * implementation, Mallet's implementation)
  */
+
 public class ExternalCRF {
 
 	public HashMap<String, String> crf_config;
 	public String model_file;
 	public FeatureExtractor fe;
 	public String output_dir;
-	//public static boolean coref_after_test = true;
-	
-	//public String run_dir = 
-	
 	// Create new CRF
 	public ExternalCRF() {
 		this.fe = new FeatureExtractor();
@@ -48,7 +43,6 @@ public class ExternalCRF {
 	public ExternalCRF(HashMap<String, String> crf_config) {
 		this.crf_config = crf_config;
 	}
-	// Read existing model from file
 	public ExternalCRF(String model_file) {
 		this.model_file = model_file;
 	}
@@ -79,33 +73,23 @@ public class ExternalCRF {
 		String feature_file = input_path + ".features";
 		System.out.println("Input path:" + input_path);
 		System.out.println("Feature file:" + feature_file);
-		// Too inefficient
-		//FeatureWriter fw = new FeatureWriter(feature_file, " ");
 		System.out.println("Extracting features \n");
 		String all_features = "";
 		StringBuilder builder = new StringBuilder(); // Much faster!
 		int i =0;
 		for (Comment c: fe.input_comments) {
 			List<List<String>> data = fe.Data(c);
-			// System.out.println("Joining features");
 			for (List<String> tokens : data ) {
 				String token_features = String.join(" ", tokens);
-				//all_features += token_features + "\n"; // This is the part that takes time
 				builder.append(token_features);
 				builder.append("\n");
 			}
 			builder.append("\n");
-			//all_features += "\n";
-			//fw.WriteSentence(data);
 			i+=1;
-			/*if (i==2) {
-				System.exit(0);
-			}*/
 		}
 		all_features = builder.toString();
 		System.out.println("Writing features");
 		util.FileWriter.WriteFile(feature_file, all_features);
-		//fw.Complete();
 	}
 
 	// May not be void. May take train parameters
@@ -115,7 +99,6 @@ public class ExternalCRF {
 	// Tests CRF-Target model from file
 	public List<Comment> TestFromFile (String file_path,
 			List<Comment> input_comments, boolean tokenized_space) {
-		// actually for CRF++ we may need a config file :|
 		boolean skipempty = false;
 		List<String> predicted_this_comment = new ArrayList<String>();
 		List<Comment> output_comments = new ArrayList<Comment>();
@@ -130,11 +113,7 @@ public class ExternalCRF {
 		for (String line : lines) {
 			line = line.trim();
 			if (line.isEmpty() || line.equals(" ") || line.equals("")) {
-				//Comment input = input_comments.get(comment); // DEFT
 				Comment input = fe.nontok_comments.get(comment);
-				// (DEFT: use fe.input_comments.get(comment))
-				// For nontokenized space, we can also use input_comments. For tokenized,
-				// have to use nontok_Comments
 				Comment output = new Comment();
 				if (FeatureExtractor.include_labels) {
 				List<String> gold_labels =
@@ -145,13 +124,9 @@ public class ExternalCRF {
 				output = FindTargets(fe.nontok_comments.get(comment), predicted_this_comment);
 				}
 				else {
-					// fix , I changed for DEFT. Should be nontok_comments.get(comment) in the first term
-				/*output = FindTargetsFromTokenized(output, fe.input_comments.get(comment),
-						predicted_this_comment);*/ // when output was initialized to nontok_comments
 					output = FindTargetsFromTokenized(fe.nontok_comments.get(comment), 
 							fe.input_comments.get(comment),
 							predicted_this_comment);
-					//output = FindTargets(output, predicted_this_comment);
 				}
 				output_comments.add(output);
 				comment +=1;
@@ -159,7 +134,6 @@ public class ExternalCRF {
 			}
 			else {
 				String[] features = new String[2];
-				//String[] features = line.split("/t");
 				if (line.contains("\t")) {
 				features = line.split("\t"); 	
 				} else if (line.contains(" ")) {
@@ -183,7 +157,6 @@ public class ExternalCRF {
 	// Tests CRF pos-neg-neutral ("collapsed") model from file
 	public List<Comment> TestTargetsAndSentimentFromFile (String file_path,
 			List<Comment> input_comments, boolean tokenized_space) {
-		// actually for CRF++ we may need a config file :|
 		System.out.println("External CRF: Reading sentiment predictions from this file:" + file_path);
 		boolean skipempty = false;
 		List<String> predicted_this_comment = new ArrayList<String>();
@@ -197,13 +170,7 @@ public class ExternalCRF {
 		for (String line : lines) {
 			line = line.trim();
 			if (line.isEmpty() || line.equals(" ") || line.equals("")) {
-				/*Comment output = fe.nontok_comments.get(comment); // or input_comments PUT THIS BACK
-				//Comment output = fe.input_comments.get(comment); // put this for DEFT (shouldn't matter)*/
-				
 				Comment input = fe.nontok_comments.get(comment);
-				// (DEFT: put back to fe.nontok_comments.get(comment))
-				// For nontokenized space, we can also use input_comments. For tokenized,
-				// have to use nontok_Comments
 				Comment output = new Comment();
 				List<String> gold_labels =
 						fe.ExtractTokenSentimentLabels(fe.input_comments.get(comment));
@@ -221,8 +188,7 @@ public class ExternalCRF {
 				comment +=1;
 				predicted_this_comment = new ArrayList<String>();
 			}
-			else {
-				//String[] features = line.split("\t"); 	
+			else {	
 				String[] features = new String[2];
 				if (line.contains("\t")) {
 				features = line.split("\t"); 	
@@ -242,7 +208,6 @@ public class ExternalCRF {
 	// Should be in DeftExternalCRF
 		public List<Comment> TestTargetsAndSentimentFromFileDEFT (String file_path,
 				List<Comment> input_comments, boolean tokenized_space) {
-			// actually for CRF++ we may need a config file :|
 			boolean skipempty = false;
 			List<String> predicted_this_comment = new ArrayList<String>();
 			List<Comment> output_comments = new ArrayList<Comment>();
@@ -255,9 +220,7 @@ public class ExternalCRF {
 			for (String line : lines) {
 				line = line.trim();
 				if (line.isEmpty() || line.equals(" ") || line.equals("")) {
-					//Comment output = fe.nontok_comments.get(comment); // or input_comments PUT THIS BACK
-					//Comment output = input_comments.get(comment); // put this for DEFT (shouldn't matter)
-					Comment output= new Comment(); // did this because of DEFT bug
+					Comment output= new Comment();
 					Comment input = input_comments.get(comment);
 					List<String> gold_labels =
 							fe.ExtractTokenSentimentLabels(fe.input_comments.get(comment));
@@ -287,12 +250,6 @@ public class ExternalCRF {
 			return output_comments;
 		}
 	
-	// Combines output of 2 CRFs
-	public List<Comment> CombineTargetAndSentimentCRFs(List<Comment> target_output,
-			List<Comment> sentiment_output) {
-		List<Comment> final_output_comments = new ArrayList<Comment>();
-		return final_output_comments;
-	}
 
 	// Evaluate label accuracy, precision, recall, fscore of predicted labels
 	// TODO can have evaluator struct (prec, recall, fscore, acc) or make it a hash or string 
@@ -314,7 +271,6 @@ public class ExternalCRF {
 			System.exit(0);
 		}
 		for (int i =0; i<predicted.size(); i++) {
-			//System.out.println("Predicted:"+predicted.get(i) + " Gold:" + gold.get(i));
 			if (predicted.get(i).equals(gold.get(i))) {
 				acc +=1;
 				if (num_true.containsKey(predicted.get(i))) {
@@ -344,8 +300,7 @@ public class ExternalCRF {
 		acc = acc /tot *100;
 		eval.add(acc);
 		System.out.println("Label accuracy:" + acc);
-	
-		// TODO union of num_actual and num_predicted
+
 		for (String key:  num_actual.keySet()) {
 			double precision;
 			double recall;
@@ -380,11 +335,7 @@ public class ExternalCRF {
 		return eval;
 	}
 	
-	// can eventually move this function to TargetCRF.java
-	// For tokenized space, should reconstruct from original comments
-	// output = FindTargets(input, predicted_this_comment);
 	public Comment FindTargets(Comment input, List<String> predicted_labels) {
-		//System.out.println("Find Targets!");
 		if (input.tokens_.isEmpty()) {
 			System.out.println("Comment has no tokens!");
 		}
@@ -402,9 +353,7 @@ public class ExternalCRF {
 					+ " equal to size of predicted labels. Exiting \n");
 			System.out.println("Size of comment tokens:" + input.tokens_.size());
 			System.out.println("Size of predicted labels:" + predicted_labels.size());
-			System.exit(0); //NOTE: For DEFT, getting some mismatch. Check later.
-			//System.out.println("Last token is:" + input.tokens_.get(input.tokens_.size()-1).text_);
-			//System.out.println("Last predicted token is:" + predicted_labels.get(predicted_labels.size()-1));
+			System.exit(0);
 		}
 		int i=0;
 		String target = "";
@@ -420,8 +369,6 @@ public class ExternalCRF {
 						|| i==predicted_labels.size()-1) {
 					target = target.trim();
 					Target output_target = new Target(target,target_tokens); // changed for DEFT
-					//System.out.println("Output target:" + output_target.text_);
-					//output_target.SetSentiment("negative"); // majority baseline 
 					List<Integer> offsets = new ArrayList<Integer>();
 					Integer first_offset = target_tokens.get(0).comment_offset_;
 					offsets.add(first_offset);
@@ -434,14 +381,7 @@ public class ExternalCRF {
 				// Now update the tokens themselves with target offsets
 				
 				t.SetTargetOffset(k);
-				//System.out.println("Updated target offset with k = " + k);
 				k+=1;
-				
-				// For predicted suffixes 
-				/*if (CoreferenceFeatures.ArabicPronoun(t) || CoreferenceFeatures.ArabicObjectPronoun(t) 
-						|| CoreferenceFeatures.IsArabicPronoun(t)) {
-					
-				}*/
 				
 			} else {
 				output.tokens_.get(i).SetTargetOffset(-1); // added DEFT
@@ -515,18 +455,9 @@ public class ExternalCRF {
 				i+=1;
 			}
 			output.SetTargets(targets);
-			// Keep original text when returning output comments
-			//input.SetText(untok.raw_text_);
 			return output;
 		}
 	
-	//output = FindTargetsFromTokenized(output, fe.input_comments.get(comment),
-			//	predicted_this_comment);
-	//output = FindTargetsFromTokenized(output, fe.nontok_comments.get(comment),
-			//	predicted_this_comment);
-		//output = FindTargetsFromTokenized(fe.nontok_comments.get(comment), fe.input_comments.get(comment),
-			//	predicted_this_comment);
-	//
 	// The word will be mapped to its original untokenized form
 	//
 	// So, if a word 'AlRa2ys' is tokenized into 'Al+' and 'Ra2ys'
@@ -573,18 +504,6 @@ public class ExternalCRF {
 					target_tokens = new ArrayList<Token>();
 					k=0;
 				}
-
-				// For predicted suffixes 
-				/*if (this.coref_after_test && 
-					(CoreferenceFeatures.ArabicPronoun(t)
-					 || CoreferenceFeatures.ArabicObjectPronoun(t) 
-					 || CoreferenceFeatures.IsArabicPronoun(t))) {
-					
-				}*/
-				
-				
-				
-				
 				// Now update the tokens themselves with target offsets
 				t.SetTargetOffset(k);
 				k+=1;
@@ -596,8 +515,6 @@ public class ExternalCRF {
 		input.SetTargets(targets);
 		// Keep original text when returning output comments
 		input.SetText(untok.raw_text_);
-		// The input returned contains the tokenized offsets and processed tokens
-		// But the raw text and targets are untokenized
 		return input;
 	}
 	
@@ -624,7 +541,6 @@ public class ExternalCRF {
 				||	label.equals("pos") || label.equals("neg")
 				) {
 				Token t = input.tokens_.get(i);
-				// System.out.println("Token:" + t.text_));
 				int original_offset = t.comment_offset_;
 				Token original = untok.tokens_.get(original_offset);
 				original.SetSentiment(label);
@@ -634,7 +550,6 @@ public class ExternalCRF {
 				if (!target_tokens.contains(original)) {
 				target += original.text_ + " ";
 				target_tokens.add(original);
-				//System.out.println("Target:" + target);
 				}
 				// each block of pos or neg tokens together will be considered a target
 				if ((i<predicted_labels.size()-1 && !predicted_labels.get(i+1).equals(label))
@@ -662,21 +577,4 @@ public class ExternalCRF {
 		input.SetText(untok.raw_text_);
 		return input;
 	}
-	
-	// Use for mallet, since test file will not have labels.
-	/*public void WriteFeatureFiles(String train_or_test,
-			String input_path) {
-			
-			if (fe.input_comments.isEmpty()) {
-				System.out.println("External CRF: Feature extractor has no input comments. Please set"
-						+ "comments. Exiting \n");
-				System.exit(0);
-			}
-			String basic_file = input_path + ".basic" + ".txt";
-			String lex_file = input_path + ".features" + ".txt";
-			for (Comment c: fe.input_comments) {
-				List<List<String>> binary_features = fe.ExtractBinaryFeatures(c);
-				List<List<String>> basic_features = fe.ExtractBasicFeatures(c);
-			}
-		}*/
 }
