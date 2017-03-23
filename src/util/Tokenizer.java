@@ -44,15 +44,6 @@ public class Tokenizer {
 			}
 			return tokens;
 	}
-	
-	// Split tokens by separator
-	/*public static List<List<Token>> Split(List<Token> tokens, String separator) {
-		List<List<Token>> split_tokens = new ArrayList<List<Token>>();
-		
-		return split_tokens;
-		
-	}*/
-	
 	public static String RemoveExtraWhiteSpace(String text) {
 		return text.replaceAll("(\\s+)", " ");
 	}
@@ -66,9 +57,7 @@ public class Tokenizer {
 	// input is in BW.
 	public static String ProcessLikeMadamira (String text) {
 		text = text.replaceAll("_", "");
-		//text = text.replaceAll("\\.\\z", " \\. ");
-		//text = text.replaceAll("\\D+\\.", " \\. ");
-		
+
 		// Separate digits from words
 		Pattern regex = Pattern.compile("([^\\d+\\s+\\.])(\\d+)");
 		Matcher regexMatcher = regex.matcher(text);
@@ -85,16 +74,10 @@ public class Tokenizer {
 		Pattern regex3 = Pattern.compile("(\\D+)(\\.)");
 		Matcher regexMatcher3 = regex3.matcher(text);
 		if (regexMatcher3.find()) {
-			//System.out.println("Group 1:" + regexMatcher3.group(1));
-			//System.out.println("Group 2:" + regexMatcher3.group(2));
 			text = regexMatcher2.replaceAll(regexMatcher3.group(1) +
 					" " + regexMatcher3.group(2));
 			text = text.replaceAll("\\.", " \\. ");
-			//System.out.println("Text:" + text);
 		}
-		
-		
-		//text = text.replaceAll("(\\S+)(\\.)", "\1 \\.");
 		text = text.replaceAll("\\!", " \\! ");
 		text = text.replaceAll("\\?", " \\? ");
 		text = text.replaceAll("\\,", " \\, ");
@@ -123,9 +106,6 @@ public class Tokenizer {
 	
 	// Splits basic punctuations, digits, removes quote and post tags, lowercases
 	public static String ProcessEnglishDeft (String text) {
-		// For https, quotes, and <a <img : we need to reconstruct them
-		// author = may or may not end in quotations
-		// author=, datetime= and id= will still be attached
 		
 		// Separates quotes and post tags
 		text = text.replaceAll("<quote>", " <quote> ");
@@ -135,33 +115,9 @@ public class Tokenizer {
 		text = text.replaceAll("<post", " <post ");
 		text = text.replaceAll("</post>", " </post> ");
 		
-		// Split author, datetime, id
-		/*text = text.replaceAll("author=", " author= ");
-		text = text.replaceAll("datetime=", " datetime= ");
-		text = text.replaceAll("id=", " id= ");*/
-		
 		// Separate original author for quotes
 		text = text.replaceAll("\\\"\\>", "\\\"\\> "); //"orig_author="abcd">The
 		text = text.replaceAll("</a>", " </a> ");
-		/*Pattern regex4 = Pattern.compile("(orig_author\\=\\s+\\>)(\\s+)");
-		Matcher regexMatcher4 = regex4.matcher(text);
-		if (regexMatcher4.find()) {
-			text = regexMatcher4.replaceAll(regexMatcher4.group(1) + " "
-					+ regexMatcher4.group(2));
-		}*/
-		
-		// Separate basic punctuations
-		// leave / and - and " as is
-		// screws up https
-		// try using stanford tokenizer (NOURA put back if not stanford)
-		/*text = text.replaceAll("\\.", " \\. ");  // may encounter the decimal point issue
-		text = text.replaceAll("\\!", " \\! ");
-		text = text.replaceAll("\\?", " \\? ");
-		text = text.replaceAll("\\,", " \\, ");
-		text = text.replaceAll("\\(", " \\( ");
-		text = text.replaceAll("\\)", " \\) ");
-		text = text.replaceAll("\\;", " \\; ");*/
-		
 		text = RemoveExtraWhiteSpace(text);
 		//text = text.toLowerCase();
 		text = text.trim();
@@ -198,17 +154,8 @@ public class Tokenizer {
 	}
 	
 	// Given input POS in Arsenl format (a,n,v,r)  
-	// (TODO: check: is r adverb?)
-	// TODO check what about other pos in Slsa/Arsenl? 
-	// e.g particles, prepositions, digital, foreign, latin...?
-	// or ATB format, returns VERB, NOUN, ADJ, ADV, STOP or NEG
 	//
 	// Particles: return STOP
-	// Used particularly for indexing sentiment lexicons
-	// Don't resolve when using pos as model features
-	// since they'll be useful
-	//
-	// Can use this for Stop words in LDA!
 	public static String ResolvePOS (String pos) {
 			switch (pos) {
 			
@@ -260,79 +207,14 @@ public class Tokenizer {
 			case "digit" : return "STOP";
 			case "latin" : return "NOUN";
 				
-			
-	
 			default:{ 
 				System.out.println("Invalid input part of speech. "
 						+ "Pls specify a POS tag in Madamira or Arsenl format "
 						+ " \n");
 				return null;
 			}
-			
-			
 		}
-	
-	
-	/*// Assumes the input is in Buckwalter
-	// Re-attaches prepositions and clitics that have been
-	// tokenized by ATB
-	// Replaces/removes ATB braces and LAT markers
-	public static String ATBDetokenize (String phrase) {
-		String detokenized = phrase;
-		/*List<String> detokenized_words = new ArrayList<String>();
-		String[] words = phrase.split(" ");
-		for (int i=0; i<words.length; i++) {
-			if (i<(words.length-1) && words[i].equals("w") || words[i].equals("l")
-					|| words[i].equals("f") || words[i].equals("nA") || words[i].equals("km")
-					|| words[i].equals("hA") || words[i].equals("y")) {
-				detokenized_words.add(words[i] + words[i+1]);
-			}
-		}
-		// words with + after
-		detokenized = phrase.replaceAll("w ", "w");
-		detokenized = phrase.replaceAll("l ", "l");
-		detokenized = phrase.replaceAll("f ", "f");
-		detokenized = phrase.replaceAll("b ", "b");
-		detokenized = phrase.replaceAll("s ", "s");
-		detokenized = phrase.replaceAll("k ", "k");
-		
-		// words with + before
-		detokenized = phrase.replaceAll(" h", "h");
-		detokenized = phrase.replaceAll(" k", "k");
-		detokenized = phrase.replaceAll("f ", "f");
-		detokenized = phrase.replaceAll("b ", "b");
-		detokenized = phrase.replaceAll("s ", "s");
-		
-		return detokenized;
-	}*/
-	
-	
-	// public static Set<String> ReadStopWords (String file_path) {
-	 
-	 
-	// } 
-	
-	
-	// Separate punctuations also, and remove extra spaces. Regex in java?
-	
-	
-	// Tokenize text into tokens according to specified tokenize option
-	// By dafult, splits text by space separator, splits punctuations
-	/*public static List<Token> Tokenize(String text, String tok_option) {
-			// tok_op
-			List<Token> tokens = new ArrayList<Token>();
-			
-			// Default: split by space
-			if (tok_option == "" || tok_option == "space") {
-			String[] words = text.split(" ");
-			for (int i = 0; i< words.length; i++) {
-				Token t = new Token(words[i], i);
-				tokens.add(t);
-			}
-			}
-			
-			return tokens;
-		}*/
+
 
 }
 }
