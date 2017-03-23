@@ -2,24 +2,20 @@ package main;
 
 import java.io.File;
 
-// This is the main run file for the SentimentTarget Extractor.
+// This is the main run file for the SentimentTarget system.
 
 // Run like this:
 // java Run 
-// in=<raw input file> 
-// testfile=<prediction file if testing crf>
+// in=<input or xml file> 
 // For xml input file containing targets and labels: in=<input file in xml> (for training or testing with evaluation)
 // For raw input file containing only test data: use in=<raw input file>. Format should be one comment per line.
 // outputdir=<output directory>
 // runopt=<train|test|> 
-// modelopt=<ALL_NP, CRF-target, CRF-sentiment, CRF-target+sentiment>
-// modelfile= <model file> if test option
-// binfeat = <string separated list of binary features> (Word,MadamiraPOS,sentiment...)
-// langfiles= <directory with preproduced language files, e.g madamira files
-// inputenc= <utf8ar|bw|latin> 
-// lexicon= <path to lexicon file>
-// -useparse for using existing parse
-// eval = <eval type: exact, subset, norm_match (partial), norm_match_exact ...
+// modelopt=<ALL_NP, CRF-target, CRF-sentiment, CRF-target+sentiment, CRF-pipeline>
+// testfile= <CRF output prediction file> if test or pipeline mode
+// binfeat = <comma separated list of binary features> (Word,MadamiraPOS,Sentiment...)
+// langfiles= <directory with preproduced language files, e.g madamira files>
+// eval = <eval type: subset-overlap| mention-overlap | exact | prop-overlap | overlap>
 // tokopt=<D3 | ATB | none>
 
 import java.util.ArrayList;
