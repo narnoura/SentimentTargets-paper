@@ -62,7 +62,6 @@ public class FileReader {
 			original_text = s.useDelimiter("\\Z").next();
 			s.close();
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		return original_text;
@@ -76,18 +75,7 @@ public class FileReader {
 			BufferedReader br = new BufferedReader(new InputStreamReader(is));
 	        String line;
 	        while ((line = br.readLine()) != null){
-	        	// line = line.trim();
-	        	// If input is in Arabic utf8, convert to BW
-	        	//if( (!line.equals("")) && (!line.startsWith("//"))) {
 	        	text += line;
-	        	/*if( (!line.startsWith("//"))) {
-	        	    if (encoding.equals("utf8ar") || encoding.equals("utf8")) {
-	        	    	line = BuckwalterConverter.ConvertToBuckwalter(line);
-	        	    }
-	        	    if (!skipempty || !line.equals("")) {
-	        		text += line;
-	        	    }
-	        	}*/
 	         }
             is.close();
             return text;
@@ -107,7 +95,6 @@ public class FileReader {
 	            while ((line = br.readLine()) != null){
 	            	line = line.trim();
 	                if ((!line.equals("")) && (!line.startsWith("//"))) {
-	                	// System.out.println(line);
 	                	lines.add(line);
 	                }
 	            }
