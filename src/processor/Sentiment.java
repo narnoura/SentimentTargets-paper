@@ -23,7 +23,6 @@ public class Sentiment {
 	 * Sentiment handling methods
 	 */
 	public Sentiment() {
-		// TODO Auto-generated constructor stub
 	}
 	
 	// Returns sentiment scores in string form for Slsa
@@ -31,8 +30,6 @@ public class Sentiment {
 		LexiconProcessor lp) {
 		
 		HashMap<String, String> sentiment_scores = new HashMap<String,String>();
-		// eventually can use SVM features *(maybe no analysis but can get the lemma
-		// and it's found in the lexicon)
 		if (t.morph_features.containsKey("NO_ANALYSIS")) {
 			sentiment_scores.put("pos", "0.0");
 			sentiment_scores.put("neg", "0.0");
@@ -62,17 +59,11 @@ public class Sentiment {
 			String negative = Double.toString(neg_score);
 			String neutral = Double.toString(neut_score);
 			
-			//System.out.println("positive:" + positive + " negative:"
-			//+ negative + "neutral: " + neutral);
-			
 			sentiment_scores.put("pos", positive);
 			sentiment_scores.put("neg", negative);
-			sentiment_scores.put("neut", neutral);	
-			
+			sentiment_scores.put("neut", neutral);		
 		}
-		
 		return sentiment_scores;
-		
 	}
 	
 	// Returns sentiment polarities from Sifaat
@@ -84,14 +75,9 @@ public class Sentiment {
 		}
 		String lemma = t.morph_features.get("lex");
 		String stripped = lemma;
-		//System.out.println("lemma:" + lemma);
 		stripped = stripped.replaceAll("(\\_)(\\d)+\\z", "");
-		//System.out.println("stripped:" + stripped);
 		if (lp.HasSifaatKey(stripped)) {
 			sentiment =  lp.Sifaat.get(stripped);
-			//System.out.println("Found key!\n");
-			//System.out.println("Lemma:" + stripped);
-			//System.out.println("Sentiment:" + sentiment);
 		}
 		// backs off to look for a word that contains the lemma
 		// If key is not found, 0 will be returned (neutral).
@@ -124,12 +110,6 @@ public class Sentiment {
 		if (t.morph_features.containsKey("NO_ANALYSIS")) {
 			return subj ;
 		} 
-		// CHANGED
-		// clitics get neutral. morph features are same as full
-		// word so gloss will return full word gloss
-		/*else if (!t.clitic.equals("word")) {
-			return subj;
-		}*/
 		else{
 			String english_word = GetMPQAFromGloss(t,lp);
 			if (english_word.equals("na")) {
@@ -149,11 +129,7 @@ public class Sentiment {
 		String pol = "na";
 		if (t.morph_features.containsKey("NO_ANALYSIS")) {
 			return pol ;
-		} // CHANGED
-		// clitics get neutral
-		/*else if (!t.clitic.equals("word")) {
-			return "TOK_POL_neutral";
-		}*/
+		} 
 		else{
 			String english_word = GetMPQAFromGloss(t,lp);
 			if (english_word.equals("na")) {
@@ -253,12 +229,8 @@ public class Sentiment {
 		String gloss = t.morph_features.get("gloss");
 		String[] potentials = gloss.split(";");
 		for (String p : potentials) {
-			//System.out.println("Potential:" + p);
 			if (lp.HasMPQAKey(p)) {
 				MPQA_entry = p;
-				/*System.out.println("Found MPQA gloss!");
-				System.out.println("Word:"+t.text_);
-				System.out.println("Gloss:"+p);*/
 				break;
 			} 
 		} 
@@ -277,57 +249,12 @@ public class Sentiment {
 		String lemma = t.morph_features.get("lex");
 		String stripped = lemma;
 		stripped = stripped.replaceAll("(\\_)(\\d)+\\z", "");
-		//System.out.println("stripped:" + stripped);
 		if (lp.HasSifaatKey(stripped)) {
 			Integer trisent =  lp.Sifaat.get(stripped);
 			if (trisent.equals(1) || trisent.equals(2)) {
 				sentiment = 1;
 			}
-			//System.out.println("Found key!\n");
-			//System.out.println("Lemma:" + stripped);
-			//System.out.println("Sentiment:" + sentiment);
 		}
-		// backs off to look for a word that contains the lemma
-		// If key is not found, 0 will be returned (neutral).
-		// (worth also trying NA)
-		// Sifaat contains many (all?) adjectives (adding iy
-		// to lemmas)
-		//
-		// Any smarter way to do it? e.g somehow get the stem or match
-		// the characters, or edit distance
-		/*else {
-			// First try stem
-			String stem = t.morph_features.get("stem");
-			if (lp.HasSifaatKey(stem)) {
-				Integer trisent =  lp.Sifaat.get(stem);
-				System.out.println("\nStem Backoff: found stem!");
-				System.out.println("Lemma:" + stripped);
-				System.out.println("Key:" + stem);
-				System.out.println("Sentiment:" + trisent);
-				if (trisent.equals(1) || trisent.equals(2)) {
-					sentiment = 1;
-				}
-			}*/
-		
-			// Next try substring matching
-			/*else {
-			for (String key : lp.Sifaat.keySet()) { // or and key ends with y~ and stripped doesn't
-				if ((key.contains(stripped) || stripped.contains(key)) &&
-						stripped.length() >= 4 && key.length() >= 4) {
-					Integer trisent = lp.Sifaat.get(key);
-					if (trisent.equals(1) || trisent.equals(2)) {
-						sentiment = 1;
-					}
-					/*System.out.println("\nBackoff: found key!");
-					System.out.println("Lemma:" + stripped + " Length: " + stripped.length());
-					System.out.println("Key:" + key + " Length: " + key.length() );
-					System.out.println("Sentiment:" + trisent);
-					
-					break;
-				}
-			}
-		}
-		}*/
 		return sentiment;
 	}
 	
@@ -363,17 +290,12 @@ public class Sentiment {
 				String negative = Double.toString(neg_score);
 				String neutral = Double.toString(neut_score);
 				
-				//System.out.println("positive:" + positive + " negative:"
-				//+ negative + "neutral: " + neutral);
-				
 				sentiment_scores.put("pos", positive);
 				sentiment_scores.put("neg", negative);
 				sentiment_scores.put("neut", neutral);	
 				
 			}
-			
 			return sentiment_scores;
-			
 		}
 		
 	
@@ -404,7 +326,6 @@ public class Sentiment {
 			binary_sentiment.put("pos", "poszero");
 			binary_sentiment.put("neg", "negzero");
 		}
-		// can also check ArSenL
 		else {
 			double pos_score = lp.SlsaPositiveScore(lemma, pos);
 			double neg_score = lp.SlsaNegativeScore(lemma, pos);
@@ -452,15 +373,6 @@ public class Sentiment {
 			return binary_sentiment;
 		}
 		String lemma = t.morph_features.get("lex");
-		//String pos = t.morph_features.get("pos");
-		
-		//pos = Tokenizer.ResolvePOS(pos);
-		
-		/*if (pos.equals("STOP") || pos.equals("NEG")) {
-			binary_sentiment.put("pos", "poszero");
-			binary_sentiment.put("neg", "negzero");
-			return binary_sentiment;
-		}*/
 		if (!lp.HasArsenlKey(lemma)) {
 			binary_sentiment.put("pos", "poszero");
 			binary_sentiment.put("neg", "negzero");
@@ -515,12 +427,7 @@ public class Sentiment {
 					String pos = t.morph_features.get("pos");
 					
 					pos = Tokenizer.ResolvePOS(pos);
-					
-					// Try only adjectives instead
-					/*if (pos.equals("STOP") || pos.equals("NEG")) {
-						return "sentlow";
-					}*/
-					
+				
 					if (!pos.equals("ADJ")) {
 						return "sentlow";
 					}
@@ -528,7 +435,6 @@ public class Sentiment {
 					if (!lp.HasSlsaKey(lemma,pos)) {
 						return "sentlow";
 					}
-					// can also check ArSenL
 					else {
 						double pos_score = lp.SlsaPositiveScore(lemma, pos);
 						double neg_score = lp.SlsaNegativeScore(lemma, pos);
@@ -557,17 +463,7 @@ public class Sentiment {
 				return "sentlow";
 			}
 			String lemma = t.morph_features.get("lex");
-			// String pos = t.morph_features.get("pos");
-			
-			/*pos = Tokenizer.ResolvePOS(pos);
-			
-			if (pos.equals("STOP") || pos.equals("NEG")) {
-				return "sentlow";
-			} */
-			
-			//System.out.println("Lemma:"+lemma);
 			if (!lp.HasArsenlKey(lemma)) {
-				//System.out.println("No Arsenl key!");
 				return "sentlow";
 			}
 		
@@ -589,8 +485,6 @@ public class Sentiment {
 		return binary_sentiment;
 			
 	}
-	
-	
 	
 	// Returns the category sentiment (positive or negative)
 	// of a single token based on its lexicon score
@@ -631,8 +525,6 @@ public class Sentiment {
 		else {
 			return "neutral";
 		}
-		
-		
 	}
 	
 	
@@ -664,6 +556,7 @@ public class Sentiment {
 					double this_neg = lp.SlsaNegativeScore(lemma, pos);
 					double this_neut = (1- this_pos- this_neg);
 					
+					// does not improve
 					/*if (Constants.MY_BW_NEGATIONS.contains(previous_text)) {
 						double temp = this_pos;
 						this_pos = this_neg;
@@ -693,8 +586,6 @@ public class Sentiment {
 	
 	public static String GetTokensCategorySentiment (List<Token> tokens, LexiconProcessor lp, double threshold) {
 		 Double[] scores = GetTokensSentiment(tokens,lp);
-	//Double[] scores = GetSelectiveTokensSentiment(tokens,lp, threshold);
-
 		double pos_score = scores[0];
 		double neg_score = scores[1];
 	
@@ -737,11 +628,7 @@ public static String GetTokensSentimentSifaat (List<Token> tokens, LexiconProces
 			} else {
 				num_neut +=1;
 			}
-			
-			/*System.out.println("Number of positive tokens:" + num_pos);
-			System.out.println("Number of negative tokens:" + num_neg);
-			System.out.println("Number of neutral tokens:" + num_neut);*/
-			
+		
 			if (num_pos > num_neg) {
 				return "positive";
 			} else {
@@ -756,7 +643,7 @@ public static String GetTokensSentimentSifaat (List<Token> tokens, LexiconProces
 	// Only averages the positive/negative score of positive/negative sentiment words
 	// instead of all
 	// Threshold determines whether a word is positive or negative, otherwise it is neutral
-	// If it'qs both positive and negative, the max is taken
+	// If it's both positive and negative, the max is taken
 	public static Double[] GetSelectiveTokensSentiment (List<Token> tokens, LexiconProcessor lp, double threshold) {
 			
 					double avg_pos = 0;
